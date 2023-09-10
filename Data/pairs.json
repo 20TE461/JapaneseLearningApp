@@ -1,0 +1,46 @@
+{
+  "pairs": [
+    {
+      "jp": "日本",
+      "trans": {
+        "vn": "Nhat Ban",
+        "en": "Japan"
+      }
+    },
+    {
+      "jp": "米",
+      "trans": {
+        "vn": "Gao",
+        "en": "Rice"
+      }
+    },
+    {
+      "jp": "太陽",
+      "trans": {
+        "vn": "Mat Troi",
+        "en": "Sun"
+      }
+    },
+    {
+      "jp": "働く",
+      "trans": {
+        "vn": "Lam Viec",
+        "en": "Work"
+      }
+    },
+    {
+      "jp": "会社",
+      "trans": {
+        "vn": "Cong Ty",
+        "en": "Company"
+      }
+    },
+    {
+      "jp": "社会",
+      "trans": {
+        "vn": "Xa Hoi",
+        "en": "Society"
+      }
+    }
+  ]
+}

@@ -50,7 +50,7 @@ function getPairList(jpList, transList) {
 
 const raw = require('../../../Data/pairs.json');
 
-export default function KarutaGameScreen({setGameScreenId}) {
+export default function KarutaGameScreen({setGameScreen}) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [pairList, setPairList] = useState(null);
   const [isReset, setIsReset] = useState(false);
@@ -151,7 +151,7 @@ export default function KarutaGameScreen({setGameScreenId}) {
       <GameFootBar  setIsPlaying={setIsPlaying}
                     isPlaying={isPlaying}
                     setIsReset={setIsReset}
-                    setGameScreenId={setGameScreenId}
+                    setGameScreen={setGameScreen}
                     lang={lang}
                     />
     </View>

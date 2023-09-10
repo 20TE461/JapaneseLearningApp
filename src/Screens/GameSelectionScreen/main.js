@@ -1,18 +1,32 @@
 import { FlatList, Pressable, Text, View } from "react-native";
 import { styles } from "./style";
 import { MaterialCommunityIcons } from '@expo/vector-icons'; 
+import KarutaGameScreen from "../KarutaGameScreen/main";
+import BakudanGameScreen from "../BakudanGameScreen/main";
 
-const screenList = [
-  {id: 1, name: "無限カルタ", backgroundColor: '#ffb703', icon: 'cards'},
-  {id: 2, name: "爆弾ゲーム", backgroundColor: '#222e50', icon: 'bomb'},
-];
+export default function GameSelectionScreen({setGameScreen}) {
 
+  const screenList = [
+    {
+      id: 1, 
+      name: "無限カルタ", 
+      backgroundColor: '#ffb703', 
+      icon: 'cards',
+      screen: <KarutaGameScreen setGameScreen={setGameScreen}/>
+    },
+    {
+      id: 2, 
+      name: "爆弾漢字", 
+      backgroundColor: '#222e50', 
+      icon: 'bomb',
+      screen: <BakudanGameScreen setGameScreen={setGameScreen}/>
+    },
+  ];
 
-export default function GameSelectionScreen({setGameScreenId}) {
   function getScreenRender(itemData) {
     return (
       <Pressable 
-        onPress={setGameScreenId.bind(this, itemData.item.id)}
+        onPress={setGameScreen.bind(this, itemData.item.screen)}
         style={({pressed}) => {
           if(pressed)
             return {

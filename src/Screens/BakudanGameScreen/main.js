@@ -9,7 +9,7 @@ import GameOverScreen from '../GameOverScreen/GameOverScreen';
 
 const kanjiList = require('../../../Data/reading.json');
 
-export default function BakudanGameScreen({setGameScreenId}) {
+export default function BakudanGameScreen({setGameScreen}) {
   const [currentKanji, setCurrentKanji] = useState(getRandomKanji());
   const [userInput, setUserInput] = useState('');
   const [isPlaying, setIsPlaying] = useState(false);
@@ -82,7 +82,7 @@ export default function BakudanGameScreen({setGameScreenId}) {
                     setIsReset={setIsReset}
                     isPlaying={isPlaying}
                     setIsPlaying={setIsPlaying} 
-                    setGameScreenId={setGameScreenId}
+                    setGameScreen={setGameScreen}
                     /> 
     );
   }

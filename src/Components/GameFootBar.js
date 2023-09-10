@@ -2,7 +2,7 @@ import { Alert, StyleSheet, Text, View } from "react-native";
 import { FontAwesome } from '@expo/vector-icons';
 import PrimaryButton from "./PrimaryButton";
 
-export default function GameFootBar({isPlaying, setIsPlaying, setIsReset, lang, setGameScreenId}) {
+export default function GameFootBar({isPlaying, setIsPlaying, setIsReset, lang, setGameScreen}) {
 
   const styles = StyleSheet.create({
     mainContainer: {
@@ -39,7 +39,7 @@ export default function GameFootBar({isPlaying, setIsPlaying, setIsReset, lang, 
     <View style={styles.mainContainer}>
       <FontAwesome  name="home" 
                     style={styles.icon}
-                    onPress={setGameScreenId.bind(this, 0)}
+                    onPress={setGameScreen.bind(this, null)}
                     />
       <FontAwesome  name ={isPlaying ? "pause" : "play"} 
                     style={styles.icon}

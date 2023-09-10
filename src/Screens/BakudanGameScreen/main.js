@@ -1,18 +1,13 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, TextInput, Button, Alert, StyleSheet, Pressable } from 'react-native';
+import { View, Text, TextInput, Pressable } from 'react-native';
 import Timer from '../../Components/Timer';
 import ScoreView from '../../Components/ScoreView';
-import PrimaryButton from '../../Components/PrimaryButton';
 import GameFootBar from '../../Components/GameFootBar';
 import { FontAwesome } from '@expo/vector-icons'; 
 import { styles } from './style';
 import GameOverScreen from '../GameOverScreen/GameOverScreen';
 
-const kanjiList = [
-  { kanji: "愛", reading: "あい" },
-  { kanji: "力", reading: "ちから" },
-  // 他の漢字と読み方のペア
-];
+const kanjiList = require('../../../Data/reading.json');
 
 export default function BakudanGameScreen({setGameScreenId}) {
   const [currentKanji, setCurrentKanji] = useState(getRandomKanji());

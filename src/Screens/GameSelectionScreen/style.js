@@ -5,21 +5,15 @@ export const styles = StyleSheet.create({
     flex: 1,
   },
   title: {
-    fontSize: 30, 
+    fontSize: 25, 
     marginHorizontal: 20, 
     marginTop: 5,
     fontWeight: 'bold',
   },
   screenGrid: {
-    // flex: 1,
+    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#FCFBFC',
-    margin: 10,
-    borderRadius: 10,
-    shadowColor: '#000',
-    shadowOpacity: 0.25,
-    shadowOffset: {width: 2, height: 0},
   },
   screenGridTile: {
     height: 130,

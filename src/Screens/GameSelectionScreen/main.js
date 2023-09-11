@@ -49,7 +49,7 @@ export default function GameSelectionScreen({setGameScreen}) {
 
   return (
     <View style={styles.mainContainer}>
-      <Text style={styles.title}>Game List</Text>
+      <Text style={styles.title}>ゲーム一覧</Text>
       <View style={styles.screenGrid}>
         <FlatList data={screenList}
                   renderItem={getScreenRender}

@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 5,
     shadowColor: 'black',
     shadowOffset: {width: 2, height: 2},
-    shadowOpacity: 0.5,
+    shadowOpacity: 0.25,
   },
   pairContainer: {
     flex: 1,

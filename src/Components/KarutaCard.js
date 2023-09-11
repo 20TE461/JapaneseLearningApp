@@ -15,7 +15,7 @@ export default function KarutaCard({children, isReset, isMatch, isPlaying, isNex
       borderRadius: 5,
       // shadowColor: activating ? 'white':'black',
       shadowColor: '#000',
-      shadowOffset: {width: 3, height: 3},
+      shadowOffset: {width: 0, height: 2},
       shadowOpacity: 0.25,
     },
     text: {

@@ -1,10 +1,12 @@
 import { FlatList, Pressable, Text, View } from "react-native";
+import { useState } from "react";
 import { styles } from "./style";
 import { MaterialCommunityIcons } from '@expo/vector-icons'; 
 import KarutaGameScreen from "../KarutaGameScreen/main";
 import BakudanGameScreen from "../BakudanGameScreen/main";
 
-export default function GameSelectionScreen({setGameScreen}) {
+export default function GameSelectionScreen({}) {
+  const [gameScreen, setGameScreen] = useState(null);
 
   const screenList = [
     {
@@ -46,10 +48,8 @@ export default function GameSelectionScreen({setGameScreen}) {
       </Pressable>
     );
   }
-
-  return (
+  const defaultScreen = (
     <View style={styles.mainContainer}>
-      <Text style={styles.title}>ゲーム一覧</Text>
       <View style={styles.screenGrid}>
         <FlatList data={screenList}
                   renderItem={getScreenRender}
@@ -58,4 +58,6 @@ export default function GameSelectionScreen({setGameScreen}) {
       </View>
     </View>
   );
+
+  return gameScreen ? gameScreen : defaultScreen;
 }

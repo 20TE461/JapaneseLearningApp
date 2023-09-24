@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-evenly',
     backgroundColor: '#8ecae6',
     margin: 10,
-    paddingVertical: 15,
+    paddingVertical: 10,
     paddingHorizontal: 5,
     borderRadius: 10
   },

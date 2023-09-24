@@ -41,11 +41,11 @@ export default function ScoreView({isPlus, isReset, score, setScore}) {
 
 const styles = StyleSheet.create({
   mainContainer: {
-    padding: 15,
+    padding: 5,
     backgroundColor: 'white',
     justifyContent: 'center',
     borderRadius: 10,
-    width: '40%',
+    width: '30%',
   },
   scoreText: {
     textAlign:'center',

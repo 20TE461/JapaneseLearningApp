@@ -25,7 +25,7 @@ export default function BakudanGameScreen({setGameScreen}) {
   useEffect(() => {
     if(isPlaying) {
       const timer = setInterval(() => {
-        setFontSize(prevSize => prevSize + 0.5); // ここでフォントサイズを増加
+        setFontSize(prevSize => prevSize + 0.45); // ここでフォントサイズを増加
       }, 100);
 
       return () => {
@@ -104,7 +104,8 @@ export default function BakudanGameScreen({setGameScreen}) {
       {getHeaderRender()}
       <View style={styles.gameView}>
         <View style={styles.kanjiContainer}>
-        <Timer  fontStyle={styles.timerText}
+          <View></View>
+          <Timer  fontStyle={styles.timerText}
                 timeSpan={timeLimit}
                 stop={!isPlaying}
                 isReset={isReset || isNext}

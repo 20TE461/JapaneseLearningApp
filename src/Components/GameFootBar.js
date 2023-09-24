@@ -11,7 +11,7 @@ export default function GameFootBar({isPlaying, setIsPlaying, setIsReset, lang, 
       flexDirection: 'row',
       justifyContent: 'space-evenly',
       alignItems: 'center',
-      paddingVertical: 20,
+      paddingVertical: 10,
       shadowColor: '#000',
       shadowOffset: {width: 2, height: 2}, 
       shadowOpacity: 0.5,
@@ -19,7 +19,7 @@ export default function GameFootBar({isPlaying, setIsPlaying, setIsReset, lang, 
       borderRadius: 20,
     },
     icon: {
-      fontSize: 30,
+      fontSize: 25,
       color: 'black',
       // marginRight: 20
     }

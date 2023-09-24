@@ -1,0 +1,37 @@
+{
+  "jisho": [
+    {
+      "id": 1,
+      "kanji": "日本",
+      "hatsuon": "にほん",
+      "honyaku": {
+        "vn": "/Nhật Bản"
+      },
+      "setsumei": {
+        "vn": "Một đất nước ở đông á"
+      }
+    },
+    {
+      "id": 2,
+      "kanji": "日",
+      "hatsuon": "にち",
+      "honyaku": {
+        "vn": "/Ngày"
+      },
+      "setsumei": {
+        "vn": ""
+      }
+    },
+    {
+      "id": 3,
+      "kanji": "二",
+      "hatsuon": "に",
+      "honyaku": {
+        "vn": "/Số Hai"
+      },
+      "setsumei": {
+        "vn": ""
+      }
+    }
+  ]
+}

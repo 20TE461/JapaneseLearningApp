@@ -25,7 +25,7 @@ export default function BakudanGameScreen({setGameScreen}) {
   useEffect(() => {
     if(isPlaying) {
       const timer = setInterval(() => {
-        setFontSize(prevSize => prevSize + 0.45); // ここでフォントサイズを増加
+        setFontSize(prevSize => prevSize + 0.5); // ここでフォントサイズを増加
       }, 100);
 
       return () => {
@@ -66,12 +66,25 @@ export default function BakudanGameScreen({setGameScreen}) {
 
   function getHeaderRender() {
     return (
-      <View style={styles.header}>
-        <ScoreView  isPlus={isPlus}
-                    isReset={isReset}
-                    score={score}
-                    setScore={setScore}
-                    />
+      <View style={styles.kanjiContainerHeader}>
+        <View style = {{flexDirection: 'row', alignItems: 'center'}}>
+          <FontAwesome name = "clock-o" size={25} color='#fff'/>
+          <Timer  timeSpan={timeLimit}
+                  stop={!isPlaying}
+                  isReset={isReset || isNext}
+                  setIsOver={setIsOver}
+                  style={styles.timerView}
+                  />
+        </View>
+        <View style={{flexDirection: 'row', alignItems: 'center'}}>
+          <ScoreView  isPlus={isPlus}
+                      isReset={isReset}
+                      score={score}
+                      setScore={setScore}
+                      style={styles.scoreView}
+                      />
+          <Text style={{color: '#fff', fontWeight: 'bold', fontSize: 17}}>点</Text>
+        </View>
       </View>
     );
   }
@@ -101,31 +114,29 @@ export default function BakudanGameScreen({setGameScreen}) {
                     /> 
     :
     <View style={styles.mainContainer}>
-      {getHeaderRender()}
       <View style={styles.gameView}>
         <View style={styles.kanjiContainer}>
-          <View></View>
-          <Timer  fontStyle={styles.timerText}
-                timeSpan={timeLimit}
-                stop={!isPlaying}
-                isReset={isReset || isNext}
-                setIsOver={setIsOver}
-                />
-          <Text style={{...styles.kanjiText, fontSize: fontSize}}>
-            {isPlaying ? currentKanji.kanji:null}
-          </Text>
+          {getHeaderRender()}
+          <View style= {styles.kanjiContainerBody}>
+            <Text style={{...styles.kanjiText, fontSize: fontSize}}>
+              {isPlaying ? currentKanji.kanji:null}
+            </Text>
+          </View>
         </View>
         {<View style={{flex:1}}>
-          <TextInput  value={userInput} 
-                      onChangeText={text => setUserInput(text)} 
-                      placeholder="読み方を入力せよ！"
-                      style={styles.input}
-                      />
+          <View style={styles.inputContainer}>
+            <FontAwesome name = "pencil" size={20} color="#000"/>
+            <TextInput  value={userInput} 
+                        onChangeText={text => setUserInput(text)} 
+                        placeholder="読み方を入力せよ！"
+                        style={styles.input}
+                        />
+          </View>
           <View style={styles.buttonContainer}>
             <Pressable  
               style={({pressed})=>{
                 if(pressed)
-                  return {...styles.answerButton, backgroundColor: "#e3242b", opacity: 0.75};
+                  return {...styles.answerButton, backgroundColor: "#e3242b", opacity: 0.5};
                 else 
                   return {...styles.answerButton, backgroundColor: "#e3242b"};
                 }}
@@ -136,7 +147,7 @@ export default function BakudanGameScreen({setGameScreen}) {
             <Pressable  
               style={({pressed})=>{
                 if(pressed)
-                  return {...styles.answerButton, backgroundColor: "#03c04a", opacity: 0.75};
+                  return {...styles.answerButton, backgroundColor: "#03c04a", opacity: 0.5};
                 else 
                   return {...styles.answerButton, backgroundColor: "#03c04a"};
                 }}

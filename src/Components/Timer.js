@@ -7,9 +7,10 @@ function getTimeLimit(secondSpan) {
   return seconds < 10 ? `${minutes}:0${seconds}` : `${minutes}:${seconds}`;
 }
 
-export default function Timer({stop, timeSpan, isReset, setIsOver}) {
+export default function Timer({stop, timeSpan, isReset, setIsOver, style}) {
   const [timeLimit, setTimeLimit] = useState(timeSpan);
   const timeRef = useRef(timeLimit);
+  const styles = style ? style : defaultStyles;
 
   useEffect(() => {
     const timerId = stop ? null : setInterval(() => {
@@ -45,7 +46,7 @@ export default function Timer({stop, timeSpan, isReset, setIsOver}) {
   );
 }
 
-const styles = StyleSheet.create({
+const defaultStyles = StyleSheet.create({
   timer: {
     justifyContent: 'center',
     backgroundColor: 'white',

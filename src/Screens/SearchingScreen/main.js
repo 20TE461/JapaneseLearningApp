@@ -1,14 +1,16 @@
-import { useState } from 'react';
-import { View, TextInput, Text, Pressable, Button } from 'react-native';
+import { useContext, useState } from 'react';
+import { View, TextInput, Text, Pressable} from 'react-native';
 import { styles } from './styles';
 import { FontAwesome, AntDesign } from '@expo/vector-icons'; 
 import { FlatList } from 'react-native';
+import { FavoriteCtx } from '../../Store/context/favorite-context';
 
 const dictionary = require('../../../Data/dictionary.json');
 
 export default function SearchingScreen({navigation, lang}) {
 
   const [searchInput, setSearchInput] = useState(null);
+  const favoriteWordIds = useContext(FavoriteCtx).favoriteWordIds;
 
   function sortByKanjiLength(array) {
     return array.sort((left,right)=>{
@@ -22,7 +24,7 @@ export default function SearchingScreen({navigation, lang}) {
   }
 
   function navigateHandler(params) {
-    navigation.navigate('InfoScreen', {...params, lang:lang});
+    navigation.navigate('TangoInfoScreen', {...params, lang:lang});
   }
 
   function getOutputRender(itemData) {
@@ -45,7 +47,12 @@ export default function SearchingScreen({navigation, lang}) {
             }}>
             <Text style={styles.outputTile.kanjiText}>{itemData.item.kanji}</Text>
             <Text style={styles.outputTile.honyakuText}> - {itemData.item.honyaku[lang]}</Text>
-            {/* <FontAwesome name = "star" style={styles.outputTile.noteIcon}/> */}
+            {
+              favoriteWordIds.includes(itemData.item.id) ?
+              <FontAwesome name = "star" style={styles.outputTile.noteIcon}/>
+              :
+              null
+            }
           </View>
           <AntDesign name="right" style={styles.outputTile.detailIcon}/>
         </View>

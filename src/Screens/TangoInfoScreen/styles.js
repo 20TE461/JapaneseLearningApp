@@ -11,8 +11,8 @@ export const styles = StyleSheet.create({
     borderColor: '#bebebe',
     borderBottomWidth: 1,
     marginHorizontal: 10,
-    paddingTop: 10,
-    paddingBottom: 20,
+    alignItems: 'center',
+    paddingVertical: 10,
   },
   headInfoMainContainer: {
     flex: 1,
@@ -20,16 +20,10 @@ export const styles = StyleSheet.create({
   },
   kanjiContainer: {
     alignItems: 'center',
-    backgroundColor: '#fff1d7',
-    shadowColor: '#000',
-    shadowOffset: {height: 2, width: 2},
-    shadowOpacity: 0.25,
-    borderRadius: 10,
-    paddingHorizontal: 30,
-    paddingVertical: 20
+    justifyContent: 'center',
+    backgroundColor: '#fff',
   },
   headInfoInnerContainer: {
-    // flex: 1,
     marginBottom: 8,
   },
   setsumeiContainer: {
@@ -41,14 +35,14 @@ export const styles = StyleSheet.create({
   honyakuText: {
     fontSize: 18,
     marginVertical: 5,
-    color: 'blue',
+    color: 'blue'
   },
   setsumeiText: {
     fontSize: 18,
-    marginHorizontal: 10
   },
   kanjiText: {
-    fontSize: 40,
+    fontSize: 30,
     fontWeight: 'bold',
+    color: '#ce2029'
   },
 });

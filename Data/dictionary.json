@@ -9,7 +9,8 @@
       },
       "setsumei": {
         "vn": "Một đất nước ở đông á"
-      }
+      },
+      "isFavorite": true 
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
       },
       "setsumei": {
         "vn": ""
-      }
+      },
+      "isFavorite": true
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
       },
       "setsumei": {
         "vn": ""
-      }
+      },
+      "isFavorite": false
     }
   ]
 }

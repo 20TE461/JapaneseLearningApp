@@ -46,6 +46,7 @@ export default function App() {
             headerStyle: {
               backgroundColor: '#59788e',
             },
+            headerRight: LangButton.bind(this,styles.langButton),
           }}
           drawerContent={CustomDrawerContent}
           >
@@ -53,7 +54,6 @@ export default function App() {
                           options={{
                             title: "辞書",
                             drawerLabel: "辞書",
-                            headerRight: LangButton.bind(this,styles.langButton),
                             drawerIcon: ({color,size}) => (
                               <FontAwesome name="book" color={color} size={size}/>
                             )}}
@@ -61,14 +61,15 @@ export default function App() {
           {({navigation}) => <SearchingScreen lang={lang} navigation={navigation}/>}
           </Drawer.Screen>
           <Drawer.Screen  name = "FavoriteList"
-                          component = {FavoriteListScreen}
                           options = {{
                             title: "お気に入り",
                             drawerLabel: "お気に入り", 
                             drawerIcon: ({color,size}) => (
                               <FontAwesome name="star" color={color} size={size}/>
                             )}}
-                          />
+                          >
+          {({navigation}) => <FavoriteListScreen lang={lang} navigation={navigation}/>}
+          </Drawer.Screen>
           <Drawer.Screen  name = "GameList" 
                           component={GameSelectionScreen}
                           options={{
@@ -112,7 +113,7 @@ export default function App() {
                       >
           {DrawerNavigator}
         </Stack.Screen>
-        <Stack.Screen name = "InfoScreen" component={TangoInfoScreen}
+        <Stack.Screen name = "TangoInfoScreen" component={TangoInfoScreen}
                       options={{
                         title: "詳細",
                         headerRight: SetFavoriteButton

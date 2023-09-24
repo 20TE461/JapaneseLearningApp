@@ -6,7 +6,7 @@ import SetFavoriteButton from './SetFavoriteButton';
 function getSetsumei(naiyou) {
   return (
     <View style={styles.setsumeiContainer}>
-      <Text style={styles.setsumeiText}>{"<説明>\n"}  {naiyou}</Text>
+      <Text style={styles.setsumeiText}>{"<説明>\n"}{naiyou}</Text>
     </View>
   );
 }
@@ -29,7 +29,7 @@ export default function TangoInfoScreen({route, navigation}) {
     <View style = {styles.headContainer}>
       <View style = {styles.kanjiContainer}>
         <Text style={styles.kanjiText}>{params.kanji}</Text>
-        <Text style={{fontSize: 20}}>[{params.hatsuon}]</Text>
+        <Text style={{fontSize: 18, color: 'green'}}>[{params.hatsuon}]</Text>
       </View>
       <View style = {styles.headInfoMainContainer}>
         <View style={styles.headInfoInnerContainer}>

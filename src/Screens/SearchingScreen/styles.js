@@ -61,7 +61,8 @@ export const styles = StyleSheet.create({
     noteIcon: {
       fontSize: 20,
       color: 'gold',
-      margin: 10
-    }
+      margin: 10,
+      alignSelf: 'flex-end'
+    },
   },
 })

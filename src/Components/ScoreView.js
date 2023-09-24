@@ -12,7 +12,7 @@ function getScore(score) {
     return `${score}`;
 }
 
-export default function ScoreView({isPlus, isReset, score, setScore}) {
+export default function ScoreView({isPlus, isReset, score, setScore, style}) {
 
   useEffect(
     () => {
@@ -30,6 +30,8 @@ export default function ScoreView({isPlus, isReset, score, setScore}) {
     },[isReset]
   );
 
+  const styles = style ? style : defaultStyles;
+
   return (
     <View style={styles.mainContainer}>
       <Text style = {styles.scoreText}>
@@ -39,7 +41,7 @@ export default function ScoreView({isPlus, isReset, score, setScore}) {
   );
 }
 
-const styles = StyleSheet.create({
+const defaultStyles = StyleSheet.create({
   mainContainer: {
     padding: 5,
     backgroundColor: 'white',

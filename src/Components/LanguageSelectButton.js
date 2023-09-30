@@ -20,6 +20,7 @@ export default function LanguageSelectButton({lang, setLang, customStyles}) {
       onChange={(item)=>{
         setLang(item.label);
       }}
+      iconColor="#FFF"
       />
   );
 }
@@ -27,7 +28,7 @@ export default function LanguageSelectButton({lang, setLang, customStyles}) {
 const defaultStyles = StyleSheet.create({
   mainContainer: {
     justifyContent: 'center',
-    backgroundColor: 'white',
+    backgroundColor: '#FFF',
     borderRadius: 10,
     marginVertical: 5,
     width: '25%',

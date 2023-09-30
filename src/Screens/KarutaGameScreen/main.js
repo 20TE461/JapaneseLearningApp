@@ -1,10 +1,10 @@
-import { View, FlatList } from "react-native"
-import { styles } from "./style";
-import KarutaGameHeaderBar from "../../Components/KarutaGameHeaderBar";
-import GameFootBar from "../../Components/GameFootBar";
-import { useState, useEffect } from "react";
 import KarutaCard from "../../Components/KarutaCard";
+import { styles } from "./style";
+import KarutaGameFootBar from "../../Components/KarutaGameFootBar";
 import GameOverScreen from "../GameOverScreen/GameOverScreen";
+import { View, FlatList, Text } from "react-native"
+import KarutaGameHeaderBar from "../../Components/KarutaGameHeaderBar";
+import { useState, useEffect } from "react";
 
 function getJpWordList(pairs) {
   let holder = [];
@@ -50,14 +50,13 @@ function getPairList(jpList, transList) {
 
 const raw = require('../../../Data/pairs.json');
 
-export default function KarutaGameScreen({setGameScreen}) {
+export default function KarutaGameScreen({setGameScreen, lang}) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [pairList, setPairList] = useState(null);
   const [isReset, setIsReset] = useState(false);
   const [isNext, setIsNext] = useState(false);
   const [isPlus, setIsPlus] = useState(false);
   const [stagingCard, setStagingCard] = useState(null);
-  const [lang, setLang] = useState();
   const [isOver, setIsOver] = useState(false);
   const [score, setScore] = useState(0)
 
@@ -101,14 +100,15 @@ export default function KarutaGameScreen({setGameScreen}) {
                     isReset={isReset}
                     isPlaying={isPlaying}
                     isNext={isNext}
-
-          >{isPlaying ? itemData.item.jp.phrase:null}</KarutaCard>
+                    >
+          {isPlaying ? itemData.item.jp.phrase:null}</KarutaCard>
 
         <KarutaCard isMatch={getMatch.bind(this, itemData.item.trans)}
                     isReset={isReset}
                     isPlaying={isPlaying}
                     isNext={isNext}
-          >{isPlaying ? itemData.item.trans.phrase : null}</KarutaCard>
+                    >
+          {isPlaying ? itemData.item.trans.phrase : null}</KarutaCard>
       </View>
     );
   }
@@ -127,33 +127,29 @@ export default function KarutaGameScreen({setGameScreen}) {
     /> 
     :
     <View style={styles.mainContainer}>
-      {/* Header */}
-      <KarutaGameHeaderBar  isPlaying={isPlaying}
-                            timeLimit={timeLimit}
-                            isReset={isReset}
-                            lang={lang}
-                            setLang={setLang}
-                            plus={isPlus}
-                            setIsOver={setIsOver} 
-                            score={score}
-                            setScore={setScore}
-                            /> 
-
-      {/* Body */}
       <View style={styles.body}>
+        {/* Header */}
+        <KarutaGameHeaderBar  isPlaying={isPlaying}
+                              timeLimit={timeLimit}
+                              isReset={isReset}
+                              plus={isPlus}
+                              setIsOver={setIsOver} 
+                              score={score}
+                              setScore={setScore}
+                              /> 
+        {/* Body */}
         <FlatList data={pairList}
                   renderItem={getPairRender}
                   />  
-                  
+        {/* Footer */}
+        <KarutaGameFootBar  setIsPlaying={setIsPlaying}
+                      isPlaying={isPlaying}
+                      setIsReset={setIsReset}
+                      setGameScreen={setGameScreen}
+                      lang={lang}
+                      />
       </View>
 
-      {/* Footer */}
-      <GameFootBar  setIsPlaying={setIsPlaying}
-                    isPlaying={isPlaying}
-                    setIsReset={setIsReset}
-                    setGameScreen={setGameScreen}
-                    lang={lang}
-                    />
     </View>
   );
 }

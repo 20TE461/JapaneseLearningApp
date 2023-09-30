@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, Pressable } from 'react-native';
 import Timer from '../../Components/Timer';
 import ScoreView from '../../Components/ScoreView';
-import GameFootBar from '../../Components/GameFootBar';
+import BakudanGameFootBar from '../../Components/BakudanGameFootBar';
 import { FontAwesome } from '@expo/vector-icons'; 
 import { styles } from './style';
 import GameOverScreen from '../GameOverScreen/GameOverScreen';
@@ -83,7 +83,6 @@ export default function BakudanGameScreen({setGameScreen}) {
                       setScore={setScore}
                       style={styles.scoreView}
                       />
-          <Text style={{color: '#fff', fontWeight: 'bold', fontSize: 17}}>点</Text>
         </View>
       </View>
     );
@@ -91,7 +90,7 @@ export default function BakudanGameScreen({setGameScreen}) {
 
   function getFooterRender() {
     return (
-      <GameFootBar  lang={null}
+      <BakudanGameFootBar  lang={null}
                     setIsReset={setIsReset}
                     isPlaying={isPlaying}
                     setIsPlaying={setIsPlaying} 
@@ -130,6 +129,8 @@ export default function BakudanGameScreen({setGameScreen}) {
                         onChangeText={text => setUserInput(text)} 
                         placeholder="読み方を入力せよ！"
                         style={styles.input}
+                        onSubmitEditing={checkAnswer}
+                        blurOnSubmit={userInput ? false:true}
                         />
           </View>
           <View style={styles.buttonContainer}>

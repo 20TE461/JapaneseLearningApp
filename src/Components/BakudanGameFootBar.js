@@ -2,26 +2,18 @@ import { Alert, StyleSheet, Text, View } from "react-native";
 import { FontAwesome } from '@expo/vector-icons';
 import PrimaryButton from "./PrimaryButton";
 
-export default function GameFootBar({isPlaying, setIsPlaying, setIsReset, lang, setGameScreen}) {
+export default function BakudanGameFootBar({isPlaying, setIsPlaying, setIsReset, lang, setGameScreen}) {
 
   const styles = StyleSheet.create({
     mainContainer: {
-      marginHorizontal: 20,
-      marginVertical: 10,
       flexDirection: 'row',
       justifyContent: 'space-evenly',
       alignItems: 'center',
-      paddingVertical: 10,
-      shadowColor: '#000',
-      shadowOffset: {width: 2, height: 2}, 
-      shadowOpacity: 0.5,
-      backgroundColor: 'white',
-      borderRadius: 20,
+      paddingBottom: 20,
     },
     icon: {
-      fontSize: 25,
-      color: 'black',
-      // marginRight: 20
+      fontSize: 30,
+      color: '#000',
     }
   })
 

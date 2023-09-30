@@ -1,29 +1,28 @@
 import { StyleSheet, View } from "react-native";
 import Timer from "./Timer";
 import ScoreView from "./ScoreView";
-import LanguageSelectButton from "./LanguageSelectButton";
+import { FontAwesome } from '@expo/vector-icons'
 
 export default function KarutaGameHeaderBar(
-  {isPlaying, timeLimit, isReset, lang, setLang, plus, setIsOver, score, setScore}) {
+  {isPlaying, timeLimit, isReset, plus, setIsOver, score, setScore}) {
   return (
     <View style={styles.mainContainer}>
-      <Timer  style={styles.timer} 
-              fontStyle={styles.timerText}
-              timeSpan={timeLimit}
-              stop={!isPlaying}
-              isReset={isReset}
-              setIsOver={setIsOver}
-              />
+      <View style={styles.timerContainer}>
+        <FontAwesome name = "clock-o" size={25} color='#fff'/>
+        <Timer  style={styles.timer} 
+                fontStyle={styles.timerText}
+                timeSpan={timeLimit}
+                stop={!isPlaying}
+                isReset={isReset}
+                setIsOver={setIsOver}
+                />
+      </View>
       <ScoreView  style={styles.scoreContainer}
                   isPlus={plus}
                   isReset={isReset}
                   score={score}
                   setScore={setScore}
                 />
-      <LanguageSelectButton style={styles.languageButton}
-                            lang={lang}
-                            setLang={setLang}
-                            />
     </View>
   );
 }
@@ -32,11 +31,38 @@ export default function KarutaGameHeaderBar(
 const styles = StyleSheet.create({
   mainContainer: {
     flexDirection: 'row',
-    justifyContent: 'space-evenly',
-    backgroundColor: '#8ecae6',
-    margin: 10,
-    paddingVertical: 10,
-    paddingHorizontal: 5,
-    borderRadius: 10
+    justifyContent: 'space-between',
   },
+  timerContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginLeft: 10,
+  },
+  timer: {
+    timer: {
+      justifyContent: 'center',
+      width: '25%',
+      marginVertical: 5,
+    },
+    timerText: {
+      textAlign:'center',
+      fontWeight: 'bold',
+      fontSize: 20,
+      color: "#FFF",
+    },
+  },
+  scoreContainer: {
+    mainContainer: {
+      padding: 5,
+      justifyContent: 'center',
+      width: '30%',
+    },
+    scoreText: {
+      textAlign:'center',
+      fontWeight: 'bold',
+      fontSize: 20,
+      color: '#FFF'
+    },
+  }
 })

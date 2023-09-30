@@ -1,7 +1,10 @@
 import { View, Text, ScrollView } from 'react-native';
 import { styles } from './styles';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import SetFavoriteButton from './SetFavoriteButton';
+import { FontAwesome } from '@expo/vector-icons'
+import TangoMemoScreen from './TangoMemoScreen';
+import MemoCtxProvider from '../../Store/context/memo-context';
 
 function getSetsumei(naiyou) {
   return (
@@ -12,6 +15,7 @@ function getSetsumei(naiyou) {
 }
 
 export default function TangoInfoScreen({route, navigation}) {
+  const [showMemo, setShowMemo] = useState(false);
   const params = route.params;
   const lang = params.lang;
 
@@ -22,22 +26,29 @@ export default function TangoInfoScreen({route, navigation}) {
   },[navigation]);
   
   return (
+    <MemoCtxProvider>
     <ScrollView style={styles.mainContainer}
                 showsHorizontalScrollIndicator={false}
                 showsVerticalScrollIndicator={false}
                 >
-    <View style = {styles.headContainer}>
-      <View style = {styles.kanjiContainer}>
-        <Text style={styles.kanjiText}>{params.kanji}</Text>
-        <Text style={{fontSize: 18, color: 'green'}}>[{params.hatsuon}]</Text>
-      </View>
-      <View style = {styles.headInfoMainContainer}>
-        <View style={styles.headInfoInnerContainer}>
-          <Text style={styles.honyakuText}>{params.honyaku[lang]}</Text>
+      <View style = {styles.headContainer}>
+        <View style = {styles.kanjiContainer}>
+          <Text style={styles.kanjiText}>{params.kanji}</Text>
+          <Text style={{fontSize: 18, color: 'green'}}>[{params.hatsuon}]</Text>
         </View>
+        <View style = {styles.headInfoMainContainer}>
+          <View style={styles.headInfoInnerContainer}>
+            <Text style={styles.honyakuText}>{params.honyaku[lang]}</Text>
+          </View>
+        </View>
+        <FontAwesome name={'pencil-square-o'} 
+                     size={25}
+                     onPress={setShowMemo.bind(this,true)}
+                    />
       </View>
-    </View>
+      <TangoMemoScreen isShow={showMemo} setIsShow={setShowMemo} tangoId={params.id}/>
     {params.setsumei[lang] ? getSetsumei(params.setsumei[lang]):null}
     </ScrollView>
+    </MemoCtxProvider>
   );
 }

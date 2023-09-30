@@ -48,20 +48,22 @@ export default function KarutaCard({children, isReset, isMatch, isPlaying, isNex
   },[isNext])
 
   return (
-    <Pressable  onPress={()=>{setActive(true)
-                              isMatch() ? setActiveColor('green'):setActiveColor('red')
-                            }}
-                disabled={activating || !isPlaying}
-                style={
-                  ({pressed}) => {
-                    if (pressed) {
-                      return [styles.onPress, styles.cardContainer]
-                    }
-                    else {
-                      return styles.cardContainer;
-                    }
-                  }
-                }>
+    <Pressable  
+      onPress={()=>{
+        setActive(true);
+        isMatch() ? setActiveColor('green'):setActiveColor('red');
+      }}
+      disabled={activating || !isPlaying}
+      style={
+        ({pressed}) => {
+          if (pressed) {
+            return [styles.onPress, styles.cardContainer]
+          }
+          else {
+            return styles.cardContainer;
+          }
+        }
+      }>
       <Text style={styles.text}>{children}</Text>
     </Pressable>
   );

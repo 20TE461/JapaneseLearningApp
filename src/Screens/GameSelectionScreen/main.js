@@ -5,21 +5,21 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 import KarutaGameScreen from "../KarutaGameScreen/main";
 import BakudanGameScreen from "../BakudanGameScreen/main";
 
-export default function GameSelectionScreen({}) {
+export default function GameSelectionScreen({lang}) {
   const [gameScreen, setGameScreen] = useState(null);
 
   const screenList = [
     {
       id: 1, 
       name: "無限カルタ", 
-      backgroundColor: '#ffb703', 
+      backgroundColor: '#F28500', 
       icon: 'cards',
-      screen: <KarutaGameScreen setGameScreen={setGameScreen}/>
+      screen: <KarutaGameScreen setGameScreen={setGameScreen} lang={lang}/>
     },
     {
       id: 2, 
       name: "爆弾漢字", 
-      backgroundColor: '#222e50', 
+      backgroundColor: '#222E50', 
       icon: 'bomb',
       screen: <BakudanGameScreen setGameScreen={setGameScreen}/>
     },

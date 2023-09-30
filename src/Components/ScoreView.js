@@ -35,7 +35,7 @@ export default function ScoreView({isPlus, isReset, score, setScore, style}) {
   return (
     <View style={styles.mainContainer}>
       <Text style = {styles.scoreText}>
-        {getScore(score)}
+        {getScore(score)+"点"}
       </Text>
     </View>
   );

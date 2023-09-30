@@ -13,6 +13,7 @@ import SetFavoriteButton from './src/Screens/TangoInfoScreen/SetFavoriteButton';
 import LanguageSelectButton from './src/Components/LanguageSelectButton';
 import FavoriteCtxProvider from './src/Store/context/favorite-context';
 import FavoriteListScreen from './src/Screens/FavoriteListScreen/main';
+import LanguageCtxProvider from './src/Store/context/language-context';
 
 const Drawer = createDrawerNavigator();
 const Stack = createNativeStackNavigator();
@@ -38,48 +39,49 @@ export default function App() {
 
   function DrawerNavigator() {
     return (
-        <Drawer.Navigator 
-          screenOptions={{
-            headerTintColor: '#fff',
-            headerTitleAlign: 'left',
-            drawerActiveBackgroundColor: '#fff',
-            headerStyle: {
-              backgroundColor: '#59788e',
-            },
-            headerRight: LangButton.bind(this,styles.langButton),
-          }}
-          drawerContent={CustomDrawerContent}
-          >
-          <Drawer.Screen  name = "DictSearch" 
-                          options={{
-                            title: "辞書",
-                            drawerLabel: "辞書",
-                            drawerIcon: ({color,size}) => (
-                              <FontAwesome name="book" color={color} size={size}/>
-                            )}}
-                          >
+      <Drawer.Navigator 
+        screenOptions={{
+          headerTintColor: '#fff',
+          headerTitleAlign: 'left',
+          drawerActiveBackgroundColor: '#fff',
+          headerStyle: {
+            backgroundColor: '#59788e',
+          },
+          headerRight: LangButton.bind(this,styles.langButton),
+        }}
+        drawerContent={CustomDrawerContent}
+        >
+        <Drawer.Screen  name = "DictSearch" 
+                        options={{
+                          title: "辞書",
+                          drawerLabel: "辞書",
+                          drawerIcon: ({color,size}) => (
+                            <FontAwesome name="book" color={color} size={size}/>
+                          )}}
+                        >
           {({navigation}) => <SearchingScreen lang={lang} navigation={navigation}/>}
-          </Drawer.Screen>
-          <Drawer.Screen  name = "FavoriteList"
-                          options = {{
-                            title: "お気に入り",
-                            drawerLabel: "お気に入り", 
-                            drawerIcon: ({color,size}) => (
-                              <FontAwesome name="star" color={color} size={size}/>
-                            )}}
-                          >
+        </Drawer.Screen>
+        <Drawer.Screen  name = "FavoriteList"
+                        options = {{
+                          title: "お気に入り",
+                          drawerLabel: "お気に入り", 
+                          drawerIcon: ({color,size}) => (
+                            <FontAwesome name="star" color={color} size={size}/>
+                          )}}
+                        >
           {({navigation}) => <FavoriteListScreen lang={lang} navigation={navigation}/>}
-          </Drawer.Screen>
-          <Drawer.Screen  name = "GameList" 
-                          component={GameSelectionScreen}
-                          options={{
-                            title: "ゲーム一覧",
-                            drawerLabel: "ミニゲーム",
-                            drawerIcon: ({color,size}) => (
-                              <FontAwesome name="gamepad" color={color} size={size}/>
-                            )}}
-                          />
-        </Drawer.Navigator>
+        </Drawer.Screen>
+        <Drawer.Screen  name = "GameList" 
+                        options={{
+                          title: "ゲーム一覧",
+                          drawerLabel: "ミニゲーム",
+                          drawerIcon: ({color,size}) => (
+                            <FontAwesome name="gamepad" color={color} size={size}/>
+                          )}}
+                        >
+          {({navigation}) => <GameSelectionScreen lang={lang} navigation={navigation}/>}
+        </Drawer.Screen>
+      </Drawer.Navigator>
     );
   }
 
@@ -94,35 +96,35 @@ export default function App() {
   }
 
   return (
-    <FavoriteCtxProvider>
-    <View style={styles.appContainer}>
-      <StatusBar style='light'/>
-      <NavigationContainer>
-      <Stack.Navigator
-          screenOptions={{
-            headerTintColor: '#fff',
-            headerTitleAlign: 'left',
-            headerStyle: {
-              backgroundColor: '#59788e',
-            },
-          }}>
-        <Stack.Screen name = "DrawerNavigator"
-                      options={{
-                        headerShown: false,
-                      }}
-                      >
-          {DrawerNavigator}
-        </Stack.Screen>
-        <Stack.Screen name = "TangoInfoScreen" component={TangoInfoScreen}
-                      options={{
-                        title: "詳細",
-                        headerRight: SetFavoriteButton
+      <FavoriteCtxProvider>
+      <View style={styles.appContainer}>
+        <StatusBar style='light'/>
+        <NavigationContainer>
+        <Stack.Navigator
+            screenOptions={{
+              headerTintColor: '#fff',
+              headerTitleAlign: 'left',
+              headerStyle: {
+                backgroundColor: '#59788e',
+              },
+            }}>
+          <Stack.Screen name = "DrawerNavigator"
+                        options={{
+                          headerShown: false,
                         }}
-                      />
-      </Stack.Navigator>
-      </NavigationContainer>
-    </View>
-    </FavoriteCtxProvider>
+                        >
+            {DrawerNavigator}
+          </Stack.Screen>
+          <Stack.Screen name = "TangoInfoScreen" component={TangoInfoScreen}
+                        options={{
+                          title: "詳細",
+                          headerRight: SetFavoriteButton
+                          }}
+                        />
+        </Stack.Navigator>
+        </NavigationContainer>
+      </View>
+      </FavoriteCtxProvider>
   );
 }
 

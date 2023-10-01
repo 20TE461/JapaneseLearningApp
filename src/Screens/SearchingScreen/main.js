@@ -4,6 +4,7 @@ import { styles } from './styles';
 import { FontAwesome, AntDesign } from '@expo/vector-icons'; 
 import { FlatList } from 'react-native';
 import { FavoriteCtx } from '../../Store/context/favorite-context';
+import MemoCtxProvider, { MemoCtx } from '../../Store/context/memo-context';
 
 const dictionary = require('../../../Data/dictionary.json');
 
@@ -27,14 +28,36 @@ export default function SearchingScreen({navigation, lang}) {
     navigation.navigate('TangoInfoScreen', {...params, lang:lang});
   }
 
+  function getCurrentMemo() {
+    const memoCtx = useContext(MemoCtx);
+    return memoCtx.currentMemo;
+  }
+
   function getOutputRender(itemData) {
+    const memoK= `memo_tango_${itemData.item.id}`;
+    
     return (
+      <MemoCtxProvider memoKey={memoK}>
       <Pressable 
         style={({pressed})=>{
-          return pressed ? {...styles.outputTile.container, opacity: 0.25} : styles.outputTile.container;
+          return (
+            pressed ? 
+            {...styles.outputTile.container, opacity: 0.25} 
+            : 
+            {...styles.outputTile.container, 
+              borderColor: getCurrentMemo() ? 'green': '#BEBEBE'
+            });
         }}
         onPress={navigateHandler.bind(this, itemData.item)}>
-        <Text style={styles.outputTile.hatsuonText}>[{itemData.item.hatsuon}]</Text>
+        <View style={{flexDirection: 'row', alignItems: 'center'}}>
+          <Text style={styles.outputTile.hatsuonText}>[{itemData.item.hatsuon}]</Text>
+          {
+            favoriteWordIds.includes(itemData.item.id) ?
+            <FontAwesome name = "star" style={styles.outputTile.noteIcon}/>
+            :
+            null
+          }
+        </View>
         <View 
           style={{        
             justifyContent: 'space-between', 
@@ -46,17 +69,12 @@ export default function SearchingScreen({navigation, lang}) {
               alignItems: 'center',
             }}>
             <Text style={styles.outputTile.kanjiText}>{itemData.item.kanji}</Text>
-            <Text style={styles.outputTile.honyakuText}> - {itemData.item.honyaku[lang]}</Text>
-            {
-              favoriteWordIds.includes(itemData.item.id) ?
-              <FontAwesome name = "star" style={styles.outputTile.noteIcon}/>
-              :
-              null
-            }
+            <Text style={styles.outputTile.honyakuText}> - {itemData.item.honyaku[lang]}</Text> 
           </View>
           <AntDesign name="right" style={styles.outputTile.detailIcon}/>
         </View>
       </Pressable>
+      </MemoCtxProvider>
     );
   }
 

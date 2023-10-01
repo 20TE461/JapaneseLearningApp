@@ -1,37 +1,44 @@
 import { Button, Modal,StyleSheet,Text, TextInput, View } from "react-native";
-import PrimaryButton from "../../Components/PrimaryButton";
 import { AntDesign } from '@expo/vector-icons'; 
 import { useContext, useEffect, useState } from "react";
 import { MemoCtx } from "../../Store/context/memo-context";
 
 export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
   const memoCtx = useContext(MemoCtx); 
-  const [currentMemo, setCurrentMemo] = useState(null);
-  const memoKey = `memo_tango_${tangoId}`;
+  const [saveSuccess, setSaveSuccess] = useState(null); //bool
+  const [tmpMemo, setTmpMemo] = useState(null); //string
 
-  useEffect(()=>{
-    memoCtx.getMemo(memoKey).then((res)=>{
-      setCurrentMemo(res);
-    });
-  },[]);
-
-  function MemoInputForm() {
+  function MemoInputBox() {
     return (
-      <View style={styles.memoInputForm}>
+      <View style={styles.MemoInputBox}>
         <TextInput
           placeholder="メモの入力..."
           multiline={true}
           style={styles.memoInput}
-          onChangeText={(input)=>{setCurrentMemo(input)}}
-          defaultValue={currentMemo}
+          onChangeText={(input)=>{setTmpMemo(input)}}
+          defaultValue={memoCtx.currentMemo}
           />
       </View>
     );
   }
 
   function onPressHandler() {
-    memoCtx.setMemo({id: memoKey,content: currentMemo});
-    setIsShow(false);
+    try {
+      memoCtx.setMemo(tmpMemo);
+      setSaveSuccess(true);
+    } catch (err) {
+      setSaveSuccess(false);
+      console.error(err);
+    }
+  }
+
+  function renderSaveStatus(status) {
+    return <AntDesign 
+              name={status ? 'checkcircle':'closecircle'} 
+              size={15} 
+              color={status ? "green" : "red"}
+              >{status ? ' 保存完了':' 保存失敗'}
+            </AntDesign>; 
   }
   
   return (
@@ -40,6 +47,7 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
       <View style={styles.innerContainer}>
         <View style={styles.header}>
           <Text style={styles.closeIcon}>メモ</Text>
+          {saveSuccess !== null ? renderSaveStatus(saveSuccess):null}
           <AntDesign 
             name='close' 
             style={styles.closeIcon} 
@@ -47,7 +55,7 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
             />
         </View>
         <View style={styles.body}>
-          {MemoInputForm()}
+          {MemoInputBox()}
         <View style={styles.footer}>
           <Button 
             title="保存" 
@@ -63,11 +71,9 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
 
 const styles = StyleSheet.create({
   mainContainer: {
-    // backgroundColor: '#bebebe',
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    // opacity: 0.75
   },
   innerContainer: {
     flex: 1,
@@ -93,8 +99,6 @@ const styles = StyleSheet.create({
   },
   body: {
     flex: 1,
-    // justifyContent: 'center',
-    // alignItems: 'center',
   },
   footer: {
     flex: 1,
@@ -104,7 +108,7 @@ const styles = StyleSheet.create({
   saveButton: {
 
   },
-  memoInputForm: {
+  MemoInputBox: {
     flex: 3,
     margin: 10,
     paddingHorizontal: 10,

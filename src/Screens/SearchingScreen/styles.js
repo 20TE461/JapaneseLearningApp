@@ -34,8 +34,8 @@ export const styles = StyleSheet.create({
       shadowOpacity: '0.25',
       shadowOffset: {height: 0, width: 0},
       paddingVertical: 5,
-      borderColor: 'green',
-      borderLeftWidth: 5,
+      // borderColor: 'green',
+      borderLeftWidth: 6,
     },
     kanjiText: {
       fontSize: 22,
@@ -59,9 +59,9 @@ export const styles = StyleSheet.create({
       color: '#bebebe'
     },
     noteIcon: {
-      fontSize: 20,
+      fontSize: 17,
       color: 'gold',
-      margin: 10,
+      marginHorizontal: 10,
       alignSelf: 'flex-end'
     },
   },

@@ -26,7 +26,7 @@ export default function TangoInfoScreen({route, navigation}) {
   },[navigation]);
   
   return (
-    <MemoCtxProvider>
+    <MemoCtxProvider memoKey={`memo_tango_${params.id}`}>
     <ScrollView style={styles.mainContainer}
                 showsHorizontalScrollIndicator={false}
                 showsVerticalScrollIndicator={false}

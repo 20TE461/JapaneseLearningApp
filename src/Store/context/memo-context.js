@@ -18,6 +18,12 @@ export default function MemoCtxProvider({children, memoKey}) {
     }
   },[]);
 
+  useEffect(()=>{
+    if(memoKey) {
+      setMemo(currentMemo);
+    }
+  },[currentMemo]);
+  
   async function getMemo(id) {
     try {
       return JSON.parse(await AsyncStorage.getItem(id));
@@ -39,7 +45,7 @@ export default function MemoCtxProvider({children, memoKey}) {
       value={{
         currentMemo: currentMemo,
         getMemo: getMemo,
-        setMemo: setMemo
+        setMemo: setCurrentMemo
       }}>
       {children}
     </MemoCtx.Provider>

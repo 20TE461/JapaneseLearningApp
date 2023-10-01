@@ -34,7 +34,6 @@ export const styles = StyleSheet.create({
       shadowOpacity: '0.25',
       shadowOffset: {height: 0, width: 0},
       paddingVertical: 5,
-      // borderColor: 'green',
       borderLeftWidth: 6,
     },
     kanjiText: {

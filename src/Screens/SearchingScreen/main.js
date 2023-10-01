@@ -1,16 +1,17 @@
-import { useContext, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import { View, TextInput, Text, Pressable} from 'react-native';
 import { styles } from './styles';
 import { FontAwesome, AntDesign } from '@expo/vector-icons'; 
 import { FlatList } from 'react-native';
 import { FavoriteCtx } from '../../Store/context/favorite-context';
-import MemoCtxProvider, { MemoCtx } from '../../Store/context/memo-context';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 const dictionary = require('../../../Data/dictionary.json');
 
 export default function SearchingScreen({navigation, lang}) {
 
   const [searchInput, setSearchInput] = useState(null);
+  const [memos, setMemos] = useState([]);
   const favoriteWordIds = useContext(FavoriteCtx).favoriteWordIds;
 
   function sortByKanjiLength(array) {
@@ -28,16 +29,10 @@ export default function SearchingScreen({navigation, lang}) {
     navigation.navigate('TangoInfoScreen', {...params, lang:lang});
   }
 
-  function getCurrentMemo() {
-    const memoCtx = useContext(MemoCtx);
-    return memoCtx.currentMemo;
-  }
-
   function getOutputRender(itemData) {
     const memoK= `memo_tango_${itemData.item.id}`;
-    
+
     return (
-      <MemoCtxProvider memoKey={memoK}>
       <Pressable 
         style={({pressed})=>{
           return (
@@ -45,7 +40,7 @@ export default function SearchingScreen({navigation, lang}) {
             {...styles.outputTile.container, opacity: 0.25} 
             : 
             {...styles.outputTile.container, 
-              borderColor: getCurrentMemo() ? 'green': '#BEBEBE'
+              borderColor: memos.find((key)=>key === memoK) ? 'green':'#BEBEBE'
             });
         }}
         onPress={navigateHandler.bind(this, itemData.item)}>
@@ -74,11 +69,20 @@ export default function SearchingScreen({navigation, lang}) {
           <AntDesign name="right" style={styles.outputTile.detailIcon}/>
         </View>
       </Pressable>
-      </MemoCtxProvider>
     );
   }
 
   function getOutputListRender(searchInput, inputList) {
+
+    useEffect(()=>{
+      const init = async () => {
+        await AsyncStorage.getAllKeys().then(
+          (res)=>{setMemos(res)}
+        );
+      };
+      init();
+    },[memos]);
+
     return (
       <FlatList data={getOutputList(searchInput, inputList)}
                 renderItem={getOutputRender}

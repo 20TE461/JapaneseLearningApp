@@ -4,7 +4,6 @@ import { useEffect, useState } from 'react';
 import SetFavoriteButton from './SetFavoriteButton';
 import { FontAwesome } from '@expo/vector-icons'
 import TangoMemoScreen from './TangoMemoScreen';
-import MemoCtxProvider from '../../Store/context/memo-context';
 
 function getSetsumei(naiyou) {
   return (
@@ -26,7 +25,6 @@ export default function TangoInfoScreen({route, navigation}) {
   },[navigation]);
   
   return (
-    <MemoCtxProvider memoKey={`memo_tango_${params.id}`}>
     <ScrollView style={styles.mainContainer}
                 showsHorizontalScrollIndicator={false}
                 showsVerticalScrollIndicator={false}
@@ -49,6 +47,5 @@ export default function TangoInfoScreen({route, navigation}) {
       <TangoMemoScreen isShow={showMemo} setIsShow={setShowMemo} tangoId={params.id}/>
     {params.setsumei[lang] ? getSetsumei(params.setsumei[lang]):null}
     </ScrollView>
-    </MemoCtxProvider>
   );
 }

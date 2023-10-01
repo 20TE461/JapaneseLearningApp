@@ -1,12 +1,22 @@
 import { Button, Modal,StyleSheet,Text, TextInput, View } from "react-native";
 import { AntDesign } from '@expo/vector-icons'; 
-import { useContext, useEffect, useState } from "react";
-import { MemoCtx } from "../../Store/context/memo-context";
+import { useEffect, useState } from "react";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
-  const memoCtx = useContext(MemoCtx); 
+  const memoK = `memo_tango_${tangoId}`;
   const [saveSuccess, setSaveSuccess] = useState(null); //bool
-  const [tmpMemo, setTmpMemo] = useState(null); //string
+  const [currentMemo, setCurrentMemo] = useState(null); //string
+  const [saveWarning, setSaveWarning] = useState(false);
+
+  useEffect(()=>{
+    const init = async () =>{
+      await AsyncStorage.getItem(memoK).then(
+        (res)=>{setCurrentMemo(JSON.parse(res))}
+      );
+    };
+    init();
+  },[]);
 
   function MemoInputBox() {
     return (
@@ -15,16 +25,25 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
           placeholder="メモの入力..."
           multiline={true}
           style={styles.memoInput}
-          onChangeText={(input)=>{setTmpMemo(input)}}
-          defaultValue={memoCtx.currentMemo}
+          onChangeText={(input)=>{
+            setSaveSuccess(null);
+            setCurrentMemo(input)
+            setSaveWarning(true);
+          }}
+          defaultValue={currentMemo}
           />
       </View>
     );
   }
 
-  function onPressHandler() {
+  async function onPressHandler() {
     try {
-      memoCtx.setMemo(tmpMemo);
+      if(currentMemo) {
+        await AsyncStorage.setItem(memoK, JSON.stringify(currentMemo)); 
+      } else {
+        await AsyncStorage.removeItem(memoK);
+      }
+      setSaveWarning(false);
       setSaveSuccess(true);
     } catch (err) {
       setSaveSuccess(false);
@@ -48,6 +67,11 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
         <View style={styles.header}>
           <Text style={styles.closeIcon}>メモ</Text>
           {saveSuccess !== null ? renderSaveStatus(saveSuccess):null}
+          {saveWarning ? 
+            <AntDesign name='warning' size={15} color="#FFB200">
+              保存忘れな！
+            </AntDesign>:null
+          }
           <AntDesign 
             name='close' 
             style={styles.closeIcon} 

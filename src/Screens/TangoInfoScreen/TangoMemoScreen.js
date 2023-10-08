@@ -69,7 +69,7 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
           {saveSuccess !== null ? renderSaveStatus(saveSuccess):null}
           {saveWarning ? 
             <AntDesign name='warning' size={15} color="#FFB200">
-              保存忘れな！
+              {" 未保存"}
             </AntDesign>:null
           }
           <AntDesign 

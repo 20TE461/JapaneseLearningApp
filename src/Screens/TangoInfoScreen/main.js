@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import SetFavoriteButton from './SetFavoriteButton';
 import { FontAwesome } from '@expo/vector-icons'
 import TangoMemoScreen from './TangoMemoScreen';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 function getSetsumei(naiyou) {
   return (
@@ -18,11 +19,24 @@ export default function TangoInfoScreen({route, navigation}) {
   const params = route.params;
   const lang = params.lang;
 
+  async function setSearchNum(searchK, plus) {
+    try{
+      const n = JSON.parse(await AsyncStorage.getItem(searchK));
+      await AsyncStorage.setItem(searchK, JSON.stringify(n+plus));
+    } catch(err) {
+      console.error(err);
+    }
+  }
+
   useEffect(()=>{
     navigation.setOptions({
       headerRight: SetFavoriteButton.bind(this, params.id)
     })
   },[navigation]);
+
+  useEffect(()=>{
+    setSearchNum(`search_tango_${params.id}`, 1);
+  },[]);
   
   return (
     <ScrollView style={styles.mainContainer}

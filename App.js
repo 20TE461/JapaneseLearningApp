@@ -2,7 +2,7 @@ import { SafeAreaView, StyleSheet, Text, View, ScrollView} from 'react-native';
 import { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer } from '@react-navigation/native';
-import { createDrawerNavigator, DrawerContentScrollView,DrawerItemList, DrawerItem} from '@react-navigation/drawer'; 
+import { createDrawerNavigator, DrawerItemList, DrawerItem} from '@react-navigation/drawer'; 
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { FontAwesome } from '@expo/vector-icons'
 
@@ -13,7 +13,6 @@ import SetFavoriteButton from './src/Screens/TangoInfoScreen/SetFavoriteButton';
 import LanguageSelectButton from './src/Components/LanguageSelectButton';
 import FavoriteCtxProvider from './src/Store/context/favorite-context';
 import FavoriteListScreen from './src/Screens/FavoriteListScreen/main';
-import LanguageCtxProvider from './src/Store/context/language-context';
 
 const Drawer = createDrawerNavigator();
 const Stack = createNativeStackNavigator();
@@ -59,7 +58,7 @@ export default function App() {
                             <FontAwesome name="book" color={color} size={size}/>
                           )}}
                         >
-          {({navigation}) => <SearchingScreen lang={lang} navigation={navigation}/>}
+          {({navigation, route}) => <SearchingScreen lang={lang} navigation={navigation} route={route}/>}
         </Drawer.Screen>
         <Drawer.Screen  name = "FavoriteList"
                         options = {{

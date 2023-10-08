@@ -8,7 +8,6 @@ export const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     backgroundColor: '#fff',
-    // marginBottom: ,
   },
   inputBar: {
     flex: 3,
@@ -37,14 +36,14 @@ export const styles = StyleSheet.create({
       borderLeftWidth: 6,
     },
     kanjiText: {
-      fontSize: 22,
+      fontSize: 25,
       fontWeight: 'bold',
       color: '#000',
       marginLeft: 10,
       marginBottom: 5,
     },
     hatsuonText: {
-      fontSize: 15,
+      fontSize: 18,
       color: '#000',
       marginLeft: 10,
       color: '#777',

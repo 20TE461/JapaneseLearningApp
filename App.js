@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
   },
   drawerTitle: {
     fontWeight: 'bold',
-    fontSize: 17,
+    fontSize: 50,
     color: '#fff',
     backgroundColor: '#59788e',
   }

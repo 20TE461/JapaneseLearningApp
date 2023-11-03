@@ -1,8 +1,3910 @@
 [
-  { "kanji": "愛", "reading": "あい" },
-  { "kanji": "力", "reading": "ちから" },
-  { "kanji": "関数", "reading": "かんすう" },
-  { "kanji": "変数", "reading": "へんすう" },
-  { "kanji": "宣言", "reading": "せんげん" },
-  { "kanji": "回帰", "reading": "かいき" }
+  {
+    "kanji": "整数",
+    "reading": "セイスウ"
+  },
+  {
+    "kanji": "値",
+    "reading": "アタイ"
+  },
+  {
+    "kanji": "文字",
+    "reading": "モジ"
+  },
+  {
+    "kanji": "関数",
+    "reading": "カンスウ"
+  },
+  {
+    "kanji": "演算",
+    "reading": "エンザン"
+  },
+  {
+    "kanji": "表示",
+    "reading": "ヒョウジ"
+  },
+  {
+    "kanji": "文",
+    "reading": "ブン"
+  },
+  {
+    "kanji": "入力",
+    "reading": "ニュウリョク"
+  },
+  {
+    "kanji": "列",
+    "reading": "レツ"
+  },
+  {
+    "kanji": "配列",
+    "reading": "ハイレツ"
+  },
+  {
+    "kanji": "数",
+    "reading": "スウ"
+  },
+  {
+    "kanji": "式",
+    "reading": "シキ"
+  },
+  {
+    "kanji": "型",
+    "reading": "カタ"
+  },
+  {
+    "kanji": "章",
+    "reading": "ショウ"
+  },
+  {
+    "kanji": "実行",
+    "reading": "ジッコウ"
+  },
+  {
+    "kanji": "変数",
+    "reading": "ヘンスウ"
+  },
+  {
+    "kanji": "例",
+    "reading": "レイ"
+  },
+  {
+    "kanji": "点",
+    "reading": "テン"
+  },
+  {
+    "kanji": "代入",
+    "reading": "ダイニュウ"
+  },
+  {
+    "kanji": "数",
+    "reading": "カズ"
+  },
+  {
+    "kanji": "要素",
+    "reading": "ヨウソ"
+  },
+  {
+    "kanji": "身長",
+    "reading": "シンチョウ"
+  },
+  {
+    "kanji": "構造",
+    "reading": "コウゾウ"
+  },
+  {
+    "kanji": "表現",
+    "reading": "ヒョウゲン"
+  },
+  {
+    "kanji": "結果",
+    "reading": "ケッカ"
+  },
+  {
+    "kanji": "体",
+    "reading": "タイ"
+  },
+  {
+    "kanji": "以下",
+    "reading": "イカ"
+  },
+  {
+    "kanji": "引数",
+    "reading": "ヒキスウ"
+  },
+  {
+    "kanji": "宣言",
+    "reading": "センゲン"
+  },
+  {
+    "kanji": "場合",
+    "reading": "バアイ"
+  },
+  {
+    "kanji": "処理",
+    "reading": "ショリ"
+  },
+  {
+    "kanji": "名前",
+    "reading": "ナマエ"
+  },
+  {
+    "kanji": "番",
+    "reading": "バン"
+  },
+  {
+    "kanji": "格納",
+    "reading": "カクノウ"
+  },
+  {
+    "kanji": "次",
+    "reading": "ツギ"
+  },
+  {
+    "kanji": "変換",
+    "reading": "ヘンカン"
+  },
+  {
+    "kanji": "小数",
+    "reading": "ショウスウ"
+  },
+  {
+    "kanji": "形式",
+    "reading": "ケイシキ"
+  },
+  {
+    "kanji": "定数",
+    "reading": "テイスウ"
+  },
+  {
+    "kanji": "作成",
+    "reading": "サクセイ"
+  },
+  {
+    "kanji": "右",
+    "reading": "ミギ"
+  },
+  {
+    "kanji": "先頭",
+    "reading": "セントウ"
+  },
+  {
+    "kanji": "負",
+    "reading": "フ"
+  },
+  {
+    "kanji": "部分",
+    "reading": "ブブン"
+  },
+  {
+    "kanji": "評価",
+    "reading": "ヒョウカ"
+  },
+  {
+    "kanji": "和",
+    "reading": "ワ"
+  },
+  {
+    "kanji": "定義",
+    "reading": "テイギ"
+  },
+  {
+    "kanji": "実現",
+    "reading": "ジツゲン"
+  },
+  {
+    "kanji": "番地",
+    "reading": "バンチ"
+  },
+  {
+    "kanji": "演習",
+    "reading": "エンシュウ"
+  },
+  {
+    "kanji": "符号",
+    "reading": "フゴウ"
+  },
+  {
+    "kanji": "点数",
+    "reading": "テンスウ"
+  },
+  {
+    "kanji": "桁",
+    "reading": "ケタ"
+  },
+  {
+    "kanji": "利用",
+    "reading": "リヨウ"
+  },
+  {
+    "kanji": "指定",
+    "reading": "シテイ"
+  },
+  {
+    "kanji": "初期",
+    "reading": "ショキ"
+  },
+  {
+    "kanji": "必要",
+    "reading": "ヒツヨウ"
+  },
+  {
+    "kanji": "数値",
+    "reading": "スウチ"
+  },
+  {
+    "kanji": "言語",
+    "reading": "ゲンゴ"
+  },
+  {
+    "kanji": "平均",
+    "reading": "ヘイキン"
+  },
+  {
+    "kanji": "体重",
+    "reading": "タイジュウ"
+  },
+  {
+    "kanji": "浮動",
+    "reading": "フドウ"
+  },
+  {
+    "kanji": "乗",
+    "reading": "ジョウ"
+  },
+  {
+    "kanji": "解説",
+    "reading": "カイセツ"
+  },
+  {
+    "kanji": "論理",
+    "reading": "ロンリ"
+  },
+  {
+    "kanji": "出力",
+    "reading": "シュツリョク"
+  },
+  {
+    "kanji": "学習",
+    "reading": "ガクシュウ"
+  },
+  {
+    "kanji": "実数",
+    "reading": "ジッスウ"
+  },
+  {
+    "kanji": "列挙",
+    "reading": "レッキョ"
+  },
+  {
+    "kanji": "前",
+    "reading": "マエ"
+  },
+  {
+    "kanji": "説明",
+    "reading": "セツメイ"
+  },
+  {
+    "kanji": "語",
+    "reading": "ゴ"
+  },
+  {
+    "kanji": "学生",
+    "reading": "ガクセイ"
+  },
+  {
+    "kanji": "回",
+    "reading": "カイ"
+  },
+  {
+    "kanji": "返却",
+    "reading": "ヘンキャク"
+  },
+  {
+    "kanji": "正",
+    "reading": "セイ"
+  },
+  {
+    "kanji": "終了",
+    "reading": "シュウリョウ"
+  },
+  {
+    "kanji": "最大",
+    "reading": "サイダイ"
+  },
+  {
+    "kanji": "流れ",
+    "reading": "ナガレ"
+  },
+  {
+    "kanji": "図",
+    "reading": "ズ"
+  },
+  {
+    "kanji": "位置",
+    "reading": "イチ"
+  },
+  {
+    "kanji": "標準",
+    "reading": "ヒョウジュン"
+  },
+  {
+    "kanji": "最初",
+    "reading": "サイショ"
+  },
+  {
+    "kanji": "構文",
+    "reading": "コウブン"
+  },
+  {
+    "kanji": "操作",
+    "reading": "ソウサ"
+  },
+  {
+    "kanji": "全て",
+    "reading": "スベテ"
+  },
+  {
+    "kanji": "数字",
+    "reading": "スウジ"
+  },
+  {
+    "kanji": "書式",
+    "reading": "ショシキ"
+  },
+  {
+    "kanji": "時刻",
+    "reading": "ジコク"
+  },
+  {
+    "kanji": "動作",
+    "reading": "ドウサ"
+  },
+  {
+    "kanji": "単項",
+    "reading": "タンコウ"
+  },
+  {
+    "kanji": "後",
+    "reading": "アト"
+  },
+  {
+    "kanji": "添字",
+    "reading": "ソエジ"
+  },
+  {
+    "kanji": "差",
+    "reading": "サ"
+  },
+  {
+    "kanji": "交換",
+    "reading": "コウカン"
+  },
+  {
+    "kanji": "仮",
+    "reading": "カリ"
+  },
+  {
+    "kanji": "無し",
+    "reading": "ナシ"
+  },
+  {
+    "kanji": "書込み",
+    "reading": "カキコミ"
+  },
+  {
+    "kanji": "呼出",
+    "reading": "ヨビダシ"
+  },
+  {
+    "kanji": "計算",
+    "reading": "ケイサン"
+  },
+  {
+    "kanji": "表記",
+    "reading": "ヒョウキ"
+  },
+  {
+    "kanji": "生成",
+    "reading": "セイセイ"
+  },
+  {
+    "kanji": "条件",
+    "reading": "ジョウケン"
+  },
+  {
+    "kanji": "合計",
+    "reading": "ゴウケイ"
+  },
+  {
+    "kanji": "範囲",
+    "reading": "ハンイ"
+  },
+  {
+    "kanji": "日付",
+    "reading": "ヒヅケ"
+  },
+  {
+    "kanji": "環境",
+    "reading": "カンキョウ"
+  },
+  {
+    "kanji": "用意",
+    "reading": "ヨウイ"
+  },
+  {
+    "kanji": "制御",
+    "reading": "セイギョ"
+  },
+  {
+    "kanji": "左",
+    "reading": "ヒダリ"
+  },
+  {
+    "kanji": "課題",
+    "reading": "カダイ"
+  },
+  {
+    "kanji": "理解",
+    "reading": "リカイ"
+  },
+  {
+    "kanji": "問題",
+    "reading": "モンダイ"
+  },
+  {
+    "kanji": "部",
+    "reading": "ブ"
+  },
+  {
+    "kanji": "判定",
+    "reading": "ハンテイ"
+  },
+  {
+    "kanji": "投稿",
+    "reading": "トウコウ"
+  },
+  {
+    "kanji": "単位",
+    "reading": "タンイ"
+  },
+  {
+    "kanji": "先",
+    "reading": "サキ"
+  },
+  {
+    "kanji": "順",
+    "reading": "ジュン"
+  },
+  {
+    "kanji": "繰返し",
+    "reading": "クリカエシ"
+  },
+  {
+    "kanji": "以上",
+    "reading": "イジョウ"
+  },
+  {
+    "kanji": "本体",
+    "reading": "ホンタイ"
+  },
+  {
+    "kanji": "変更",
+    "reading": "ヘンコウ"
+  },
+  {
+    "kanji": "奨学",
+    "reading": "ショウガク"
+  },
+  {
+    "kanji": "座標",
+    "reading": "ザヒョウ"
+  },
+  {
+    "kanji": "記憶",
+    "reading": "キオク"
+  },
+  {
+    "kanji": "関係",
+    "reading": "カンケイ"
+  },
+  {
+    "kanji": "翻訳",
+    "reading": "ホンヤク"
+  },
+  {
+    "kanji": "本章",
+    "reading": "ホンショウ"
+  },
+  {
+    "kanji": "版",
+    "reading": "バン"
+  },
+  {
+    "kanji": "着目",
+    "reading": "チャクモク"
+  },
+  {
+    "kanji": "人数",
+    "reading": "ニンズウ"
+  },
+  {
+    "kanji": "手順",
+    "reading": "テジュン"
+  },
+  {
+    "kanji": "規則",
+    "reading": "キソク"
+  },
+  {
+    "kanji": "確認",
+    "reading": "カクニン"
+  },
+  {
+    "kanji": "一般",
+    "reading": "イッパン"
+  },
+  {
+    "kanji": "展開",
+    "reading": "テンカイ"
+  },
+  {
+    "kanji": "適用",
+    "reading": "テキヨウ"
+  },
+  {
+    "kanji": "追加",
+    "reading": "ツイカ"
+  },
+  {
+    "kanji": "積",
+    "reading": "セキ"
+  },
+  {
+    "kanji": "最後",
+    "reading": "サイゴ"
+  },
+  {
+    "kanji": "項",
+    "reading": "コウ"
+  },
+  {
+    "kanji": "個数",
+    "reading": "コスウ"
+  },
+  {
+    "kanji": "桁数",
+    "reading": "ケタスウ"
+  },
+  {
+    "kanji": "距離",
+    "reading": "キョリ"
+  },
+  {
+    "kanji": "記号",
+    "reading": "キゴウ"
+  },
+  {
+    "kanji": "改行",
+    "reading": "カイギョウ"
+  },
+  {
+    "kanji": "意味",
+    "reading": "イミ"
+  },
+  {
+    "kanji": "本書",
+    "reading": "ホンショ"
+  },
+  {
+    "kanji": "複合",
+    "reading": "フクゴウ"
+  },
+  {
+    "kanji": "水色",
+    "reading": "ミズイロ"
+  },
+  {
+    "kanji": "剰余",
+    "reading": "ジョウヨ"
+  },
+  {
+    "kanji": "行",
+    "reading": "ギョウ"
+  },
+  {
+    "kanji": "現在",
+    "reading": "ゲンザイ"
+  },
+  {
+    "kanji": "型名",
+    "reading": "カタメイ"
+  },
+  {
+    "kanji": "画面",
+    "reading": "ガメン"
+  },
+  {
+    "kanji": "別",
+    "reading": "ベツ"
+  },
+  {
+    "kanji": "並び",
+    "reading": "ナラビ"
+  },
+  {
+    "kanji": "発生",
+    "reading": "ハッセイ"
+  },
+  {
+    "kanji": "接尾",
+    "reading": "セツビ"
+  },
+  {
+    "kanji": "昇順",
+    "reading": "ショウジュン"
+  },
+  {
+    "kanji": "自分",
+    "reading": "ジブン"
+  },
+  {
+    "kanji": "更新",
+    "reading": "コウシン"
+  },
+  {
+    "kanji": "期限",
+    "reading": "キゲン"
+  },
+  {
+    "kanji": "基本",
+    "reading": "キホン"
+  },
+  {
+    "kanji": "下",
+    "reading": "シタ"
+  },
+  {
+    "kanji": "分岐",
+    "reading": "ブンキ"
+  },
+  {
+    "kanji": "箱",
+    "reading": "ハコ"
+  },
+  {
+    "kanji": "日本",
+    "reading": "ニホン"
+  },
+  {
+    "kanji": "中身",
+    "reading": "ナカミ"
+  },
+  {
+    "kanji": "真",
+    "reading": "シン"
+  },
+  {
+    "kanji": "上",
+    "reading": "ウエ"
+  },
+  {
+    "kanji": "商",
+    "reading": "ショウ"
+  },
+  {
+    "kanji": "種類",
+    "reading": "シュルイ"
+  },
+  {
+    "kanji": "移動",
+    "reading": "イドウ"
+  },
+  {
+    "kanji": "末尾",
+    "reading": "マツビ"
+  },
+  {
+    "kanji": "補数",
+    "reading": "ホスウ"
+  },
+  {
+    "kanji": "保存",
+    "reading": "ホゾン"
+  },
+  {
+    "kanji": "表",
+    "reading": "ヒョウ"
+  },
+  {
+    "kanji": "注意",
+    "reading": "チュウイ"
+  },
+  {
+    "kanji": "多く",
+    "reading": "オオク"
+  },
+  {
+    "kanji": "側",
+    "reading": "ガワ"
+  },
+  {
+    "kanji": "参照",
+    "reading": "サンショウ"
+  },
+  {
+    "kanji": "再帰",
+    "reading": "サイキ"
+  },
+  {
+    "kanji": "括弧",
+    "reading": "カッコ"
+  },
+  {
+    "kanji": "以降",
+    "reading": "イコウ"
+  },
+  {
+    "kanji": "複数",
+    "reading": "フクスウ"
+  },
+  {
+    "kanji": "反転",
+    "reading": "ハンテン"
+  },
+  {
+    "kanji": "年",
+    "reading": "ネン"
+  },
+  {
+    "kanji": "提出",
+    "reading": "テイシュツ"
+  },
+  {
+    "kanji": "注釈",
+    "reading": "チュウシャク"
+  },
+  {
+    "kanji": "存在",
+    "reading": "ソンザイ"
+  },
+  {
+    "kanji": "全体",
+    "reading": "ゼンタイ"
+  },
+  {
+    "kanji": "前章",
+    "reading": "ゼンショウ"
+  },
+  {
+    "kanji": "結合",
+    "reading": "ケツゴウ"
+  },
+  {
+    "kanji": "箇所",
+    "reading": "カショ"
+  },
+  {
+    "kanji": "読取り",
+    "reading": "ヨミトリ"
+  },
+  {
+    "kanji": "担当",
+    "reading": "タントウ"
+  },
+  {
+    "kanji": "対応",
+    "reading": "タイオウ"
+  },
+  {
+    "kanji": "情報",
+    "reading": "ジョウホウ"
+  },
+  {
+    "kanji": "算術",
+    "reading": "サンジュツ"
+  },
+  {
+    "kanji": "今度",
+    "reading": "コンド"
+  },
+  {
+    "kanji": "後置",
+    "reading": "コウチ"
+  },
+  {
+    "kanji": "後ろ",
+    "reading": "ウシロ"
+  },
+  {
+    "kanji": "元",
+    "reading": "モト"
+  },
+  {
+    "kanji": "間接",
+    "reading": "カンセツ"
+  },
+  {
+    "kanji": "解析",
+    "reading": "カイセキ"
+  },
+  {
+    "kanji": "方形",
+    "reading": "ホウケイ"
+  },
+  {
+    "kanji": "発表",
+    "reading": "ハッピョウ"
+  },
+  {
+    "kanji": "前回",
+    "reading": "ゼンカイ"
+  },
+  {
+    "kanji": "人",
+    "reading": "ヒト"
+  },
+  {
+    "kanji": "指示",
+    "reading": "シジ"
+  },
+  {
+    "kanji": "仕様",
+    "reading": "シヨウ"
+  },
+  {
+    "kanji": "最終",
+    "reading": "サイシュウ"
+  },
+  {
+    "kanji": "空間",
+    "reading": "クウカン"
+  },
+  {
+    "kanji": "奇数",
+    "reading": "キスウ"
+  },
+  {
+    "kanji": "間",
+    "reading": "アイダ"
+  },
+  {
+    "kanji": "簡潔",
+    "reading": "カンケツ"
+  },
+  {
+    "kanji": "依存",
+    "reading": "イゾン"
+  },
+  {
+    "kanji": "表",
+    "reading": "オモテ"
+  },
+  {
+    "kanji": "燃料",
+    "reading": "ネンリョウ"
+  },
+  {
+    "kanji": "内部",
+    "reading": "ナイブ"
+  },
+  {
+    "kanji": "動物",
+    "reading": "ドウブツ"
+  },
+  {
+    "kanji": "働き",
+    "reading": "ハタラキ"
+  },
+  {
+    "kanji": "他",
+    "reading": "タ"
+  },
+  {
+    "kanji": "増分",
+    "reading": "ゾウブン"
+  },
+  {
+    "kanji": "成功",
+    "reading": "セイコウ"
+  },
+  {
+    "kanji": "省略",
+    "reading": "ショウリャク"
+  },
+  {
+    "kanji": "集合",
+    "reading": "シュウゴウ"
+  },
+  {
+    "kanji": "終わり",
+    "reading": "オワリ"
+  },
+  {
+    "kanji": "識別",
+    "reading": "シキベツ"
+  },
+  {
+    "kanji": "資料",
+    "reading": "シリョウ"
+  },
+  {
+    "kanji": "作業",
+    "reading": "サギョウ"
+  },
+  {
+    "kanji": "最新",
+    "reading": "サイシン"
+  },
+  {
+    "kanji": "個",
+    "reading": "コ"
+  },
+  {
+    "kanji": "警報",
+    "reading": "ケイホウ"
+  },
+  {
+    "kanji": "形",
+    "reading": "カタチ"
+  },
+  {
+    "kanji": "具体",
+    "reading": "グタイ"
+  },
+  {
+    "kanji": "金",
+    "reading": "キン"
+  },
+  {
+    "kanji": "解釈",
+    "reading": "カイシャク"
+  },
+  {
+    "kanji": "連続",
+    "reading": "レンゾク"
+  },
+  {
+    "kanji": "様子",
+    "reading": "ヨウス"
+  },
+  {
+    "kanji": "返し",
+    "reading": "カエシ"
+  },
+  {
+    "kanji": "編集",
+    "reading": "ヘンシュウ"
+  },
+  {
+    "kanji": "複雑",
+    "reading": "フクザツ"
+  },
+  {
+    "kanji": "比較",
+    "reading": "ヒカク"
+  },
+  {
+    "kanji": "入出力",
+    "reading": "ニュウシュツリョク"
+  },
+  {
+    "kanji": "通常",
+    "reading": "ツウジョウ"
+  },
+  {
+    "kanji": "精度",
+    "reading": "セイド"
+  },
+  {
+    "kanji": "紹介",
+    "reading": "ショウカイ"
+  },
+  {
+    "kanji": "手続き",
+    "reading": "テツヅキ"
+  },
+  {
+    "kanji": "残り",
+    "reading": "ノコリ"
+  },
+  {
+    "kanji": "左側",
+    "reading": "ヒダリガワ"
+  },
+  {
+    "kanji": "号",
+    "reading": "ゴウ"
+  },
+  {
+    "kanji": "講座",
+    "reading": "コウザ"
+  },
+  {
+    "kanji": "構成",
+    "reading": "コウセイ"
+  },
+  {
+    "kanji": "公約",
+    "reading": "コウヤク"
+  },
+  {
+    "kanji": "限り",
+    "reading": "カギリ"
+  },
+  {
+    "kanji": "言葉",
+    "reading": "コトバ"
+  },
+  {
+    "kanji": "減",
+    "reading": "ゲン"
+  },
+  {
+    "kanji": "共通",
+    "reading": "キョウツウ"
+  },
+  {
+    "kanji": "逆",
+    "reading": "ギャク"
+  },
+  {
+    "kanji": "階乗",
+    "reading": "カイジョウ"
+  },
+  {
+    "kanji": "回数",
+    "reading": "カイスウ"
+  },
+  {
+    "kanji": "一覧",
+    "reading": "イチラン"
+  },
+  {
+    "kanji": "以外",
+    "reading": "イガイ"
+  },
+  {
+    "kanji": "両方",
+    "reading": "リョウホウ"
+  },
+  {
+    "kanji": "率",
+    "reading": "リツ"
+  },
+  {
+    "kanji": "要",
+    "reading": "ヨウ"
+  },
+  {
+    "kanji": "余り",
+    "reading": "アマリ"
+  },
+  {
+    "kanji": "望洋",
+    "reading": "ボウヨウ"
+  },
+  {
+    "kanji": "方向",
+    "reading": "ホウコウ"
+  },
+  {
+    "kanji": "否定",
+    "reading": "ヒテイ"
+  },
+  {
+    "kanji": "番号",
+    "reading": "バンゴウ"
+  },
+  {
+    "kanji": "排他",
+    "reading": "ハイタ"
+  },
+  {
+    "kanji": "任意",
+    "reading": "ニンイ"
+  },
+  {
+    "kanji": "登場",
+    "reading": "トウジョウ"
+  },
+  {
+    "kanji": "値",
+    "reading": "ネ"
+  },
+  {
+    "kanji": "対象",
+    "reading": "タイショウ"
+  },
+  {
+    "kanji": "前置",
+    "reading": "ゼンチ"
+  },
+  {
+    "kanji": "選択",
+    "reading": "センタク"
+  },
+  {
+    "kanji": "成立",
+    "reading": "セイリツ"
+  },
+  {
+    "kanji": "世界",
+    "reading": "セカイ"
+  },
+  {
+    "kanji": "受渡し",
+    "reading": "ウケワタシ"
+  },
+  {
+    "kanji": "自身",
+    "reading": "ジシン"
+  },
+  {
+    "kanji": "現実",
+    "reading": "ゲンジツ"
+  },
+  {
+    "kanji": "月",
+    "reading": "ツキ"
+  },
+  {
+    "kanji": "逆順",
+    "reading": "ギャクジュン"
+  },
+  {
+    "kanji": "円周",
+    "reading": "エンシュウ"
+  },
+  {
+    "kanji": "一部",
+    "reading": "イチブ"
+  },
+  {
+    "kanji": "要求",
+    "reading": "ヨウキュウ"
+  },
+  {
+    "kanji": "方法",
+    "reading": "ホウホウ"
+  },
+  {
+    "kanji": "秒",
+    "reading": "ビョウ"
+  },
+  {
+    "kanji": "判断",
+    "reading": "ハンダン"
+  },
+  {
+    "kanji": "能力",
+    "reading": "ノウリョク"
+  },
+  {
+    "kanji": "内容",
+    "reading": "ナイヨウ"
+  },
+  {
+    "kanji": "等価",
+    "reading": "トウカ"
+  },
+  {
+    "kanji": "綴り",
+    "reading": "ツヅリ"
+  },
+  {
+    "kanji": "通り",
+    "reading": "トオリ"
+  },
+  {
+    "kanji": "置換",
+    "reading": "チカン"
+  },
+  {
+    "kanji": "体",
+    "reading": "カラダ"
+  },
+  {
+    "kanji": "性質",
+    "reading": "セイシツ"
+  },
+  {
+    "kanji": "数学",
+    "reading": "スウガク"
+  },
+  {
+    "kanji": "準備",
+    "reading": "ジュンビ"
+  },
+  {
+    "kanji": "出現",
+    "reading": "シュツゲン"
+  },
+  {
+    "kanji": "取得",
+    "reading": "シュトク"
+  },
+  {
+    "kanji": "実際",
+    "reading": "ジッサイ"
+  },
+  {
+    "kanji": "失敗",
+    "reading": "シッパイ"
+  },
+  {
+    "kanji": "指数",
+    "reading": "シスウ"
+  },
+  {
+    "kanji": "最小",
+    "reading": "サイショウ"
+  },
+  {
+    "kanji": "最高",
+    "reading": "サイコウ"
+  },
+  {
+    "kanji": "合格",
+    "reading": "ゴウカク"
+  },
+  {
+    "kanji": "個人",
+    "reading": "コジン"
+  },
+  {
+    "kanji": "月",
+    "reading": "ガツ"
+  },
+  {
+    "kanji": "偶数",
+    "reading": "グウスウ"
+  },
+  {
+    "kanji": "区別",
+    "reading": "クベツ"
+  },
+  {
+    "kanji": "猿",
+    "reading": "サル"
+  },
+  {
+    "kanji": "違い",
+    "reading": "チガイ"
+  },
+  {
+    "kanji": "由来",
+    "reading": "ユライ"
+  },
+  {
+    "kanji": "優先",
+    "reading": "ユウセン"
+  },
+  {
+    "kanji": "保証",
+    "reading": "ホショウ"
+  },
+  {
+    "kanji": "辺",
+    "reading": "ヘン"
+  },
+  {
+    "kanji": "発音",
+    "reading": "ハツオン"
+  },
+  {
+    "kanji": "入",
+    "reading": "イリ"
+  },
+  {
+    "kanji": "同義",
+    "reading": "ドウギ"
+  },
+  {
+    "kanji": "提供",
+    "reading": "テイキョウ"
+  },
+  {
+    "kanji": "中略",
+    "reading": "チュウリャク"
+  },
+  {
+    "kanji": "想定",
+    "reading": "ソウテイ"
+  },
+  {
+    "kanji": "組",
+    "reading": "クミ"
+  },
+  {
+    "kanji": "先ほど",
+    "reading": "サキホド"
+  },
+  {
+    "kanji": "切り捨て",
+    "reading": "キリステ"
+  },
+  {
+    "kanji": "身",
+    "reading": "ミ"
+  },
+  {
+    "kanji": "自由",
+    "reading": "ジユウ"
+  },
+  {
+    "kanji": "自己",
+    "reading": "ジコ"
+  },
+  {
+    "kanji": "時間",
+    "reading": "ジカン"
+  },
+  {
+    "kanji": "使用",
+    "reading": "シヨウ"
+  },
+  {
+    "kanji": "最低",
+    "reading": "サイテイ"
+  },
+  {
+    "kanji": "見かけ",
+    "reading": "ミカケ"
+  },
+  {
+    "kanji": "結局",
+    "reading": "ケッキョク"
+  },
+  {
+    "kanji": "空白",
+    "reading": "クウハク"
+  },
+  {
+    "kanji": "記述",
+    "reading": "キジュツ"
+  },
+  {
+    "kanji": "丸",
+    "reading": "マル"
+  },
+  {
+    "kanji": "下位",
+    "reading": "カイ"
+  },
+  {
+    "kanji": "右側",
+    "reading": "ミギガワ"
+  },
+  {
+    "kanji": "一種",
+    "reading": "イッシュ"
+  },
+  {
+    "kanji": "囲み",
+    "reading": "カコミ"
+  },
+  {
+    "kanji": "話",
+    "reading": "ハナシ"
+  },
+  {
+    "kanji": "領域",
+    "reading": "リョウイキ"
+  },
+  {
+    "kanji": "余分",
+    "reading": "ヨブン"
+  },
+  {
+    "kanji": "約数",
+    "reading": "ヤクスウ"
+  },
+  {
+    "kanji": "明示",
+    "reading": "メイジ"
+  },
+  {
+    "kanji": "名称",
+    "reading": "メイショウ"
+  },
+  {
+    "kanji": "無限",
+    "reading": "ムゲン"
+  },
+  {
+    "kanji": "変",
+    "reading": "ヘン"
+  },
+  {
+    "kanji": "分布",
+    "reading": "ブンプ"
+  },
+  {
+    "kanji": "普通",
+    "reading": "フツウ"
+  },
+  {
+    "kanji": "倍",
+    "reading": "バイ"
+  },
+  {
+    "kanji": "猫",
+    "reading": "ネコ"
+  },
+  {
+    "kanji": "読書",
+    "reading": "ドクショ"
+  },
+  {
+    "kanji": "頭",
+    "reading": "アタマ"
+  },
+  {
+    "kanji": "度",
+    "reading": "ド"
+  },
+  {
+    "kanji": "点定",
+    "reading": "テンジョウ"
+  },
+  {
+    "kanji": "直後",
+    "reading": "チョクゴ"
+  },
+  {
+    "kanji": "対比",
+    "reading": "タイヒ"
+  },
+  {
+    "kanji": "体型",
+    "reading": "タイケイ"
+  },
+  {
+    "kanji": "側面",
+    "reading": "ソクメン"
+  },
+  {
+    "kanji": "前者",
+    "reading": "ゼンシャ"
+  },
+  {
+    "kanji": "赤",
+    "reading": "アカ"
+  },
+  {
+    "kanji": "西暦",
+    "reading": "セイレキ"
+  },
+  {
+    "kanji": "人力",
+    "reading": "ジンリキ"
+  },
+  {
+    "kanji": "人間",
+    "reading": "ニンゲン"
+  },
+  {
+    "kanji": "場所",
+    "reading": "バショ"
+  },
+  {
+    "kanji": "乗除",
+    "reading": "ジョウジョ"
+  },
+  {
+    "kanji": "住所",
+    "reading": "ジュウショ"
+  },
+  {
+    "kanji": "車",
+    "reading": "クルマ"
+  },
+  {
+    "kanji": "実体",
+    "reading": "ジッタイ"
+  },
+  {
+    "kanji": "式文",
+    "reading": "シキブン"
+  },
+  {
+    "kanji": "字",
+    "reading": "ジ"
+  },
+  {
+    "kanji": "旨",
+    "reading": "ムネ"
+  },
+  {
+    "kanji": "今日",
+    "reading": "キョウ"
+  },
+  {
+    "kanji": "項目",
+    "reading": "コウモク"
+  },
+  {
+    "kanji": "原則",
+    "reading": "ゲンソク"
+  },
+  {
+    "kanji": "空",
+    "reading": "カラ"
+  },
+  {
+    "kanji": "具合",
+    "reading": "グアイ"
+  },
+  {
+    "kanji": "関",
+    "reading": "セキ"
+  },
+  {
+    "kanji": "拡張",
+    "reading": "カクチョウ"
+  },
+  {
+    "kanji": "解",
+    "reading": "カイ"
+  },
+  {
+    "kanji": "仮数",
+    "reading": "カスウ"
+  },
+  {
+    "kanji": "挨拶",
+    "reading": "アイサツ"
+  },
+  {
+    "kanji": "例外",
+    "reading": "レイガイ"
+  },
+  {
+    "kanji": "矢印",
+    "reading": "ヤジルシ"
+  },
+  {
+    "kanji": "名札",
+    "reading": "ナフダ"
+  },
+  {
+    "kanji": "変化",
+    "reading": "ヘンカ"
+  },
+  {
+    "kanji": "文化",
+    "reading": "ブンカ"
+  },
+  {
+    "kanji": "負数",
+    "reading": "フスウ"
+  },
+  {
+    "kanji": "不定",
+    "reading": "フテイ"
+  },
+  {
+    "kanji": "背",
+    "reading": "セ"
+  },
+  {
+    "kanji": "届",
+    "reading": "トドケ"
+  },
+  {
+    "kanji": "頭部",
+    "reading": "トウブ"
+  },
+  {
+    "kanji": "途中",
+    "reading": "トチュウ"
+  },
+  {
+    "kanji": "適当",
+    "reading": "テキトウ"
+  },
+  {
+    "kanji": "直角",
+    "reading": "チョッカク"
+  },
+  {
+    "kanji": "大小",
+    "reading": "ダイショウ"
+  },
+  {
+    "kanji": "対",
+    "reading": "タイ"
+  },
+  {
+    "kanji": "体系",
+    "reading": "タイケイ"
+  },
+  {
+    "kanji": "続",
+    "reading": "ゾク"
+  },
+  {
+    "kanji": "総合",
+    "reading": "ソウゴウ"
+  },
+  {
+    "kanji": "相当",
+    "reading": "ソウトウ"
+  },
+  {
+    "kanji": "相違",
+    "reading": "ソウイ"
+  },
+  {
+    "kanji": "全角",
+    "reading": "ゼンカク"
+  },
+  {
+    "kanji": "絶対",
+    "reading": "ゼッタイ"
+  },
+  {
+    "kanji": "石",
+    "reading": "イシ"
+  },
+  {
+    "kanji": "正確",
+    "reading": "セイカク"
+  },
+  {
+    "kanji": "性質",
+    "reading": "セイシツ"
+  },
+  {
+    "kanji": "常",
+    "reading": "ツネ"
+  },
+  {
+    "kanji": "上位",
+    "reading": "ジョウイ"
+  },
+  {
+    "kanji": "順位",
+    "reading": "ジュンイ"
+  },
+  {
+    "kanji": "集まり",
+    "reading": "アツマリ"
+  },
+  {
+    "kanji": "就職",
+    "reading": "シュウショク"
+  },
+  {
+    "kanji": "自動",
+    "reading": "ジドウ"
+  },
+  {
+    "kanji": "次元",
+    "reading": "ジゲン"
+  },
+  {
+    "kanji": "時",
+    "reading": "ジ"
+  },
+  {
+    "kanji": "採用",
+    "reading": "サイヨウ"
+  },
+  {
+    "kanji": "効率",
+    "reading": "コウリツ"
+  },
+  {
+    "kanji": "後者",
+    "reading": "コウシャ"
+  },
+  {
+    "kanji": "呼",
+    "reading": "コ"
+  },
+  {
+    "kanji": "個々",
+    "reading": "ココ"
+  },
+  {
+    "kanji": "記録",
+    "reading": "キロク"
+  },
+  {
+    "kanji": "気分",
+    "reading": "キブン"
+  },
+  {
+    "kanji": "機",
+    "reading": "キ"
+  },
+  {
+    "kanji": "基数",
+    "reading": "キスウ"
+  },
+  {
+    "kanji": "間違い",
+    "reading": "マチガイ"
+  },
+  {
+    "kanji": "感じ",
+    "reading": "カンジ"
+  },
+  {
+    "kanji": "活動",
+    "reading": "カツドウ"
+  },
+  {
+    "kanji": "加減",
+    "reading": "カゲン"
+  },
+  {
+    "kanji": "円",
+    "reading": "エン"
+  },
+  {
+    "kanji": "英語",
+    "reading": "エイゴ"
+  },
+  {
+    "kanji": "右図",
+    "reading": "ミギズ"
+  },
+  {
+    "kanji": "引用",
+    "reading": "インヨウ"
+  },
+  {
+    "kanji": "一方",
+    "reading": "イッポウ"
+  },
+  {
+    "kanji": "囲",
+    "reading": "カコイ"
+  },
+  {
+    "kanji": "依頼",
+    "reading": "イライ"
+  },
+  {
+    "kanji": "枠組み",
+    "reading": "ワクグミ"
+  },
+  {
+    "kanji": "暦",
+    "reading": "コヨミ"
+  },
+  {
+    "kanji": "理想",
+    "reading": "リソウ"
+  },
+  {
+    "kanji": "理系",
+    "reading": "リケイ"
+  },
+  {
+    "kanji": "訳",
+    "reading": "ワケ"
+  },
+  {
+    "kanji": "無効",
+    "reading": "ムコウ"
+  },
+  {
+    "kanji": "魔法",
+    "reading": "マホウ"
+  },
+  {
+    "kanji": "本文",
+    "reading": "ホンブン"
+  },
+  {
+    "kanji": "本当",
+    "reading": "ホントウ"
+  },
+  {
+    "kanji": "冒頭",
+    "reading": "ボウトウ"
+  },
+  {
+    "kanji": "方式",
+    "reading": "ホウシキ"
+  },
+  {
+    "kanji": "保持",
+    "reading": "ホジ"
+  },
+  {
+    "kanji": "並べかえ",
+    "reading": "ナラベカエ"
+  },
+  {
+    "kanji": "文法",
+    "reading": "ブンポウ"
+  },
+  {
+    "kanji": "分類",
+    "reading": "ブンルイ"
+  },
+  {
+    "kanji": "布",
+    "reading": "ヌノ"
+  },
+  {
+    "kanji": "付け",
+    "reading": "ヅケ"
+  },
+  {
+    "kanji": "配置",
+    "reading": "ハイチ"
+  },
+  {
+    "kanji": "派生",
+    "reading": "ハセイ"
+  },
+  {
+    "kanji": "入れ子",
+    "reading": "イレコ"
+  },
+  {
+    "kanji": "日時",
+    "reading": "ニチジ"
+  },
+  {
+    "kanji": "難関",
+    "reading": "ナンカン"
+  },
+  {
+    "kanji": "特徴",
+    "reading": "トクチョウ"
+  },
+  {
+    "kanji": "到達",
+    "reading": "トウタツ"
+  },
+  {
+    "kanji": "投影",
+    "reading": "トウエイ"
+  },
+  {
+    "kanji": "都合",
+    "reading": "ツゴウ"
+  },
+  {
+    "kanji": "渡し",
+    "reading": "ワタシ"
+  },
+  {
+    "kanji": "点線",
+    "reading": "テンセン"
+  },
+  {
+    "kanji": "通称",
+    "reading": "ツウショウ"
+  },
+  {
+    "kanji": "注目",
+    "reading": "チュウモク"
+  },
+  {
+    "kanji": "段階",
+    "reading": "ダンカイ"
+  },
+  {
+    "kanji": "代わり",
+    "reading": "カワリ"
+  },
+  {
+    "kanji": "駄目",
+    "reading": "ダメ"
+  },
+  {
+    "kanji": "他",
+    "reading": "ホカ"
+  },
+  {
+    "kanji": "卒業",
+    "reading": "ソツギョウ"
+  },
+  {
+    "kanji": "想像",
+    "reading": "ソウゾウ"
+  },
+  {
+    "kanji": "全員",
+    "reading": "ゼンイン"
+  },
+  {
+    "kanji": "設計",
+    "reading": "セッケイ"
+  },
+  {
+    "kanji": "席",
+    "reading": "セキ"
+  },
+  {
+    "kanji": "生活",
+    "reading": "セイカツ"
+  },
+  {
+    "kanji": "成績",
+    "reading": "セイセキ"
+  },
+  {
+    "kanji": "親切",
+    "reading": "シンセツ"
+  },
+  {
+    "kanji": "新型",
+    "reading": "シンガタ"
+  },
+  {
+    "kanji": "心配",
+    "reading": "シンパイ"
+  },
+  {
+    "kanji": "状態",
+    "reading": "ジョウタイ"
+  },
+  {
+    "kanji": "乗算",
+    "reading": "ジョウザン"
+  },
+  {
+    "kanji": "詳細",
+    "reading": "ショウサイ"
+  },
+  {
+    "kanji": "順番",
+    "reading": "ジュンバン"
+  },
+  {
+    "kanji": "順序",
+    "reading": "ジュンジョ"
+  },
+  {
+    "kanji": "術",
+    "reading": "ジュツ"
+  },
+  {
+    "kanji": "習得",
+    "reading": "シュウトク"
+  },
+  {
+    "kanji": "実用",
+    "reading": "ジツヨウ"
+  },
+  {
+    "kanji": "次章",
+    "reading": "ジショウ"
+  },
+  {
+    "kanji": "時",
+    "reading": "トキ"
+  },
+  {
+    "kanji": "指令",
+    "reading": "シレイ"
+  },
+  {
+    "kanji": "三角",
+    "reading": "サンカク"
+  },
+  {
+    "kanji": "左下",
+    "reading": "ヒダリシタ"
+  },
+  {
+    "kanji": "左右",
+    "reading": "サユウ"
+  },
+  {
+    "kanji": "今回",
+    "reading": "コンカイ"
+  },
+  {
+    "kanji": "検出",
+    "reading": "ケンシュツ"
+  },
+  {
+    "kanji": "件",
+    "reading": "ケン"
+  },
+  {
+    "kanji": "区切り",
+    "reading": "クギリ"
+  },
+  {
+    "kanji": "季節",
+    "reading": "キセツ"
+  },
+  {
+    "kanji": "期待",
+    "reading": "キタイ"
+  },
+  {
+    "kanji": "関連",
+    "reading": "カンレン"
+  },
+  {
+    "kanji": "管理",
+    "reading": "カンリ"
+  },
+  {
+    "kanji": "感染",
+    "reading": "カンセン"
+  },
+  {
+    "kanji": "完成",
+    "reading": "カンセイ"
+  },
+  {
+    "kanji": "掛け算",
+    "reading": "カケザン"
+  },
+  {
+    "kanji": "角",
+    "reading": "カド"
+  },
+  {
+    "kanji": "格上げ",
+    "reading": "カクアゲ"
+  },
+  {
+    "kanji": "概念",
+    "reading": "ガイネン"
+  },
+  {
+    "kanji": "改良",
+    "reading": "カイリョウ"
+  },
+  {
+    "kanji": "解決",
+    "reading": "カイケツ"
+  },
+  {
+    "kanji": "会",
+    "reading": "カイ"
+  },
+  {
+    "kanji": "過程",
+    "reading": "カテイ"
+  },
+  {
+    "kanji": "意識",
+    "reading": "イシキ"
+  },
+  {
+    "kanji": "連結",
+    "reading": "レンケツ"
+  },
+  {
+    "kanji": "練習",
+    "reading": "レンシュウ"
+  },
+  {
+    "kanji": "恋人",
+    "reading": "コイビト"
+  },
+  {
+    "kanji": "力",
+    "reading": "チカラ"
+  },
+  {
+    "kanji": "量",
+    "reading": "リョウ"
+  },
+  {
+    "kanji": "履歴",
+    "reading": "リレキ"
+  },
+  {
+    "kanji": "用途",
+    "reading": "ヨウト"
+  },
+  {
+    "kanji": "予告",
+    "reading": "ヨコク"
+  },
+  {
+    "kanji": "融通",
+    "reading": "ユウズウ"
+  },
+  {
+    "kanji": "有無",
+    "reading": "ウム"
+  },
+  {
+    "kanji": "目的",
+    "reading": "モクテキ"
+  },
+  {
+    "kanji": "面倒",
+    "reading": "メンド"
+  },
+  {
+    "kanji": "鳴き声",
+    "reading": "ナキゴエ"
+  },
+  {
+    "kanji": "無用",
+    "reading": "ムヨウ"
+  },
+  {
+    "kanji": "本",
+    "reading": "ホン"
+  },
+  {
+    "kanji": "方針",
+    "reading": "ホウシン"
+  },
+  {
+    "kanji": "母国",
+    "reading": "ボコク"
+  },
+  {
+    "kanji": "補助",
+    "reading": "ホジョ"
+  },
+  {
+    "kanji": "便利",
+    "reading": "ベンリ"
+  },
+  {
+    "kanji": "別名",
+    "reading": "ベツメイ"
+  },
+  {
+    "kanji": "別途",
+    "reading": "ベット"
+  },
+  {
+    "kanji": "平方",
+    "reading": "ヘイホウ"
+  },
+  {
+    "kanji": "風",
+    "reading": "カゼ"
+  },
+  {
+    "kanji": "普及",
+    "reading": "フキュウ"
+  },
+  {
+    "kanji": "不足",
+    "reading": "ブソク"
+  },
+  {
+    "kanji": "不正",
+    "reading": "フセイ"
+  },
+  {
+    "kanji": "品質",
+    "reading": "ヒンシツ"
+  },
+  {
+    "kanji": "板",
+    "reading": "イタ"
+  },
+  {
+    "kanji": "発熱",
+    "reading": "ハツネツ"
+  },
+  {
+    "kanji": "配慮",
+    "reading": "ハイリョ"
+  },
+  {
+    "kanji": "年度",
+    "reading": "ネンド"
+  },
+  {
+    "kanji": "認識",
+    "reading": "ニンシキ"
+  },
+  {
+    "kanji": "任務",
+    "reading": "ニンム"
+  },
+  {
+    "kanji": "入門",
+    "reading": "ニュウモン"
+  },
+  {
+    "kanji": "入口",
+    "reading": "イリグチ"
+  },
+  {
+    "kanji": "日数",
+    "reading": "ニッスウ"
+  },
+  {
+    "kanji": "日常",
+    "reading": "ニチジョウ"
+  },
+  {
+    "kanji": "南",
+    "reading": "ミナミ"
+  },
+  {
+    "kanji": "読者",
+    "reading": "ドクシャ"
+  },
+  {
+    "kanji": "読み手",
+    "reading": "ヨミテ"
+  },
+  {
+    "kanji": "独立",
+    "reading": "ドクリツ"
+  },
+  {
+    "kanji": "特性",
+    "reading": "トクセイ"
+  },
+  {
+    "kanji": "同時",
+    "reading": "ドウジ"
+  },
+  {
+    "kanji": "等号",
+    "reading": "トウゴウ"
+  },
+  {
+    "kanji": "典型",
+    "reading": "テンケイ"
+  },
+  {
+    "kanji": "直",
+    "reading": "ジカ"
+  },
+  {
+    "kanji": "地名",
+    "reading": "チメイ"
+  },
+  {
+    "kanji": "地方",
+    "reading": "チホウ"
+  },
+  {
+    "kanji": "単語",
+    "reading": "タンゴ"
+  },
+  {
+    "kanji": "大別",
+    "reading": "タイベツ"
+  },
+  {
+    "kanji": "対話",
+    "reading": "タイワ"
+  },
+  {
+    "kanji": "太字",
+    "reading": "フトジ"
+  },
+  {
+    "kanji": "足し算",
+    "reading": "タシザン"
+  },
+  {
+    "kanji": "総称",
+    "reading": "ソウショウ"
+  },
+  {
+    "kanji": "組合せ",
+    "reading": "クミアワセ"
+  },
+  {
+    "kanji": "線",
+    "reading": "セン"
+  },
+  {
+    "kanji": "川",
+    "reading": "カワ"
+  },
+  {
+    "kanji": "設定",
+    "reading": "セッテイ"
+  },
+  {
+    "kanji": "赤色",
+    "reading": "セキショク"
+  },
+  {
+    "kanji": "生",
+    "reading": "ナマ"
+  },
+  {
+    "kanji": "正常",
+    "reading": "セイジョウ"
+  },
+  {
+    "kanji": "性格",
+    "reading": "セイカク"
+  },
+  {
+    "kanji": "人生",
+    "reading": "ジンセイ"
+  },
+  {
+    "kanji": "真理",
+    "reading": "シンリ"
+  },
+  {
+    "kanji": "新星",
+    "reading": "シンセイ"
+  },
+  {
+    "kanji": "上記",
+    "reading": "ジョウキ"
+  },
+  {
+    "kanji": "勝手",
+    "reading": "カッテ"
+  },
+  {
+    "kanji": "除算",
+    "reading": "ジョサン"
+  },
+  {
+    "kanji": "集成",
+    "reading": "シュウセイ"
+  },
+  {
+    "kanji": "集計",
+    "reading": "シュウケイ"
+  },
+  {
+    "kanji": "週間",
+    "reading": "シュウカン"
+  },
+  {
+    "kanji": "終端",
+    "reading": "シュウタン"
+  },
+  {
+    "kanji": "授業",
+    "reading": "ジュギョウ"
+  },
+  {
+    "kanji": "手持ち",
+    "reading": "テモチ"
+  },
+  {
+    "kanji": "取り扱い",
+    "reading": "トリアツカイ"
+  },
+  {
+    "kanji": "自体",
+    "reading": "ジタイ"
+  },
+  {
+    "kanji": "自作",
+    "reading": "ジサク"
+  },
+  {
+    "kanji": "事前",
+    "reading": "ジゼン"
+  },
+  {
+    "kanji": "事象",
+    "reading": "ジショウ"
+  },
+  {
+    "kanji": "氏名",
+    "reading": "シメイ"
+  },
+  {
+    "kanji": "子",
+    "reading": "コ"
+  },
+  {
+    "kanji": "山",
+    "reading": "ヤマ"
+  },
+  {
+    "kanji": "削除",
+    "reading": "サクジョ"
+  },
+  {
+    "kanji": "作用",
+    "reading": "サヨウ"
+  },
+  {
+    "kanji": "在留",
+    "reading": "ザイリュウ"
+  },
+  {
+    "kanji": "最",
+    "reading": "サイ"
+  },
+  {
+    "kanji": "座",
+    "reading": "ザ"
+  },
+  {
+    "kanji": "根",
+    "reading": "ネ"
+  },
+  {
+    "kanji": "今",
+    "reading": "イマ"
+  },
+  {
+    "kanji": "合同",
+    "reading": "ゴウドウ"
+  },
+  {
+    "kanji": "行数",
+    "reading": "ギョウスウ"
+  },
+  {
+    "kanji": "構",
+    "reading": "カマエ"
+  },
+  {
+    "kanji": "校内",
+    "reading": "コウナイ"
+  },
+  {
+    "kanji": "向上",
+    "reading": "コウジョウ"
+  },
+  {
+    "kanji": "口",
+    "reading": "クチ"
+  },
+  {
+    "kanji": "誤り",
+    "reading": "アヤマリ"
+  },
+  {
+    "kanji": "後期",
+    "reading": "コウキ"
+  },
+  {
+    "kanji": "現況",
+    "reading": "ゲンキョウ"
+  },
+  {
+    "kanji": "減算",
+    "reading": "ゲンザン"
+  },
+  {
+    "kanji": "研究",
+    "reading": "ケンキュウ"
+  },
+  {
+    "kanji": "犬",
+    "reading": "イヌ"
+  },
+  {
+    "kanji": "嫌い",
+    "reading": "キライ"
+  },
+  {
+    "kanji": "結界",
+    "reading": "ケッカイ"
+  },
+  {
+    "kanji": "欠如",
+    "reading": "ケツジョ"
+  },
+  {
+    "kanji": "警告",
+    "reading": "ケイコク"
+  },
+  {
+    "kanji": "経過",
+    "reading": "ケイカ"
+  },
+  {
+    "kanji": "空文",
+    "reading": "クウブン"
+  },
+  {
+    "kanji": "句点",
+    "reading": "クテン"
+  },
+  {
+    "kanji": "業務",
+    "reading": "ギョウム"
+  },
+  {
+    "kanji": "共用",
+    "reading": "キョウヨウ"
+  },
+  {
+    "kanji": "共",
+    "reading": "トモ"
+  },
+  {
+    "kanji": "記入",
+    "reading": "キニュウ"
+  },
+  {
+    "kanji": "規定",
+    "reading": "キテイ"
+  },
+  {
+    "kanji": "気泡",
+    "reading": "キホウ"
+  },
+  {
+    "kanji": "機能",
+    "reading": "キノウ"
+  },
+  {
+    "kanji": "基準",
+    "reading": "キジュン"
+  },
+  {
+    "kanji": "慣習",
+    "reading": "カンシュウ"
+  },
+  {
+    "kanji": "完了",
+    "reading": "カンリョウ"
+  },
+  {
+    "kanji": "割",
+    "reading": "ワリ"
+  },
+  {
+    "kanji": "各行",
+    "reading": "カクギョウ"
+  },
+  {
+    "kanji": "懐",
+    "reading": "フトコロ"
+  },
+  {
+    "kanji": "解放",
+    "reading": "カイホウ"
+  },
+  {
+    "kanji": "解読",
+    "reading": "カイドク"
+  },
+  {
+    "kanji": "火",
+    "reading": "ヒ"
+  },
+  {
+    "kanji": "科目",
+    "reading": "カモク"
+  },
+  {
+    "kanji": "夏",
+    "reading": "ナツ"
+  },
+  {
+    "kanji": "右端",
+    "reading": "ミギハシ"
+  },
+  {
+    "kanji": "一連",
+    "reading": "イチレン"
+  },
+  {
+    "kanji": "一定",
+    "reading": "イッテイ"
+  },
+  {
+    "kanji": "一緒",
+    "reading": "イッショ"
+  },
+  {
+    "kanji": "一時",
+    "reading": "イチジ"
+  },
+  {
+    "kanji": "一見",
+    "reading": "イッケン"
+  },
+  {
+    "kanji": "意図",
+    "reading": "イト"
+  },
+  {
+    "kanji": "暗記",
+    "reading": "アンキ"
+  },
+  {
+    "kanji": "掟",
+    "reading": "オキテ"
+  },
+  {
+    "kanji": "和差",
+    "reading": "ワサ"
+  },
+  {
+    "kanji": "論文",
+    "reading": "ロンブン"
+  },
+  {
+    "kanji": "連絡",
+    "reading": "レンラク"
+  },
+  {
+    "kanji": "連番",
+    "reading": "レンバン"
+  },
+  {
+    "kanji": "例題",
+    "reading": "レイダイ"
+  },
+  {
+    "kanji": "類似",
+    "reading": "ルイジ"
+  },
+  {
+    "kanji": "臨機",
+    "reading": "リンキ"
+  },
+  {
+    "kanji": "寮",
+    "reading": "リョウ"
+  },
+  {
+    "kanji": "両者",
+    "reading": "リョウシャ"
+  },
+  {
+    "kanji": "留意",
+    "reading": "リュウイ"
+  },
+  {
+    "kanji": "理和",
+    "reading": "リワ"
+  },
+  {
+    "kanji": "理論",
+    "reading": "リロン"
+  },
+  {
+    "kanji": "理由",
+    "reading": "リユウ"
+  },
+  {
+    "kanji": "要領",
+    "reading": "ヨウリョウ"
+  },
+  {
+    "kanji": "用語",
+    "reading": "ヨウゴ"
+  },
+  {
+    "kanji": "曜日",
+    "reading": "ヨウビ"
+  },
+  {
+    "kanji": "余裕",
+    "reading": "ヨユウ"
+  },
+  {
+    "kanji": "余白",
+    "reading": "ヨハク"
+  },
+  {
+    "kanji": "有限",
+    "reading": "ユウゲン"
+  },
+  {
+    "kanji": "唯一",
+    "reading": "ユイイツ"
+  },
+  {
+    "kanji": "役",
+    "reading": "ヤク"
+  },
+  {
+    "kanji": "野球",
+    "reading": "ヤキュウ"
+  },
+  {
+    "kanji": "木",
+    "reading": "キ"
+  },
+  {
+    "kanji": "網掛け",
+    "reading": "アミカケ"
+  },
+  {
+    "kanji": "毛",
+    "reading": "ケ"
+  },
+  {
+    "kanji": "命名",
+    "reading": "メイメイ"
+  },
+  {
+    "kanji": "名字",
+    "reading": "ミョウジ"
+  },
+  {
+    "kanji": "無視",
+    "reading": "ムシ"
+  },
+  {
+    "kanji": "妙",
+    "reading": "ミョウ"
+  },
+  {
+    "kanji": "未満",
+    "reading": "ミマン"
+  },
+  {
+    "kanji": "味",
+    "reading": "アジ"
+  },
+  {
+    "kanji": "毎日",
+    "reading": "マイニチ"
+  },
+  {
+    "kanji": "毎月",
+    "reading": "マイツキ"
+  },
+  {
+    "kanji": "本来",
+    "reading": "ホンライ"
+  },
+  {
+    "kanji": "本物",
+    "reading": "ホンモノ"
+  },
+  {
+    "kanji": "本節",
+    "reading": "ホンセツ"
+  },
+  {
+    "kanji": "本質",
+    "reading": "ホンシツ"
+  },
+  {
+    "kanji": "本音",
+    "reading": "ホンネ"
+  },
+  {
+    "kanji": "泡立ち",
+    "reading": "アワダチ"
+  },
+  {
+    "kanji": "方程",
+    "reading": "ホウテイ"
+  },
+  {
+    "kanji": "補完",
+    "reading": "ホカン"
+  },
+  {
+    "kanji": "勉強",
+    "reading": "ベンキョウ"
+  },
+  {
+    "kanji": "辺り",
+    "reading": "アタリ"
+  },
+  {
+    "kanji": "別物",
+    "reading": "ベツモノ"
+  },
+  {
+    "kanji": "文内",
+    "reading": "ブンナイ"
+  },
+  {
+    "kanji": "物理",
+    "reading": "ブツリ"
+  },
+  {
+    "kanji": "物ごと",
+    "reading": "モノゴト"
+  },
+  {
+    "kanji": "幅",
+    "reading": "ハバ"
+  },
+  {
+    "kanji": "復元",
+    "reading": "フクゲン"
+  },
+  {
+    "kanji": "浮気",
+    "reading": "ウワキ"
+  },
+  {
+    "kanji": "付き",
+    "reading": "ツキ"
+  },
+  {
+    "kanji": "不便",
+    "reading": "フベン"
+  },
+  {
+    "kanji": "不可",
+    "reading": "フカ"
+  },
+  {
+    "kanji": "不安",
+    "reading": "フアン"
+  },
+  {
+    "kanji": "秒数",
+    "reading": "ビョウスウ"
+  },
+  {
+    "kanji": "飛行",
+    "reading": "ヒコウ"
+  },
+  {
+    "kanji": "非",
+    "reading": "ヒ"
+  },
+  {
+    "kanji": "秘密",
+    "reading": "ヒミツ"
+  },
+  {
+    "kanji": "比",
+    "reading": "ヒ"
+  },
+  {
+    "kanji": "販売",
+    "reading": "ハンバイ"
+  },
+  {
+    "kanji": "反面",
+    "reading": "ハンメン"
+  },
+  {
+    "kanji": "半分",
+    "reading": "ハンブン"
+  },
+  {
+    "kanji": "半値",
+    "reading": "ハンネ"
+  },
+  {
+    "kanji": "半角",
+    "reading": "ハンカク"
+  },
+  {
+    "kanji": "判別",
+    "reading": "ハンベツ"
+  },
+  {
+    "kanji": "発見",
+    "reading": "ハッケン"
+  },
+  {
+    "kanji": "売りもの",
+    "reading": "ウリモノ"
+  },
+  {
+    "kanji": "破棄",
+    "reading": "ハキ"
+  },
+  {
+    "kanji": "破壊",
+    "reading": "ハカイ"
+  },
+  {
+    "kanji": "波",
+    "reading": "ナミ"
+  },
+  {
+    "kanji": "年",
+    "reading": "トシ"
+  },
+  {
+    "kanji": "入出",
+    "reading": "ニュウシュツ"
+  },
+  {
+    "kanji": "入試",
+    "reading": "ニュウシ"
+  },
+  {
+    "kanji": "日曜",
+    "reading": "ニチヨウ"
+  },
+  {
+    "kanji": "日々",
+    "reading": "ヒビ"
+  },
+  {
+    "kanji": "内",
+    "reading": "ウチ"
+  },
+  {
+    "kanji": "突入",
+    "reading": "トツニュウ"
+  },
+  {
+    "kanji": "得意",
+    "reading": "トクイ"
+  },
+  {
+    "kanji": "導入",
+    "reading": "ドウニュウ"
+  },
+  {
+    "kanji": "頭側",
+    "reading": "トウソク"
+  },
+  {
+    "kanji": "答え",
+    "reading": "コタエ"
+  },
+  {
+    "kanji": "当",
+    "reading": "トウ"
+  },
+  {
+    "kanji": "冬",
+    "reading": "フユ"
+  },
+  {
+    "kanji": "土",
+    "reading": "ド"
+  },
+  {
+    "kanji": "電発",
+    "reading": "デンパツ"
+  },
+  {
+    "kanji": "電子",
+    "reading": "デンシ"
+  },
+  {
+    "kanji": "伝統",
+    "reading": "デントウ"
+  },
+  {
+    "kanji": "転送",
+    "reading": "テンソウ"
+  },
+  {
+    "kanji": "程度",
+    "reading": "テイド"
+  },
+  {
+    "kanji": "提示",
+    "reading": "テイジ"
+  },
+  {
+    "kanji": "提案",
+    "reading": "テイアン"
+  },
+  {
+    "kanji": "底",
+    "reading": "ソコ"
+  },
+  {
+    "kanji": "鶴",
+    "reading": "ツル"
+  },
+  {
+    "kanji": "通用",
+    "reading": "ツウヨウ"
+  },
+  {
+    "kanji": "通行",
+    "reading": "ツウコウ"
+  },
+  {
+    "kanji": "痛み",
+    "reading": "イタミ"
+  },
+  {
+    "kanji": "長期",
+    "reading": "チョウキ"
+  },
+  {
+    "kanji": "調査",
+    "reading": "チョウサ"
+  },
+  {
+    "kanji": "中心",
+    "reading": "チュウシン"
+  },
+  {
+    "kanji": "知識",
+    "reading": "チシキ"
+  },
+  {
+    "kanji": "男の子",
+    "reading": "オトコノコ"
+  },
+  {
+    "kanji": "段",
+    "reading": "ダン"
+  },
+  {
+    "kanji": "短縮",
+    "reading": "タンシュク"
+  },
+  {
+    "kanji": "谷",
+    "reading": "タニ"
+  },
+  {
+    "kanji": "卓球",
+    "reading": "タッキュウ"
+  },
+  {
+    "kanji": "卓",
+    "reading": "タク"
+  },
+  {
+    "kanji": "題材",
+    "reading": "ダイザイ"
+  },
+  {
+    "kanji": "大公",
+    "reading": "タイコウ"
+  },
+  {
+    "kanji": "大会",
+    "reading": "タイカイ"
+  },
+  {
+    "kanji": "代表",
+    "reading": "ダイヒョウ"
+  },
+  {
+    "kanji": "体用",
+    "reading": "タイヨウ"
+  },
+  {
+    "kanji": "体験",
+    "reading": "タイケン"
+  },
+  {
+    "kanji": "他方",
+    "reading": "タホウ"
+  },
+  {
+    "kanji": "他人",
+    "reading": "タニン"
+  },
+  {
+    "kanji": "存知",
+    "reading": "ゾンジ"
+  },
+  {
+    "kanji": "属性",
+    "reading": "ゾクセイ"
+  },
+  {
+    "kanji": "俗称",
+    "reading": "ゾクショウ"
+  },
+  {
+    "kanji": "速度",
+    "reading": "ソクド"
+  },
+  {
+    "kanji": "増加",
+    "reading": "ゾウカ"
+  },
+  {
+    "kanji": "走査",
+    "reading": "ソウサ"
+  },
+  {
+    "kanji": "装置",
+    "reading": "ソウチ"
+  },
+  {
+    "kanji": "相互",
+    "reading": "ソウゴ"
+  },
+  {
+    "kanji": "挿入",
+    "reading": "ソウニュウ"
+  },
+  {
+    "kanji": "素",
+    "reading": "モト"
+  },
+  {
+    "kanji": "前提",
+    "reading": "ゼンテイ"
+  },
+  {
+    "kanji": "前節",
+    "reading": "ゼンセツ"
+  },
+  {
+    "kanji": "前後",
+    "reading": "ゼンゴ"
+  },
+  {
+    "kanji": "選手",
+    "reading": "センシュ"
+  },
+  {
+    "kanji": "占有",
+    "reading": "センユウ"
+  },
+  {
+    "kanji": "占",
+    "reading": "ウラナイ"
+  },
+  {
+    "kanji": "雪",
+    "reading": "ユキ"
+  },
+  {
+    "kanji": "接続",
+    "reading": "セツゾク"
+  },
+  {
+    "kanji": "接触",
+    "reading": "セッショク"
+  },
+  {
+    "kanji": "赤字",
+    "reading": "アカジ"
+  },
+  {
+    "kanji": "生まれ",
+    "reading": "ウマレ"
+  },
+  {
+    "kanji": "性別",
+    "reading": "セイベツ"
+  },
+  {
+    "kanji": "制限",
+    "reading": "セイゲン"
+  },
+  {
+    "kanji": "数量",
+    "reading": "スウリョウ"
+  },
+  {
+    "kanji": "数別",
+    "reading": "スウベツ"
+  },
+  {
+    "kanji": "数え上げ",
+    "reading": "カゾエアゲ"
+  },
+  {
+    "kanji": "水",
+    "reading": "ミズ"
+  },
+  {
+    "kanji": "図中",
+    "reading": "ズチュウ"
+  },
+  {
+    "kanji": "図式",
+    "reading": "ズシキ"
+  },
+  {
+    "kanji": "人まかせ",
+    "reading": "ヒトマカセ"
+  },
+  {
+    "kanji": "身体",
+    "reading": "シンタイ"
+  },
+  {
+    "kanji": "身のまわり",
+    "reading": "ミノマワリ"
+  },
+  {
+    "kanji": "診断",
+    "reading": "シンダン"
+  },
+  {
+    "kanji": "真",
+    "reading": "マコト"
+  },
+  {
+    "kanji": "新設",
+    "reading": "シンセツ"
+  },
+  {
+    "kanji": "信号",
+    "reading": "シンゴウ"
+  },
+  {
+    "kanji": "食",
+    "reading": "ショク"
+  },
+  {
+    "kanji": "状況",
+    "reading": "ジョウキョウ"
+  },
+  {
+    "kanji": "上部",
+    "reading": "ジョウブ"
+  },
+  {
+    "kanji": "上達",
+    "reading": "ジョウタツ"
+  },
+  {
+    "kanji": "上限",
+    "reading": "ジョウゲン"
+  },
+  {
+    "kanji": "賞",
+    "reading": "ショウ"
+  },
+  {
+    "kanji": "衝突",
+    "reading": "ショウトツ"
+  },
+  {
+    "kanji": "照合",
+    "reading": "ショウゴウ"
+  },
+  {
+    "kanji": "消費",
+    "reading": "ショウヒ"
+  },
+  {
+    "kanji": "少校",
+    "reading": "ショウコウ"
+  },
+  {
+    "kanji": "順繰り",
+    "reading": "ジュングリ"
+  },
+  {
+    "kanji": "瞬間",
+    "reading": "シュンカン"
+  },
+  {
+    "kanji": "春",
+    "reading": "ハル"
+  },
+  {
+    "kanji": "出口",
+    "reading": "デグチ"
+  },
+  {
+    "kanji": "重み",
+    "reading": "オモミ"
+  },
+  {
+    "kanji": "縦線",
+    "reading": "タテセン"
+  },
+  {
+    "kanji": "集約",
+    "reading": "シュウヤク"
+  },
+  {
+    "kanji": "秋",
+    "reading": "アキ"
+  },
+  {
+    "kanji": "修飾",
+    "reading": "シュウショク"
+  },
+  {
+    "kanji": "周辺",
+    "reading": "シュウヘン"
+  },
+  {
+    "kanji": "手土産",
+    "reading": "テミヤゲ"
+  },
+  {
+    "kanji": "手間",
+    "reading": "テマ"
+  },
+  {
+    "kanji": "主役",
+    "reading": "シュヤク"
+  },
+  {
+    "kanji": "斜体",
+    "reading": "シャタイ"
+  },
+  {
+    "kanji": "斜線",
+    "reading": "シャセン"
+  },
+  {
+    "kanji": "斜",
+    "reading": "シャ"
+  },
+  {
+    "kanji": "実線",
+    "reading": "ジッセン"
+  },
+  {
+    "kanji": "実質",
+    "reading": "ジッシツ"
+  },
+  {
+    "kanji": "質問",
+    "reading": "シツモン"
+  },
+  {
+    "kanji": "質",
+    "reading": "シツ"
+  },
+  {
+    "kanji": "次節",
+    "reading": "ジセツ"
+  },
+  {
+    "kanji": "次回",
+    "reading": "ジカイ"
+  },
+  {
+    "kanji": "時点",
+    "reading": "ジテン"
+  },
+  {
+    "kanji": "事物",
+    "reading": "ジブツ"
+  },
+  {
+    "kanji": "視覚",
+    "reading": "シカク"
+  },
+  {
+    "kanji": "氏",
+    "reading": "シ"
+  },
+  {
+    "kanji": "支援",
+    "reading": "シエン"
+  },
+  {
+    "kanji": "指導",
+    "reading": "シドウ"
+  },
+  {
+    "kanji": "四則",
+    "reading": "シソク"
+  },
+  {
+    "kanji": "四捨",
+    "reading": "シシャ"
+  },
+  {
+    "kanji": "使い分け",
+    "reading": "ツカイワケ"
+  },
+  {
+    "kanji": "参考",
+    "reading": "サンコウ"
+  },
+  {
+    "kanji": "策",
+    "reading": "サク"
+  },
+  {
+    "kanji": "作戦",
+    "reading": "サクセン"
+  },
+  {
+    "kanji": "採点",
+    "reading": "サイテン"
+  },
+  {
+    "kanji": "再度",
+    "reading": "サイド"
+  },
+  {
+    "kanji": "座席",
+    "reading": "ザセキ"
+  },
+  {
+    "kanji": "左中",
+    "reading": "サチュウ"
+  },
+  {
+    "kanji": "左角",
+    "reading": "ヒダリカド"
+  },
+  {
+    "kanji": "混同",
+    "reading": "コンドウ"
+  },
+  {
+    "kanji": "根本",
+    "reading": "コンポン"
+  },
+  {
+    "kanji": "合",
+    "reading": "ゴウ"
+  },
+  {
+    "kanji": "高速",
+    "reading": "コウソク"
+  },
+  {
+    "kanji": "高校",
+    "reading": "コウコウ"
+  },
+  {
+    "kanji": "降順",
+    "reading": "コウジュン"
+  },
+  {
+    "kanji": "講",
+    "reading": "コウ"
+  },
+  {
+    "kanji": "行動",
+    "reading": "コウドウ"
+  },
+  {
+    "kanji": "考察",
+    "reading": "コウサツ"
+  },
+  {
+    "kanji": "考案",
+    "reading": "コウアン"
+  },
+  {
+    "kanji": "恒",
+    "reading": "ツネ"
+  },
+  {
+    "kanji": "広報",
+    "reading": "コウホウ"
+  },
+  {
+    "kanji": "工夫",
+    "reading": "クフウ"
+  },
+  {
+    "kanji": "効果",
+    "reading": "コウカ"
+  },
+  {
+    "kanji": "交",
+    "reading": "コウ"
+  },
+  {
+    "kanji": "誤差",
+    "reading": "ゴサ"
+  },
+  {
+    "kanji": "誤解",
+    "reading": "ゴカイ"
+  },
+  {
+    "kanji": "誤ち",
+    "reading": "アヤマチ"
+  },
+  {
+    "kanji": "後述",
+    "reading": "コウジュツ"
+  },
+  {
+    "kanji": "後回し",
+    "reading": "アトマワシ"
+  },
+  {
+    "kanji": "後ろ側",
+    "reading": "ウシロガワ"
+  },
+  {
+    "kanji": "後々",
+    "reading": "ノチノチ"
+  },
+  {
+    "kanji": "午前",
+    "reading": "ゴゼン"
+  },
+  {
+    "kanji": "五入",
+    "reading": "ゴニュウ"
+  },
+  {
+    "kanji": "固有",
+    "reading": "コユウ"
+  },
+  {
+    "kanji": "個別",
+    "reading": "コベツ"
+  },
+  {
+    "kanji": "言",
+    "reading": "ゲン"
+  },
+  {
+    "kanji": "減少",
+    "reading": "ゲンショウ"
+  },
+  {
+    "kanji": "原料",
+    "reading": "ゲンリョウ"
+  },
+  {
+    "kanji": "原",
+    "reading": "ハラ"
+  },
+  {
+    "kanji": "検査",
+    "reading": "ケンサ"
+  },
+  {
+    "kanji": "検",
+    "reading": "ケン"
+  },
+  {
+    "kanji": "月数",
+    "reading": "ゲッスウ"
+  },
+  {
+    "kanji": "結び付き",
+    "reading": "ムスビツキ"
+  },
+  {
+    "kanji": "決定",
+    "reading": "ケッテイ"
+  },
+  {
+    "kanji": "計画",
+    "reading": "ケイカク"
+  },
+  {
+    "kanji": "継",
+    "reading": "ツギ"
+  },
+  {
+    "kanji": "形態",
+    "reading": "ケイタイ"
+  },
+  {
+    "kanji": "傾向",
+    "reading": "ケイコウ"
+  },
+  {
+    "kanji": "係",
+    "reading": "ガカリ"
+  },
+  {
+    "kanji": "吟味",
+    "reading": "ギンミ"
+  },
+  {
+    "kanji": "興",
+    "reading": "キョウ"
+  },
+  {
+    "kanji": "教則",
+    "reading": "キョウソク"
+  },
+  {
+    "kanji": "教科",
+    "reading": "キョウカ"
+  },
+  {
+    "kanji": "許",
+    "reading": "モト"
+  },
+  {
+    "kanji": "挙動",
+    "reading": "キョドウ"
+  },
+  {
+    "kanji": "詰め物",
+    "reading": "ツメモノ"
+  },
+  {
+    "kanji": "義",
+    "reading": "ヨシ"
+  },
+  {
+    "kanji": "疑問",
+    "reading": "ギモン"
+  },
+  {
+    "kanji": "技術",
+    "reading": "ギジュツ"
+  },
+  {
+    "kanji": "偽",
+    "reading": "ニセ"
+  },
+  {
+    "kanji": "起動",
+    "reading": "キドウ"
+  },
+  {
+    "kanji": "起因",
+    "reading": "キイン"
+  },
+  {
+    "kanji": "規格",
+    "reading": "キカク"
+  },
+  {
+    "kanji": "帰国",
+    "reading": "キコク"
+  },
+  {
+    "kanji": "機構",
+    "reading": "キコウ"
+  },
+  {
+    "kanji": "機器",
+    "reading": "キキ"
+  },
+  {
+    "kanji": "期間",
+    "reading": "キカン"
+  },
+  {
+    "kanji": "期",
+    "reading": "キ"
+  },
+  {
+    "kanji": "既存",
+    "reading": "キゾン"
+  },
+  {
+    "kanji": "寄せ集め",
+    "reading": "ヨセアツメ"
+  },
+  {
+    "kanji": "岩合",
+    "reading": "イワゴウ"
+  },
+  {
+    "kanji": "間違え",
+    "reading": "マチガエ"
+  },
+  {
+    "kanji": "観点",
+    "reading": "カンテン"
+  },
+  {
+    "kanji": "漢字",
+    "reading": "カンジ"
+  },
+  {
+    "kanji": "感嘆",
+    "reading": "カンタン"
+  },
+  {
+    "kanji": "感覚",
+    "reading": "カンカク"
+  },
+  {
+    "kanji": "完結",
+    "reading": "カンケツ"
+  },
+  {
+    "kanji": "活用",
+    "reading": "カツヨウ"
+  },
+  {
+    "kanji": "活躍",
+    "reading": "カツヤク"
+  },
+  {
+    "kanji": "割り算",
+    "reading": "ワリザン"
+  },
+  {
+    "kanji": "楽",
+    "reading": "ラク"
+  },
+  {
+    "kanji": "学年",
+    "reading": "ガクネン"
+  },
+  {
+    "kanji": "学内",
+    "reading": "ガクナイ"
+  },
+  {
+    "kanji": "学籍",
+    "reading": "ガクセキ"
+  },
+  {
+    "kanji": "学校",
+    "reading": "ガッコウ"
+  },
+  {
+    "kanji": "格",
+    "reading": "カク"
+  },
+  {
+    "kanji": "各値",
+    "reading": "カクチ"
+  },
+  {
+    "kanji": "各段",
+    "reading": "カクダン"
+  },
+  {
+    "kanji": "各処",
+    "reading": "カクショ"
+  },
+  {
+    "kanji": "街",
+    "reading": "マチ"
+  },
+  {
+    "kanji": "概略",
+    "reading": "ガイリャク"
+  },
+  {
+    "kanji": "階",
+    "reading": "カイ"
+  },
+  {
+    "kanji": "開始",
+    "reading": "カイシ"
+  },
+  {
+    "kanji": "改",
+    "reading": "カイ"
+  },
+  {
+    "kanji": "会場",
+    "reading": "カイジョウ"
+  },
+  {
+    "kanji": "画",
+    "reading": "エ"
+  },
+  {
+    "kanji": "可否",
+    "reading": "カヒ"
+  },
+  {
+    "kanji": "可搬",
+    "reading": "カハン"
+  },
+  {
+    "kanji": "可",
+    "reading": "カ"
+  },
+  {
+    "kanji": "加算",
+    "reading": "カサン"
+  },
+  {
+    "kanji": "加減算",
+    "reading": "カゲンサン"
+  },
+  {
+    "kanji": "加",
+    "reading": "カ"
+  },
+  {
+    "kanji": "価値",
+    "reading": "カチ"
+  },
+  {
+    "kanji": "仮定",
+    "reading": "カテイ"
+  },
+  {
+    "kanji": "下線",
+    "reading": "カセン"
+  },
+  {
+    "kanji": "下図",
+    "reading": "シタズ"
+  },
+  {
+    "kanji": "下手",
+    "reading": "ヘタ"
+  },
+  {
+    "kanji": "音",
+    "reading": "オト"
+  },
+  {
+    "kanji": "音",
+    "reading": "オン"
+  },
+  {
+    "kanji": "横",
+    "reading": "ヨコ"
+  },
+  {
+    "kanji": "応変",
+    "reading": "オウヘン"
+  },
+  {
+    "kanji": "縁",
+    "reading": "エン"
+  },
+  {
+    "kanji": "演説",
+    "reading": "エンゼツ"
+  },
+  {
+    "kanji": "液体",
+    "reading": "エキタイ"
+  },
+  {
+    "kanji": "永久",
+    "reading": "エイキュウ"
+  },
+  {
+    "kanji": "閏年",
+    "reading": "ジュンネン"
+  },
+  {
+    "kanji": "嘘",
+    "reading": "ウソ"
+  },
+  {
+    "kanji": "右辺",
+    "reading": "ウヘン"
+  },
+  {
+    "kanji": "右角",
+    "reading": "ミギカド"
+  },
+  {
+    "kanji": "引っ越し",
+    "reading": "ヒッコシ"
+  },
+  {
+    "kanji": "引き渡し",
+    "reading": "ヒキワタシ"
+  },
+  {
+    "kanji": "引き算",
+    "reading": "ヒキザン"
+  },
+  {
+    "kanji": "引",
+    "reading": "ビキ"
+  },
+  {
+    "kanji": "一致",
+    "reading": "イッチ"
+  },
+  {
+    "kanji": "一刻",
+    "reading": "イッコク"
+  },
+  {
+    "kanji": "一気",
+    "reading": "イッキ"
+  },
+  {
+    "kanji": "一意",
+    "reading": "イチイ"
+  },
+  {
+    "kanji": "域",
+    "reading": "イキ"
+  },
+  {
+    "kanji": "違反",
+    "reading": "イハン"
+  },
+  {
+    "kanji": "以前",
+    "reading": "イゼン"
+  },
+  {
+    "kanji": "暗黙",
+    "reading": "アンモク"
+  },
+  {
+    "kanji": "安定",
+    "reading": "アンテイ"
+  },
+  {
+    "kanji": "",
+    "reading": ""
+  }
 ]

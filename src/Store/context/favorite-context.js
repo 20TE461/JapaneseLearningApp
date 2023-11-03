@@ -1,19 +1,28 @@
 import { createContext, useEffect, useState } from "react";
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { current } from "@reduxjs/toolkit";
 
 export const FavoriteCtx = createContext({
   favoriteWordIds: [],
+  hasMemoIds: [],
   addFavoriteWordId: (wordId) => {},
-  removeFavoriteWordId: (wordId) => {}
+  removeFavoriteWordId: (wordId) => {},
+  addMemoId: (memoId) => {},
+  removeMemoId: (memoId) => {},
 });
 
 export default function FavoriteCtxProvider({children}) {
   const [favoriteWordIds, setFavoriteWordIds] = useState();
+  const [hasMemoIds, setHasMemoIds] = useState();
 
   useEffect(()=>{
     getCachedFavoriteWordIds('fav-ids').then((res)=>{
       res ? setFavoriteWordIds(res) : setFavoriteWordIds([]);
     });
+    
+    getCachedFavoriteWordIds('memo-ids').then((res)=>{
+      setHasMemoIds(res ? res : [])
+    })
   },[]);
 
   useEffect(()=>{
@@ -21,6 +30,12 @@ export default function FavoriteCtxProvider({children}) {
       setCachedFavoriteWordIds(favoriteWordIds, 'fav-ids');
     };
   },[favoriteWordIds]);
+
+  useEffect(()=>{
+    if(hasMemoIds) {
+      setCachedFavoriteWordIds(hasMemoIds, 'memo-ids');
+    }
+  }, [hasMemoIds]);
   
   async function getCachedFavoriteWordIds(key) {
     try {
@@ -50,10 +65,25 @@ export default function FavoriteCtxProvider({children}) {
     ));
   }
 
+  function addMemoId(memoId) {
+    setHasMemoIds((currentMemoIds)=>[...currentMemoIds, memoId]);
+  }
+
+  function removeMemoId(memoId) {
+    setHasMemoIds((currentMemoIds)=>(
+      currentMemoIds.filter(
+        (currentId) => currentId !== memoId
+      )
+    ));
+  }
+
   const values = {
     favoriteWordIds: favoriteWordIds,
+    hasMemoIds: hasMemoIds,
     addFavoriteWordId: addFavoriteWordId,
-    removeFavoriteWordId: removeFavoriteWordId
+    removeFavoriteWordId: removeFavoriteWordId,
+    addMemoId: addMemoId,
+    removeMemoId: removeMemoId,
   }
 
   return (

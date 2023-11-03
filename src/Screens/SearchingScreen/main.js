@@ -1,19 +1,18 @@
-import { useContext, useEffect, useState } from 'react';
+import { memo, useCallback, useContext, useState } from 'react';
 import { View, TextInput } from 'react-native';
 import { styles } from './styles';
 import { FontAwesome } from '@expo/vector-icons'; 
 import { FlatList } from 'react-native';
 import { FavoriteCtx } from '../../Store/context/favorite-context';
-import AsyncStorage from '@react-native-async-storage/async-storage';
 import SearchOutput from './SearchOutput';
 
 const dictionary = require('../../../Data/dictionary.json');
 
-export default function SearchingScreen({navigation, lang, route}) {
+function SearchingScreen({navigation, lang}) {
 
-  const [ASKeys, setASKeys] = useState([]);
   const [searchInput, setSearchInput] = useState(null);
   const favoriteWordIds = useContext(FavoriteCtx).favoriteWordIds;
+  const hasMemoIds = useContext(FavoriteCtx).hasMemoIds;
 
   function sortByKanjiLength(array) {
     return array.sort((left,right)=>{
@@ -30,32 +29,19 @@ export default function SearchingScreen({navigation, lang, route}) {
     navigation.navigate('TangoInfoScreen', {...params, lang:lang});
   }
 
-  function getOutputRender(itemData) {
-    return <SearchOutput favoriteWordIds={favoriteWordIds}
-                         ASKeys={ASKeys}
-                         itemData={itemData}                
-                         navigateHandler={navigateHandler}
-                         lang={lang}
-                         />
-  }
-
-  function getOutputListRender(searchInput, inputList) {
-
-    useEffect(()=>{
-      const init = async () => {
-        await AsyncStorage.getAllKeys().then(
-          (res)=>{setASKeys(res)}
-        );
-      };
-      init();
-    },[ASKeys]);
-
+  const getOutputRender = useCallback((data) =>{
     return (
-      <FlatList data={getOutputList(searchInput, inputList)}
-                renderItem={getOutputRender}
-                />
+      <View key={data.itemData.id}>
+        <SearchOutput 
+          favoriteWordIds={data.favoriteWordIds}
+          itemData={data.itemData}                
+          navigateHandler={data.navigateHandler}
+          lang={data.lang}
+          hasMemoIds={data.hasMemoIds}
+          />
+      </View>
     );
-  }
+  },[]);
 
   return (
     <View style={styles.mainContainer}>
@@ -75,8 +61,20 @@ export default function SearchingScreen({navigation, lang, route}) {
                     />
       </View>
       <View style={styles.outputContainer}>
-        {getOutputListRender(searchInput, dictionary.jisho)}
+        <FlatList data={getOutputList(searchInput, dictionary.jisho)}
+                  renderItem={(itemData)=>getOutputRender({
+                    itemData, 
+                    favoriteWordIds, 
+                    lang, 
+                    navigateHandler, 
+                    hasMemoIds
+                  })}
+                  keyExtractor={(item, index)=>item.id}
+                  removeClippedSubviews={true}
+                  />
       </View>
     </View>
   );
 }
+
+export default memo(SearchingScreen);

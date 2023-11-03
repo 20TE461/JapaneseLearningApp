@@ -1,11 +1,11 @@
-import { useContext } from "react";
+import { memo, useContext } from "react";
 import { FlatList, Pressable, Text, View } from "react-native";
 import { FavoriteCtx } from "../../Store/context/favorite-context";
 import { styles } from "./styles";
 
 const dictionary = require('../../../Data/dictionary.json');
 
-export default function FavoriteListScreen({navigation, lang}) {
+function FavoriteListScreen({navigation, lang}) {
   const favoriteCtx = useContext(FavoriteCtx);
 
   const favoriteWords = dictionary.jisho.filter(
@@ -43,3 +43,5 @@ export default function FavoriteListScreen({navigation, lang}) {
     </View>
   );
 }
+
+export default memo(FavoriteListScreen);

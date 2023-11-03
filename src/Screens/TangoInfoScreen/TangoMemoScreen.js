@@ -1,13 +1,16 @@
 import { Button, Modal,StyleSheet,Text, TextInput, View } from "react-native";
 import { AntDesign } from '@expo/vector-icons'; 
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { FavoriteCtx } from "../../Store/context/favorite-context";
 
 export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
   const memoK = `memo_tango_${tangoId}`;
   const [saveSuccess, setSaveSuccess] = useState(null); //bool
   const [currentMemo, setCurrentMemo] = useState(null); //string
   const [saveWarning, setSaveWarning] = useState(false);
+
+  const favoriteCtx = useContext(FavoriteCtx);
 
   useEffect(()=>{
     const init = async () =>{
@@ -40,8 +43,10 @@ export default function TangoMemoScreen({isShow, setIsShow, tangoId}) {
     try {
       if(currentMemo) {
         await AsyncStorage.setItem(memoK, JSON.stringify(currentMemo)); 
+        favoriteCtx.addMemoId(memoK);
       } else {
         await AsyncStorage.removeItem(memoK);
+        favoriteCtx.removeMemoId(memoK);
       }
       setSaveWarning(false);
       setSaveSuccess(true);

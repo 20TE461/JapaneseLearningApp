@@ -57,7 +57,7 @@ export const styles = StyleSheet.create({
       color: '#bebebe'
     },
     noteIcon: {
-      fontSize: 17,
+      fontSize: 20,
       color: 'gold',
       marginHorizontal: 10,
       alignSelf: 'flex-end'

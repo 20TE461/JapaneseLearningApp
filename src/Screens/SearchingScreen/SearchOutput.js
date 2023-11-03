@@ -1,12 +1,13 @@
-import { useEffect, useState } from 'react';
+import { memo, useEffect, useState } from 'react';
 import { View, Text, Pressable} from 'react-native';
 import { styles } from './styles';
 import { FontAwesome, AntDesign } from '@expo/vector-icons'; 
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export default function SearchOutput({itemData, navigateHandler, favoriteWordIds, ASKeys, lang}) {
+function SearchOutput({itemData, navigateHandler, favoriteWordIds, hasMemoIds, lang}) {
   const searchK = `search_tango_${itemData.item.id}`;
   const memoK = `memo_tango_${itemData.item.id}`;
+  const [ASKey, setASKey] = useState(null);
   const [searchNum, setSearchNum] = useState(null);
 
   async function getSearchNum(searchK) {
@@ -22,6 +23,17 @@ export default function SearchOutput({itemData, navigateHandler, favoriteWordIds
     getSearchNum(searchK);
   },[]);
 
+  console.log(searchK);
+
+  // useEffect(()=>{
+  //   const init = async () => {
+  //     await AsyncStorage.getAllKeys().then(
+  //       (keys)=>{setASKey(keys.find((key)=>key===memoK))}
+  //     );
+  //   };
+  //   init();
+  // },[]);
+
   return (
     <Pressable 
       style={({pressed})=>{
@@ -30,7 +42,7 @@ export default function SearchOutput({itemData, navigateHandler, favoriteWordIds
           {...styles.outputTile.container, opacity: 0.25} 
           : 
           {...styles.outputTile.container, 
-            borderColor: ASKeys.find((key)=>key === memoK) ? 'green':'#999999'
+            borderColor: (hasMemoIds.find(ids=>ids===memoK)) ? 'green':'#999999'
           });
       }}
       onPress={navigateHandler.bind(this, itemData.item)}>
@@ -64,3 +76,5 @@ export default function SearchOutput({itemData, navigateHandler, favoriteWordIds
     </Pressable>
   );
 }
+
+export default memo(SearchOutput);

@@ -2,7 +2,7 @@ import KarutaCard from "../../Components/KarutaCard";
 import { styles } from "./style";
 import KarutaGameFootBar from "../../Components/KarutaGameFootBar";
 import GameOverScreen from "../GameOverScreen/GameOverScreen";
-import { View, FlatList, Text } from "react-native"
+import { View, FlatList} from "react-native"
 import KarutaGameHeaderBar from "../../Components/KarutaGameHeaderBar";
 import { useState, useEffect } from "react";
 
@@ -59,8 +59,10 @@ export default function KarutaGameScreen({setGameScreen, lang}) {
   const [stagingCard, setStagingCard] = useState(null);
   const [isOver, setIsOver] = useState(false);
   const [score, setScore] = useState(0)
+  const [level, setLevel] = useState("1");
 
-  const data = shuffle(raw.pairs).slice(0,6);
+  const data = shuffle(raw[level].pairs).slice(0,6);
+
   const jpWordList = getJpWordList(data, 'jp');
   const transWordList = getTransWordList(data, lang);
   const timeLimit = 300;
@@ -70,7 +72,15 @@ export default function KarutaGameScreen({setGameScreen, lang}) {
       setPairList(getPairList(jpWordList, transWordList));
       clearInterval(reset);
     }, 250);
+    updateLevel(score, raw[level].goal);
   }, [score, lang]);
+
+  function updateLevel(score, goal) {
+    if (score >= goal) {
+      let nextLevel = parseInt(level)+1;
+      setLevel(String(nextLevel));
+    }
+  }
 
   function checkMatch(res) {
     if (res) {
@@ -136,6 +146,7 @@ export default function KarutaGameScreen({setGameScreen, lang}) {
                               setIsOver={setIsOver} 
                               score={score}
                               setScore={setScore}
+                              level={level}
                               /> 
         {/* Body */}
         <FlatList data={pairList}

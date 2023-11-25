@@ -5,9 +5,9 @@ export const styles = StyleSheet.create({
     flex: 1,
   },
   inputContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: '#fff',
+    flexDirection: "row",
+    alignItems: "center",
+    backgroundColor: "#fff",
   },
   inputBar: {
     flex: 3,
@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
     paddingVertical: 5,
     marginVertical: 10,
     marginRight: 20,
-    borderColor: '#bebebe',
+    borderColor: "#bebebe",
     borderBottomWidth: 1,
   },
   searchIcon: {
@@ -27,40 +27,39 @@ export const styles = StyleSheet.create({
   },
   outputTile: {
     container: {
-      backgroundColor: '#fff',
+      backgroundColor: "#fff",
       marginTop: 5,
-      shadowColor: '#000',
-      shadowOpacity: '0.25',
-      shadowOffset: {height: 0, width: 0},
+      shadowColor: "#000",
+      shadowOpacity: "0.25",
+      shadowOffset: { height: 0, width: 0 },
       paddingVertical: 5,
       borderLeftWidth: 6,
     },
     kanjiText: {
       fontSize: 25,
-      fontWeight: 'bold',
-      color: '#000',
-      marginLeft: 10,
+      fontWeight: "bold",
+      color: "#000",
+      // marginLeft: 10,
       marginBottom: 5,
     },
     hatsuonText: {
       fontSize: 18,
-      color: '#000',
+      color: "#000",
       marginLeft: 10,
-      color: '#777',
+      color: "#777",
     },
     honyakuText: {
       fontSize: 18,
     },
     detailIcon: {
-      marginHorizontal: 10,
+      marginHorizontal: 5,
       fontSize: 20,
-      color: '#bebebe'
+      color: "#bebebe",
     },
     noteIcon: {
       fontSize: 20,
-      color: 'gold',
+      color: "gold",
       marginHorizontal: 10,
-      alignSelf: 'flex-end'
     },
   },
-})
+});

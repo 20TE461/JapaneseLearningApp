@@ -1,23 +1,27 @@
 import { Modal, StyleSheet, View, Text, SafeAreaView } from "react-native";
 import PrimaryButton from "../../Components/PrimaryButton";
 
-export default function GameOverScreen({onOverHandler, isOver, score}) {
+export default function GameOverScreen({
+  onOverHandler,
+  isOver,
+  score,
+  statics,
+}) {
   return (
-    // <View style={styles.mainContainer}>
-      <Modal  animationType="slide"
-              transparent={true}
-              visible={isOver}
-              // onRequestClose={()=>{setIsOver(false)}}
-      >
-        <View style={styles.innerView}>
-          <Text style={styles.modalText}>Game Over!</Text>
-          <Text style={styles.modalText}>{score}点</Text>
-          <PrimaryButton  onPress={onOverHandler}
-                          style={styles.button}
-                          textStyle={styles.buttonText}
-          >OK</PrimaryButton>
-        </View>
-      </Modal>
+    <Modal animationType="slide" transparent={true} visible={isOver}>
+      <View style={styles.innerView}>
+        <Text style={styles.modalText}>Game Over!</Text>
+        <Text style={styles.modalText}>{score}点</Text>
+        <Text style={styles.modalText}>{statics}</Text>
+        <PrimaryButton
+          onPress={onOverHandler}
+          style={styles.button}
+          textStyle={styles.buttonText}
+        >
+          OK
+        </PrimaryButton>
+      </View>
+    </Modal>
     // </View>
   );
 }
@@ -25,17 +29,17 @@ export default function GameOverScreen({onOverHandler, isOver, score}) {
 const styles = StyleSheet.create({
   mainContainer: {
     flex: 1,
-    alignItems: 'center' ,
-    justifyContent: 'center',
+    alignItems: "center",
+    justifyContent: "center",
   },
   innerView: {
     marginHorizontal: 50,
-    marginVertical: '50%',
-    backgroundColor: 'white',
+    marginVertical: "50%",
+    backgroundColor: "white",
     borderRadius: 20,
     padding: 35,
-    alignItems: 'center',
-    shadowColor: '#000',
+    alignItems: "center",
+    shadowColor: "#000",
     shadowOffset: {
       width: 0,
       height: 2,
@@ -45,15 +49,15 @@ const styles = StyleSheet.create({
   },
   modalText: {
     fontSize: 30,
-    fontWeight: 'bold',
+    fontWeight: "bold",
     marginBottom: 10,
   },
   button: {
-    backgroundColor: "#e3242b", 
+    backgroundColor: "#e3242b",
     paddingVertical: 15,
     paddingHorizontal: 50,
     borderRadius: 20,
-    shadowColor: '#000',
+    shadowColor: "#000",
     shadowOffset: {
       width: 0,
       height: 2,
@@ -62,8 +66,8 @@ const styles = StyleSheet.create({
     shadowRadius: 5,
   },
   buttonText: {
-    color: '#fff',
+    color: "#fff",
     fontSize: 20,
-    fontWeight: 'bold',
-  }
-})
+    fontWeight: "bold",
+  },
+});

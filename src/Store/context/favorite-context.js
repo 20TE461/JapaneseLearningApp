@@ -1,6 +1,5 @@
 import { createContext, useEffect, useState } from "react";
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { current } from "@reduxjs/toolkit";
 
 export const FavoriteCtx = createContext({
   favoriteWordIds: [],

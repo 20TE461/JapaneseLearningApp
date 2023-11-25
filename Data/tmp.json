@@ -38,16 +38,6 @@
         "trans": { "vn": "Chữ", "cn": "文字  ", "uzb": "xat", "uighur": "" }
       },
       {
-        "id": 5,
-        "jp": "printf",
-        "trans": {
-          "vn": "lệnh in văn bản ra màn hình",
-          "cn": "打印 ",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 6,
         "jp": "関数",
         "trans": {
@@ -181,11 +171,6 @@
           "uzb": "Roʻyxat",
           "uighur": ""
         }
-      },
-      {
-        "id": 23,
-        "jp": "scanf",
-        "trans": { "vn": "Nhập", "cn": "扫描", "uzb": "", "uighur": "" }
       },
       {
         "id": 24,
@@ -326,11 +311,6 @@
         "id": 40,
         "jp": "引数",
         "trans": { "vn": "Đối số", "cn": "引数", "uzb": "dalil", "uighur": "" }
-      },
-      {
-        "id": 41,
-        "jp": "char",
-        "trans": { "vn": "khai biến", "cn": "字符 ", "uzb": "", "uighur": "" }
       },
       {
         "id": 42,
@@ -523,11 +503,6 @@
         "trans": { "vn": "Và", "cn": "和 ", "uzb": "javob", "uighur": "" }
       },
       {
-        "id": 66,
-        "jp": "ptr",
-        "trans": { "vn": "ptr", "cn": "指针  ", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 67,
         "jp": "実現",
         "trans": {
@@ -718,11 +693,6 @@
         }
       },
       {
-        "id": 89,
-        "jp": "sanaka",
-        "trans": { "vn": "sanaka", "cn": "中间 ", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 90,
         "jp": "オペランド",
         "trans": {
@@ -876,11 +846,6 @@
         "id": 107,
         "jp": "正",
         "trans": { "vn": "Chính", "cn": "正 ", "uzb": "Ijobiy", "uighur": "" }
-      },
-      {
-        "id": 108,
-        "jp": "factorial",
-        "trans": { "vn": "giai thừa", "cn": "阶乘 ", "uzb": "", "uighur": "" }
       },
       {
         "id": 109,
@@ -1051,11 +1016,6 @@
           "uzb": "ikkilik",
           "uighur": ""
         }
-      },
-      {
-        "id": 130,
-        "jp": "sizeof",
-        "trans": { "vn": "Kích thước.", "cn": "大小 ", "uzb": "", "uighur": "" }
       },
       {
         "id": 131,
@@ -1673,11 +1633,6 @@
         }
       },
       {
-        "id": 202,
-        "jp": "fclose",
-        "trans": { "vn": "Đóng tệp", "cn": "关闭", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 203,
         "jp": "fopen",
         "trans": { "vn": "fopen", "cn": "福彭", "uzb": "", "uighur": "" }
@@ -1866,11 +1821,6 @@
         "id": 223,
         "jp": "別",
         "trans": { "vn": "Khác", "cn": "其他", "uzb": "boshqa", "uighur": "" }
-      },
-      {
-        "id": 224,
-        "jp": "cnt",
-        "trans": { "vn": "cnt", "cn": "碳纳米管", "uzb": "", "uighur": "" }
       },
       {
         "id": 225,
@@ -3443,11 +3393,6 @@
         "trans": { "vn": "EFGH", "cn": "EFGH", "uzb": "EFGH", "uighur": "" }
       },
       {
-        "id": 714,
-        "jp": "gcdf",
-        "trans": { "vn": "", "cn": "gcdf", "uzb": "gcdf", "uighur": "" }
-      },
-      {
         "id": 715,
         "jp": "indicator",
         "trans": {
@@ -4103,11 +4048,6 @@
         }
       },
       {
-        "id": 788,
-        "jp": "最",
-        "trans": { "vn": "", "cn": "最多", "uzb": "Ko'pchilik", "uighur": "" }
-      },
-      {
         "id": 789,
         "jp": "在留",
         "trans": { "vn": "Ở", "cn": "住校", "uzb": "turar joy", "uighur": "" }
@@ -4294,7 +4234,7 @@
       },
       {
         "id": 810,
-        "jp": "ストライキ",
+        "jp": "スト",
         "trans": {
           "vn": "Cuộc đình công",
           "cn": "罢工",
@@ -5588,11 +5528,6 @@
         }
       },
       {
-        "id": 428,
-        "jp": "sqr",
-        "trans": { "vn": "", "cn": "平方根", "uzb": "kv", "uighur": "" }
-      },
-      {
         "id": 429,
         "jp": "一種",
         "trans": {
@@ -6628,16 +6563,6 @@
         }
       },
       {
-        "id": 547,
-        "jp": "呼",
-        "trans": {
-          "vn": "",
-          "cn": "称呼",
-          "uzb": "qo'ng'iroq qiling",
-          "uighur": ""
-        }
-      },
-      {
         "id": 548,
         "jp": "後者",
         "trans": {
@@ -7211,11 +7136,6 @@
           "uzb": "qo'lda",
           "uighur": ""
         }
-      },
-      {
-        "id": 833,
-        "jp": "テラ",
-        "trans": { "vn": "Tỉ", "cn": "", "uzb": "Terra", "uighur": "" }
       },
       {
         "id": 834,
@@ -7828,11 +7748,6 @@
         }
       },
       {
-        "id": 904,
-        "jp": "buf",
-        "trans": { "vn": "buf", "cn": "", "uzb": "buf", "uighur": "" }
-      },
-      {
         "id": 905,
         "jp": "chnum",
         "trans": { "vn": "chnum", "cn": "", "uzb": "chnum", "uighur": "" }
@@ -7846,11 +7761,6 @@
           "uzb": "DEKABR",
           "uighur": ""
         }
-      },
-      {
-        "id": 907,
-        "jp": "dfp",
-        "trans": { "vn": "dfp", "cn": "", "uzb": "dfp", "uighur": "" }
       },
       {
         "id": 908,
@@ -7936,11 +7846,6 @@
           "uzb": "Muhr",
           "uighur": ""
         }
-      },
-      {
-        "id": 918,
-        "jp": "SEC",
-        "trans": { "vn": "SEC", "cn": "", "uzb": "SEC", "uighur": "" }
       },
       {
         "id": 919,
@@ -8136,11 +8041,6 @@
         "id": 942,
         "jp": "type",
         "trans": { "vn": "loại", "cn": "类型", "uzb": "turi", "uighur": "" }
-      },
-      {
-        "id": 943,
-        "jp": "vblil",
-        "trans": { "vn": "vblil", "cn": "", "uzb": "vblil", "uighur": "" }
       },
       {
         "id": 944,
@@ -11808,19 +11708,9 @@
         }
       },
       {
-        "id": 1358,
-        "jp": "additive",
-        "trans": { "vn": "", "cn": "", "uzb": "qo'shimcha", "uighur": "" }
-      },
-      {
         "id": 1359,
         "jp": "address",
         "trans": { "vn": "", "cn": "", "uzb": "manzil", "uighur": "" }
-      },
-      {
-        "id": 1360,
-        "jp": "aggregate",
-        "trans": { "vn": "", "cn": "", "uzb": "agregat", "uighur": "" }
       },
       {
         "id": 1361,
@@ -11828,19 +11718,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "dalil", "uighur": "" }
       },
       {
-        "id": 1362,
-        "jp": "ASCII",
-        "trans": { "vn": "", "cn": "", "uzb": "ASCII", "uighur": "" }
-      },
-      {
         "id": 1363,
         "jp": "Backspace",
         "trans": { "vn": "", "cn": "", "uzb": "Backspace", "uighur": "" }
-      },
-      {
-        "id": 1364,
-        "jp": "BLUYA",
-        "trans": { "vn": "", "cn": "", "uzb": "BLUYA", "uighur": "" }
       },
       {
         "id": 1365,
@@ -11848,19 +11728,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "mushuk", "uighur": "" }
       },
       {
-        "id": 1366,
-        "jp": "character",
-        "trans": { "vn": "", "cn": "", "uzb": "xarakter", "uighur": "" }
-      },
-      {
         "id": 1367,
         "jp": "chr",
         "trans": { "vn": "", "cn": "", "uzb": "chr", "uighur": "" }
-      },
-      {
-        "id": 1368,
-        "jp": "classroom",
-        "trans": { "vn": "", "cn": "", "uzb": "sinf xonasi", "uighur": "" }
       },
       {
         "id": 1369,
@@ -11868,19 +11738,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "yaqin", "uighur": "" }
       },
       {
-        "id": 1370,
-        "jp": "combination",
-        "trans": { "vn": "", "cn": "", "uzb": "kombinatsiya", "uighur": "" }
-      },
-      {
         "id": 1371,
         "jp": "comment",
         "trans": { "vn": "", "cn": "", "uzb": "izoh", "uighur": "" }
-      },
-      {
-        "id": 1372,
-        "jp": "conversion",
-        "trans": { "vn": "", "cn": "", "uzb": "konvertatsiya", "uighur": "" }
       },
       {
         "id": 1373,
@@ -11888,19 +11748,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "dcount", "uighur": "" }
       },
       {
-        "id": 1374,
-        "jp": "decimal",
-        "trans": { "vn": "", "cn": "", "uzb": "kasr", "uighur": "" }
-      },
-      {
         "id": 1375,
         "jp": "declaration",
         "trans": { "vn": "", "cn": "", "uzb": "deklaratsiya", "uighur": "" }
-      },
-      {
-        "id": 1376,
-        "jp": "decrement",
-        "trans": { "vn": "", "cn": "", "uzb": "kamaytirish", "uighur": "" }
       },
       {
         "id": 1377,
@@ -11908,19 +11758,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "Oʻchirish", "uighur": "" }
       },
       {
-        "id": 1378,
-        "jp": "derived",
-        "trans": { "vn": "", "cn": "", "uzb": "olingan", "uighur": "" }
-      },
-      {
         "id": 1379,
         "jp": "details",
         "trans": { "vn": "", "cn": "", "uzb": "tafsilotlar", "uighur": "" }
-      },
-      {
-        "id": 1380,
-        "jp": "digit",
-        "trans": { "vn": "", "cn": "", "uzb": "raqam", "uighur": "" }
       },
       {
         "id": 1381,
@@ -11928,19 +11768,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "dist", "uighur": "" }
       },
       {
-        "id": 1382,
-        "jp": "dln",
-        "trans": { "vn": "", "cn": "", "uzb": "dln", "uighur": "" }
-      },
-      {
         "id": 1383,
         "jp": "Enter",
         "trans": { "vn": "", "cn": "", "uzb": "Kirish", "uighur": "" }
-      },
-      {
-        "id": 1384,
-        "jp": "escape",
-        "trans": { "vn": "", "cn": "", "uzb": "qochish", "uighur": "" }
       },
       {
         "id": 1385,
@@ -11948,19 +11778,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "FFC", "uighur": "" }
       },
       {
-        "id": 1386,
-        "jp": "FFCD",
-        "trans": { "vn": "", "cn": "", "uzb": "FFCD", "uighur": "" }
-      },
-      {
         "id": 1387,
         "jp": "Finclude",
         "trans": { "vn": "", "cn": "", "uzb": "Toping", "uighur": "" }
-      },
-      {
-        "id": 1388,
-        "jp": "forK",
-        "trans": { "vn": "", "cn": "", "uzb": "forK", "uighur": "" }
       },
       {
         "id": 1389,
@@ -11968,19 +11788,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "FORTRAN", "uighur": "" }
       },
       {
-        "id": 1390,
-        "jp": "fseek",
-        "trans": { "vn": "", "cn": "", "uzb": "fseek", "uighur": "" }
-      },
-      {
         "id": 1391,
         "jp": "func",
         "trans": { "vn": "", "cn": "", "uzb": "func", "uighur": "" }
-      },
-      {
-        "id": 1392,
-        "jp": "gcd",
-        "trans": { "vn": "", "cn": "", "uzb": "gcd", "uighur": "" }
       },
       {
         "id": 1393,
@@ -11988,19 +11798,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "google", "uighur": "" }
       },
       {
-        "id": 1394,
-        "jp": "GWgw",
-        "trans": { "vn": "", "cn": "", "uzb": "GWgw", "uighur": "" }
-      },
-      {
         "id": 1395,
         "jp": "https",
         "trans": { "vn": "", "cn": "", "uzb": "https", "uighur": "" }
-      },
-      {
-        "id": 1396,
-        "jp": "implementation",
-        "trans": { "vn": "", "cn": "", "uzb": "amalga oshirish", "uighur": "" }
       },
       {
         "id": 1397,
@@ -12008,18 +11808,8 @@
         "trans": { "vn": "", "cn": "", "uzb": "oshirish", "uighur": "" }
       },
       {
-        "id": 1398,
-        "jp": "indirect",
-        "trans": { "vn": "", "cn": "", "uzb": "bilvosita", "uighur": "" }
-      },
-      {
         "id": 1399,
         "jp": "input",
-        "trans": { "vn": "", "cn": "", "uzb": "kiritish", "uighur": "" }
-      },
-      {
-        "id": 1400,
-        "jp": "insertion",
         "trans": { "vn": "", "cn": "", "uzb": "kiritish", "uighur": "" }
       },
       {
@@ -12028,19 +11818,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "isdst", "uighur": "" }
       },
       {
-        "id": 1402,
-        "jp": "Lenumerate",
-        "trans": { "vn": "", "cn": "", "uzb": "Lenumerating", "uighur": "" }
-      },
-      {
         "id": 1403,
         "jp": "literal",
         "trans": { "vn": "", "cn": "", "uzb": "tom ma'noda", "uighur": "" }
-      },
-      {
-        "id": 1404,
-        "jp": "Lock",
-        "trans": { "vn": "", "cn": "", "uzb": "Qulflash", "uighur": "" }
       },
       {
         "id": 1405,
@@ -12048,19 +11828,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "pochta", "uighur": "" }
       },
       {
-        "id": 1406,
-        "jp": "member",
-        "trans": { "vn": "", "cn": "", "uzb": "a'zosi", "uighur": "" }
-      },
-      {
         "id": 1407,
         "jp": "mhile",
         "trans": { "vn": "", "cn": "", "uzb": "mhile", "uighur": "" }
-      },
-      {
-        "id": 1408,
-        "jp": "mode",
-        "trans": { "vn": "", "cn": "", "uzb": "rejimi", "uighur": "" }
       },
       {
         "id": 1409,
@@ -12068,19 +11838,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "nCn", "uighur": "" }
       },
       {
-        "id": 1410,
-        "jp": "NDkzMzI",
-        "trans": { "vn": "", "cn": "", "uzb": "NDkzMzI", "uighur": "" }
-      },
-      {
         "id": 1411,
         "jp": "OCD",
         "trans": { "vn": "", "cn": "", "uzb": "OKB", "uighur": "" }
-      },
-      {
-        "id": 1412,
-        "jp": "open",
-        "trans": { "vn": "", "cn": "", "uzb": "ochiq", "uighur": "" }
       },
       {
         "id": 1413,
@@ -12088,19 +11848,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "chiqish", "uighur": "" }
       },
       {
-        "id": 1414,
-        "jp": "phase",
-        "trans": { "vn": "", "cn": "", "uzb": "bosqichi", "uighur": "" }
-      },
-      {
         "id": 1415,
         "jp": "position",
         "trans": { "vn": "", "cn": "", "uzb": "pozitsiya", "uighur": "" }
-      },
-      {
-        "id": 1416,
-        "jp": "prefived",
-        "trans": { "vn": "", "cn": "", "uzb": "afzal qilingan", "uighur": "" }
       },
       {
         "id": 1417,
@@ -12108,19 +11858,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "bosma", "uighur": "" }
       },
       {
-        "id": 1418,
-        "jp": "program",
-        "trans": { "vn": "", "cn": "", "uzb": "dastur", "uighur": "" }
-      },
-      {
         "id": 1419,
         "jp": "read",
         "trans": { "vn": "", "cn": "", "uzb": "o'qing", "uighur": "" }
-      },
-      {
-        "id": 1420,
-        "jp": "recursive",
-        "trans": { "vn": "", "cn": "", "uzb": "rekursiv", "uighur": "" }
       },
       {
         "id": 1421,
@@ -12128,19 +11868,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "orqaga o'rash", "uighur": "" }
       },
       {
-        "id": 1422,
-        "jp": "rintf",
-        "trans": { "vn": "", "cn": "", "uzb": "rintf", "uighur": "" }
-      },
-      {
         "id": 1423,
         "jp": "scalar",
         "trans": { "vn": "", "cn": "", "uzb": "skalyar", "uighur": "" }
-      },
-      {
-        "id": 1424,
-        "jp": "scanr",
-        "trans": { "vn": "", "cn": "", "uzb": "skaner", "uighur": "" }
       },
       {
         "id": 1425,
@@ -12148,19 +11878,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "kam", "uighur": "" }
       },
       {
-        "id": 1426,
-        "jp": "Screen",
-        "trans": { "vn": "", "cn": "", "uzb": "Ekran", "uighur": "" }
-      },
-      {
         "id": 1427,
         "jp": "selection",
         "trans": { "vn": "", "cn": "", "uzb": "tanlash", "uighur": "" }
-      },
-      {
-        "id": 1428,
-        "jp": "sequence",
-        "trans": { "vn": "", "cn": "", "uzb": "ketma-ketlik", "uighur": "" }
       },
       {
         "id": 1429,
@@ -12168,19 +11888,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "Shift", "uighur": "" }
       },
       {
-        "id": 1430,
-        "jp": "slct",
-        "trans": { "vn": "", "cn": "", "uzb": "slct", "uighur": "" }
-      },
-      {
         "id": 1431,
         "jp": "SLK",
         "trans": { "vn": "", "cn": "", "uzb": "SLK", "uighur": "" }
-      },
-      {
-        "id": 1432,
-        "jp": "sorting",
-        "trans": { "vn": "", "cn": "", "uzb": "tartiblash", "uighur": "" }
       },
       {
         "id": 1433,
@@ -12188,19 +11898,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "spetsifikatsiya", "uighur": "" }
       },
       {
-        "id": 1434,
-        "jp": "staremen",
-        "trans": { "vn": "", "cn": "", "uzb": "qaraydiganlar", "uighur": "" }
-      },
-      {
         "id": 1435,
         "jp": "stderr",
         "trans": { "vn": "", "cn": "", "uzb": "stderr", "uighur": "" }
-      },
-      {
-        "id": 1436,
-        "jp": "strtof",
-        "trans": { "vn": "", "cn": "", "uzb": "strtof", "uighur": "" }
       },
       {
         "id": 1437,
@@ -12208,19 +11908,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "strtol", "uighur": "" }
       },
       {
-        "id": 1438,
-        "jp": "swaps",
-        "trans": { "vn": "", "cn": "", "uzb": "almashinuvlar", "uighur": "" }
-      },
-      {
         "id": 1439,
         "jp": "tag",
         "trans": { "vn": "", "cn": "", "uzb": "teg", "uighur": "" }
-      },
-      {
-        "id": 1440,
-        "jp": "time",
-        "trans": { "vn": "", "cn": "", "uzb": "vaqt", "uighur": "" }
       },
       {
         "id": 1441,
@@ -12228,19 +11918,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "minora", "uighur": "" }
       },
       {
-        "id": 1442,
-        "jp": "toupper",
-        "trans": { "vn": "", "cn": "", "uzb": "topa", "uighur": "" }
-      },
-      {
         "id": 1443,
         "jp": "translation",
         "trans": { "vn": "", "cn": "", "uzb": "tarjima", "uighur": "" }
-      },
-      {
-        "id": 1444,
-        "jp": "Tsuji",
-        "trans": { "vn": "", "cn": "", "uzb": "Tsuji", "uighur": "" }
       },
       {
         "id": 1445,
@@ -12248,19 +11928,9 @@
         "trans": { "vn": "", "cn": "", "uzb": "Turb", "uighur": "" }
       },
       {
-        "id": 1446,
-        "jp": "vold",
-        "trans": { "vn": "", "cn": "", "uzb": "vold", "uighur": "" }
-      },
-      {
         "id": 1447,
         "jp": "wday",
         "trans": { "vn": "", "cn": "", "uzb": "wday", "uighur": "" }
-      },
-      {
-        "id": 1448,
-        "jp": "whale",
-        "trans": { "vn": "", "cn": "", "uzb": "kit", "uighur": "" }
       },
       {
         "id": 1449,
@@ -12268,34 +11938,14 @@
         "trans": { "vn": "", "cn": "", "uzb": "Wsum", "uighur": "" }
       },
       {
-        "id": 1450,
-        "jp": "XOBDEN",
-        "trans": { "vn": "", "cn": "", "uzb": "XOBDEN", "uighur": "" }
-      },
-      {
         "id": 1451,
         "jp": "yesterday",
         "trans": { "vn": "", "cn": "", "uzb": "kecha", "uighur": "" }
       },
       {
-        "id": 1453,
-        "jp": "示す",
-        "trans": {
-          "vn": "Chỉ ra",
-          "cn": "表现",
-          "uzb": "",
-          "uighur": "كۆرسىتش"
-        }
-      },
-      {
         "id": 1454,
         "jp": "くださる",
         "trans": { "vn": "cho", "cn": "给予", "uzb": "", "uighur": "بىرىش" }
-      },
-      {
-        "id": 1455,
-        "jp": "読み込む",
-        "trans": { "vn": "Đọc", "cn": "读取", "uzb": "", "uighur": "ئوقۇلۇش" }
       },
       {
         "id": 1456,
@@ -12305,16 +11955,6 @@
           "cn": "进行",
           "uzb": "",
           "uighur": "بىرىش"
-        }
-      },
-      {
-        "id": 1457,
-        "jp": "よる",
-        "trans": {
-          "vn": "Đêm",
-          "cn": "归因于",
-          "uzb": "",
-          "uighur": "سەۋەپلىك"
         }
       },
       {
@@ -12328,11 +11968,6 @@
         }
       },
       {
-        "id": 1459,
-        "jp": "求める",
-        "trans": { "vn": "Yêu cầu", "cn": "寻求", "uzb": "", "uighur": "تەلەپ" }
-      },
-      {
         "id": 1460,
         "jp": "表す",
         "trans": {
@@ -12340,16 +11975,6 @@
           "cn": "表达",
           "uzb": "",
           "uighur": "ئىپادىلەش"
-        }
-      },
-      {
-        "id": 1461,
-        "jp": "返す",
-        "trans": {
-          "vn": "Trả lại",
-          "cn": "归还",
-          "uzb": "",
-          "uighur": "قايتۇرۇش"
         }
       },
       {
@@ -12363,11 +11988,6 @@
         }
       },
       {
-        "id": 1463,
-        "jp": "呼ぶ",
-        "trans": { "vn": "Gọi", "cn": "呼叫", "uzb": "", "uighur": "چاقىرىش" }
-      },
-      {
         "id": 1464,
         "jp": "使う",
         "trans": {
@@ -12375,16 +11995,6 @@
           "cn": "使用",
           "uzb": "",
           "uighur": "ئىشلىتىش"
-        }
-      },
-      {
-        "id": 1465,
-        "jp": "与える",
-        "trans": {
-          "vn": "cung cấp",
-          "cn": "提供",
-          "uzb": "",
-          "uighur": "بىرىش"
         }
       },
       {
@@ -12398,11 +12008,6 @@
         }
       },
       {
-        "id": 1467,
-        "jp": "呼び出す",
-        "trans": { "vn": "gọi", "cn": "呼叫", "uzb": "", "uighur": "چاقىرىش" }
-      },
-      {
         "id": 1468,
         "jp": "異なる",
         "trans": {
@@ -12410,16 +12015,6 @@
           "cn": "不同",
           "uzb": "",
           "uighur": "ئوخشىماسلىق"
-        }
-      },
-      {
-        "id": 1469,
-        "jp": "書きかえる",
-        "trans": {
-          "vn": "Viết lại",
-          "cn": "重写",
-          "uzb": "",
-          "uighur": "يىزىپ ئالماشتۇرۇش"
         }
       },
       {
@@ -12433,11 +12028,6 @@
         }
       },
       {
-        "id": 1471,
-        "jp": "作る",
-        "trans": { "vn": "Tạo ra", "cn": "制作", "uzb": "", "uighur": "ياساش" }
-      },
-      {
         "id": 1472,
         "jp": "用いる",
         "trans": {
@@ -12448,34 +12038,14 @@
         }
       },
       {
-        "id": 1473,
-        "jp": "読み取る",
-        "trans": { "vn": "Đọc", "cn": "阅读", "uzb": "", "uighur": "ئوقۇلۇش" }
-      },
-      {
         "id": 1474,
         "jp": "書く",
         "trans": { "vn": "Viết", "cn": "写", "uzb": "", "uighur": "يىزىش" }
       },
       {
-        "id": 1475,
-        "jp": "書き込む",
-        "trans": {
-          "vn": "Viết",
-          "cn": "写入",
-          "uzb": "",
-          "uighur": "يىزىپ تولدۇرۇش"
-        }
-      },
-      {
         "id": 1476,
         "jp": "割る",
         "trans": { "vn": "chia", "cn": "分割", "uzb": "", "uighur": "بۆل" }
-      },
-      {
-        "id": 1477,
-        "jp": "読む",
-        "trans": { "vn": "Đọc", "cn": "阅读", "uzb": "", "uighur": "ئوقۇش" }
       },
       {
         "id": 1478,
@@ -12485,16 +12055,6 @@
           "cn": "汇总",
           "uzb": "",
           "uighur": "يىغىنچاقلاش"
-        }
-      },
-      {
-        "id": 1479,
-        "jp": "扱う",
-        "trans": {
-          "vn": "Xử lý",
-          "cn": "处理",
-          "uzb": "",
-          "uighur": "بىرتەرەپ قىلىش"
         }
       },
       {
@@ -12508,16 +12068,6 @@
         }
       },
       {
-        "id": 1481,
-        "jp": "割り切れる",
-        "trans": {
-          "vn": "Chia hết",
-          "cn": "可被整除",
-          "uzb": "",
-          "uighur": "بۆلۈپ ئاجرىتىش"
-        }
-      },
-      {
         "id": 1482,
         "jp": "繰り返す",
         "trans": {
@@ -12528,24 +12078,9 @@
         }
       },
       {
-        "id": 1483,
-        "jp": "みなす",
-        "trans": {
-          "vn": "Tất cả",
-          "cn": "视为",
-          "uzb": "",
-          "uighur": "دەپ قاراش"
-        }
-      },
-      {
         "id": 1484,
         "jp": "囲む",
         "trans": { "vn": "buộc", "cn": "包围", "uzb": "", "uighur": "ئورىماق" }
-      },
-      {
-        "id": 1485,
-        "jp": "構う",
-        "trans": { "vn": "Quan tâm", "cn": "关心", "uzb": "", "uighur": "كارى" }
       },
       {
         "id": 1486,
@@ -12555,16 +12090,6 @@
           "cn": "舍弃",
           "uzb": "",
           "uighur": "ئاجرىتىپ تاشلىماق"
-        }
-      },
-      {
-        "id": 1487,
-        "jp": "受け取る",
-        "trans": {
-          "vn": "Nhận",
-          "cn": "收到",
-          "uzb": "",
-          "uighur": "قوبۇل قىلىش"
         }
       },
       {
@@ -12578,16 +12103,6 @@
         }
       },
       {
-        "id": 1489,
-        "jp": "渡す",
-        "trans": {
-          "vn": "Chuyển giao",
-          "cn": "传递",
-          "uzb": "",
-          "uighur": "ئۆتكۈزۈش"
-        }
-      },
-      {
         "id": 1490,
         "jp": "限る",
         "trans": {
@@ -12595,16 +12110,6 @@
           "cn": "限制",
           "uzb": "",
           "uighur": "چەكلىك"
-        }
-      },
-      {
-        "id": 1491,
-        "jp": "続く",
-        "trans": {
-          "vn": "Tiếp tục",
-          "cn": "持续",
-          "uzb": "",
-          "uighur": "داۋاملاشتۇرۇش"
         }
       },
       {
@@ -12618,16 +12123,6 @@
         }
       },
       {
-        "id": 1493,
-        "jp": "結び付ける",
-        "trans": {
-          "vn": "Liên kết",
-          "cn": "相关联",
-          "uzb": "",
-          "uighur": "چەگمە چىگىش"
-        }
-      },
-      {
         "id": 1494,
         "jp": "覚える",
         "trans": {
@@ -12638,11 +12133,6 @@
         }
       },
       {
-        "id": 1495,
-        "jp": "関する",
-        "trans": { "vn": "Về", "cn": "有关", "uzb": "", "uighur": "ئالاقىدار" }
-      },
-      {
         "id": 1496,
         "jp": "違う",
         "trans": {
@@ -12650,16 +12140,6 @@
           "cn": "不同",
           "uzb": "",
           "uighur": "ئوخشىماسلىق"
-        }
-      },
-      {
-        "id": 1497,
-        "jp": "付ける",
-        "trans": {
-          "vn": "gắn vào",
-          "cn": "添加",
-          "uzb": "",
-          "uighur": "ئورناتماق"
         }
       },
       {
@@ -12673,16 +12153,6 @@
         }
       },
       {
-        "id": 1499,
-        "jp": "超える",
-        "trans": {
-          "vn": "Vượt qua",
-          "cn": "超越",
-          "uzb": "",
-          "uighur": "ئىشىش"
-        }
-      },
-      {
         "id": 1500,
         "jp": "続ける",
         "trans": {
@@ -12690,16 +12160,6 @@
           "cn": "继续",
           "uzb": "",
           "uighur": "داۋاملىق"
-        }
-      },
-      {
-        "id": 1501,
-        "jp": "含む",
-        "trans": {
-          "vn": "Bao gồm",
-          "cn": "包含",
-          "uzb": "",
-          "uighur": "ئۆزئىچىگە ئالغان"
         }
       },
       {
@@ -12713,24 +12173,9 @@
         }
       },
       {
-        "id": 1503,
-        "jp": "取る",
-        "trans": { "vn": "lấy", "cn": "取得", "uzb": "", "uighur": "ئىلىش" }
-      },
-      {
         "id": 1504,
         "jp": "引く",
         "trans": { "vn": "Kéo", "cn": "拉", "uzb": "", "uighur": "تارتىش" }
-      },
-      {
-        "id": 1505,
-        "jp": "戻る",
-        "trans": {
-          "vn": "Quay lại",
-          "cn": "返回",
-          "uzb": "",
-          "uighur": "قايتىش"
-        }
       },
       {
         "id": 1506,
@@ -12740,16 +12185,6 @@
           "cn": "分配",
           "uzb": "",
           "uighur": "تەقسىملەش"
-        }
-      },
-      {
-        "id": 1507,
-        "jp": "入れる",
-        "trans": {
-          "vn": "đặt vào",
-          "cn": "放置",
-          "uzb": "",
-          "uighur": "كىرگۇزۇش"
         }
       },
       {
@@ -12763,16 +12198,6 @@
         }
       },
       {
-        "id": 1509,
-        "jp": "似る",
-        "trans": {
-          "vn": "Giống nhau",
-          "cn": "相似",
-          "uzb": "",
-          "uighur": "ئوخشايدۇ"
-        }
-      },
-      {
         "id": 1510,
         "jp": "終わる",
         "trans": {
@@ -12780,16 +12205,6 @@
           "cn": "结束",
           "uzb": "",
           "uighur": "تۈگىمەك"
-        }
-      },
-      {
-        "id": 1511,
-        "jp": "区切る",
-        "trans": {
-          "vn": "chia tách",
-          "cn": "分隔",
-          "uzb": "",
-          "uighur": "بۆلەك ئاجىرتىش"
         }
       },
       {
@@ -12803,16 +12218,6 @@
         }
       },
       {
-        "id": 1513,
-        "jp": "並べる",
-        "trans": {
-          "vn": "Xếp hàng",
-          "cn": "排列",
-          "uzb": "",
-          "uighur": "تىزىلىش"
-        }
-      },
-      {
         "id": 1514,
         "jp": "減らす",
         "trans": {
@@ -12820,16 +12225,6 @@
           "cn": "减少",
           "uzb": "",
           "uighur": "ئازلاتماق"
-        }
-      },
-      {
-        "id": 1515,
-        "jp": "促す",
-        "trans": {
-          "vn": "yêu cầu",
-          "cn": "鼓励",
-          "uzb": "",
-          "uighur": "ئالدىراتماق"
         }
       },
       {
@@ -12843,29 +12238,9 @@
         }
       },
       {
-        "id": 1517,
-        "jp": "書き出す",
-        "trans": {
-          "vn": "Viết ra",
-          "cn": "写出",
-          "uzb": "",
-          "uighur": "يىزىپ چىقىش"
-        }
-      },
-      {
         "id": 1518,
         "jp": "知る",
         "trans": { "vn": "Biết", "cn": "知道", "uzb": "", "uighur": "بىلىش" }
-      },
-      {
-        "id": 1519,
-        "jp": "覗く",
-        "trans": {
-          "vn": "Liếc nhìn",
-          "cn": "窥视",
-          "uzb": "",
-          "uighur": "مارىماق"
-        }
       },
       {
         "id": 1520,
@@ -12875,16 +12250,6 @@
           "cn": "开始",
           "uzb": "",
           "uighur": "باشلانماق"
-        }
-      },
-      {
-        "id": 1521,
-        "jp": "発する",
-        "trans": {
-          "vn": "Phát đi",
-          "cn": "发表",
-          "uzb": "",
-          "uighur": "چىقىش،سەۋەپلىك"
         }
       },
       {
@@ -12898,16 +12263,6 @@
         }
       },
       {
-        "id": 1523,
-        "jp": "集まる",
-        "trans": {
-          "vn": "gộp lại",
-          "cn": "聚集",
-          "uzb": "",
-          "uighur": "يىغىلماق"
-        }
-      },
-      {
         "id": 1524,
         "jp": "応ずる",
         "trans": {
@@ -12918,29 +12273,9 @@
         }
       },
       {
-        "id": 1525,
-        "jp": "行える",
-        "trans": {
-          "vn": "Có thể thực hiện",
-          "cn": "可以执行",
-          "uzb": "",
-          "uighur": "ھەركەتلىنىش"
-        }
-      },
-      {
         "id": 1526,
         "jp": "思う",
         "trans": { "vn": "Nghĩ", "cn": "思考", "uzb": "", "uighur": "ئويلاش" }
-      },
-      {
-        "id": 1527,
-        "jp": "変わる",
-        "trans": {
-          "vn": "Thay đổi",
-          "cn": "改变",
-          "uzb": "",
-          "uighur": "ئۆزگۈرۈش"
-        }
       },
       {
         "id": 1528,
@@ -12950,16 +12285,6 @@
           "cn": "调查",
           "uzb": "",
           "uighur": "تەكشۈرۈش"
-        }
-      },
-      {
-        "id": 1529,
-        "jp": "進む",
-        "trans": {
-          "vn": "Tiến lên",
-          "cn": "前进",
-          "uzb": "",
-          "uighur": "ئىلگىرلاش"
         }
       },
       {
@@ -12973,16 +12298,6 @@
         }
       },
       {
-        "id": 1531,
-        "jp": "付く",
-        "trans": {
-          "vn": "được gắn",
-          "cn": "附加",
-          "uzb": "",
-          "uighur": "باغلاش"
-        }
-      },
-      {
         "id": 1532,
         "jp": "作り出す",
         "trans": {
@@ -12990,16 +12305,6 @@
           "cn": "创造",
           "uzb": "",
           "uighur": "ئىشلەپ چىقىش"
-        }
-      },
-      {
-        "id": 1533,
-        "jp": "伴う",
-        "trans": {
-          "vn": "đi cùng",
-          "cn": "伴随",
-          "uzb": "",
-          "uighur": "ھەمراھ"
         }
       },
       {
@@ -13013,16 +12318,6 @@
         }
       },
       {
-        "id": 1535,
-        "jp": "間違える",
-        "trans": {
-          "vn": "Sai sót",
-          "cn": "犯错",
-          "uzb": "",
-          "uighur": "خاتالىشىش"
-        }
-      },
-      {
         "id": 1536,
         "jp": "現れる",
         "trans": {
@@ -13030,16 +12325,6 @@
           "cn": "出现",
           "uzb": "",
           "uighur": "پەيدا بولۇش"
-        }
-      },
-      {
-        "id": 1537,
-        "jp": "打ち込む",
-        "trans": {
-          "vn": "đánh vào",
-          "cn": "投入",
-          "uzb": "",
-          "uighur": "بىرىلمەك"
         }
       },
       {
@@ -13053,16 +12338,6 @@
         }
       },
       {
-        "id": 1539,
-        "jp": "気づく",
-        "trans": {
-          "vn": "nhận ra",
-          "cn": "察觉",
-          "uzb": "",
-          "uighur": "ئاۋايلاش"
-        }
-      },
-      {
         "id": 1540,
         "jp": "決める",
         "trans": {
@@ -13071,11 +12346,6 @@
           "uzb": "",
           "uighur": "بىكىتىش"
         }
-      },
-      {
-        "id": 1541,
-        "jp": "来る",
-        "trans": { "vn": "Đến", "cn": "来", "uzb": "", "uighur": "كەلمەك" }
       },
       {
         "id": 1542,
@@ -13088,34 +12358,14 @@
         }
       },
       {
-        "id": 1543,
-        "jp": "閉じる",
-        "trans": { "vn": "Đóng", "cn": "关闭", "uzb": "", "uighur": "يىپىش" }
-      },
-      {
         "id": 1544,
         "jp": "伸ばす",
         "trans": { "vn": "kéo dài", "cn": "延伸", "uzb": "", "uighur": "سوزۇش" }
       },
       {
-        "id": 1545,
-        "jp": "入る",
-        "trans": { "vn": "Vào", "cn": "进入", "uzb": "", "uighur": "كىرىش" }
-      },
-      {
         "id": 1546,
         "jp": "開く",
         "trans": { "vn": "Mở", "cn": "打开", "uzb": "", "uighur": "ئىچىش" }
-      },
-      {
-        "id": 1547,
-        "jp": "見つかる",
-        "trans": {
-          "vn": "Tìm thấy",
-          "cn": "被发现",
-          "uzb": "",
-          "uighur": "بايقىماق"
-        }
       },
       {
         "id": 1548,
@@ -13125,16 +12375,6 @@
           "cn": "连接",
           "uzb": "",
           "uighur": "چەگمەك"
-        }
-      },
-      {
-        "id": 1549,
-        "jp": "もとづく",
-        "trans": {
-          "vn": "Dựa trên",
-          "cn": "基于",
-          "uzb": "",
-          "uighur": "ئۇل قىلىش"
         }
       },
       {
@@ -13148,16 +12388,6 @@
         }
       },
       {
-        "id": 1551,
-        "jp": "合わせる",
-        "trans": {
-          "vn": "gộp lại",
-          "cn": "结合",
-          "uzb": "",
-          "uighur": "ماسلاشتۇرۇش"
-        }
-      },
-      {
         "id": 1552,
         "jp": "入れかえる",
         "trans": {
@@ -13168,11 +12398,6 @@
         }
       },
       {
-        "id": 1553,
-        "jp": "埋める",
-        "trans": { "vn": "Đổ", "cn": "填埋", "uzb": "", "uighur": "كۆممەك" }
-      },
-      {
         "id": 1554,
         "jp": "選ぶ",
         "trans": {
@@ -13180,16 +12405,6 @@
           "cn": "选择",
           "uzb": "",
           "uighur": "تاللاش"
-        }
-      },
-      {
-        "id": 1555,
-        "jp": "思い出す",
-        "trans": {
-          "vn": "Nhớ lại",
-          "cn": "回想",
-          "uzb": "",
-          "uighur": "ئەسلىمەك"
         }
       },
       {
@@ -13203,16 +12418,6 @@
         }
       },
       {
-        "id": 1557,
-        "jp": "重なる",
-        "trans": {
-          "vn": "Trùng lắp",
-          "cn": "重叠",
-          "uzb": "",
-          "uighur": "قاتلانماق"
-        }
-      },
-      {
         "id": 1558,
         "jp": "組み合わせる",
         "trans": {
@@ -13223,29 +12428,9 @@
         }
       },
       {
-        "id": 1559,
-        "jp": "くれる",
-        "trans": {
-          "vn": "cho tôi",
-          "cn": "给予",
-          "uzb": "",
-          "uighur": "بەرمەك"
-        }
-      },
-      {
         "id": 1560,
         "jp": "込む",
         "trans": { "vn": "Ngập", "cn": "包括", "uzb": "", "uighur": "قاتماق" }
-      },
-      {
-        "id": 1561,
-        "jp": "属する",
-        "trans": {
-          "vn": "Thuộc về",
-          "cn": "归属",
-          "uzb": "",
-          "uighur": "تەۋەللۇق قىلىش"
-        }
       },
       {
         "id": 1562,
@@ -13255,16 +12440,6 @@
           "cn": "相关",
           "uzb": "",
           "uighur": "ئۆتكۈزۈش"
-        }
-      },
-      {
-        "id": 1563,
-        "jp": "使い分ける",
-        "trans": {
-          "vn": "sử dụng theo ý nghĩa khác nhau",
-          "cn": "巧妙运用",
-          "uzb": "",
-          "uighur": "بۆلۈپ ئىشلىتىش"
         }
       },
       {
@@ -13278,29 +12453,9 @@
         }
       },
       {
-        "id": 1565,
-        "jp": "伝える",
-        "trans": {
-          "vn": "truyền đạt",
-          "cn": "传达",
-          "uzb": "",
-          "uighur": "يەتكۈزۈش"
-        }
-      },
-      {
         "id": 1566,
         "jp": "解く",
         "trans": { "vn": "Giải", "cn": "解决", "uzb": "", "uighur": "يەشمەك" }
-      },
-      {
-        "id": 1567,
-        "jp": "鳴く",
-        "trans": {
-          "vn": "hót",
-          "cn": "鸣叫",
-          "uzb": "",
-          "uighur": "چىرقىراش ،سايراش"
-        }
       },
       {
         "id": 1568,
@@ -13308,29 +12463,9 @@
         "trans": { "vn": "Thành", "cn": "成就", "uzb": "", "uighur": "بولۇش" }
       },
       {
-        "id": 1569,
-        "jp": "のっとる",
-        "trans": {
-          "vn": "giành lấy",
-          "cn": "遵循",
-          "uzb": "",
-          "uighur": "ئاساسلانماق"
-        }
-      },
-      {
         "id": 1570,
         "jp": "踏む",
         "trans": { "vn": "Dẫm", "cn": "踩踏", "uzb": "", "uighur": "دەسسەش" }
-      },
-      {
-        "id": 1571,
-        "jp": "増やす",
-        "trans": {
-          "vn": "tăng thêm",
-          "cn": "增加",
-          "uzb": "",
-          "uighur": "كۆپەيمەك"
-        }
       },
       {
         "id": 1572,
@@ -13343,11 +12478,6 @@
         }
       },
       {
-        "id": 1573,
-        "jp": "もらう",
-        "trans": { "vn": "Nhận", "cn": "接受", "uzb": "", "uighur": "ئىلىش" }
-      },
-      {
         "id": 1574,
         "jp": "許す",
         "trans": {
@@ -13358,44 +12488,14 @@
         }
       },
       {
-        "id": 1575,
-        "jp": "忘れる",
-        "trans": {
-          "vn": "Quên đi.",
-          "cn": "忘记",
-          "uzb": "",
-          "uighur": "ئۇنتۇپ قىلىش"
-        }
-      },
-      {
         "id": 1576,
         "jp": "空く",
         "trans": { "vn": "Trống", "cn": "空着", "uzb": "", "uighur": "بوشلاش" }
       },
       {
-        "id": 1577,
-        "jp": "扱える",
-        "trans": {
-          "vn": "Có thể xử lý",
-          "cn": "可以处理",
-          "uzb": "",
-          "uighur": "ئىشلەتمەك"
-        }
-      },
-      {
         "id": 1578,
         "jp": "当てる",
         "trans": { "vn": "dự đoán", "cn": "应用", "uzb": "", "uighur": "چىقىش" }
-      },
-      {
-        "id": 1579,
-        "jp": "失う",
-        "trans": {
-          "vn": "Mất",
-          "cn": "失去",
-          "uzb": "",
-          "uighur": "چۇشۇرۇپ قويۇش ،يوقاتماق"
-        }
       },
       {
         "id": 1580,
@@ -13408,39 +12508,14 @@
         }
       },
       {
-        "id": 1581,
-        "jp": "起こす",
-        "trans": {
-          "vn": "Khơi dậy",
-          "cn": "引发",
-          "uzb": "",
-          "uighur": "قوپقۇزۇش"
-        }
-      },
-      {
         "id": 1582,
         "jp": "納る",
         "trans": { "vn": "Nộp", "cn": "交纳", "uzb": "", "uighur": "قويۇش" }
       },
       {
-        "id": 1583,
-        "jp": "教える",
-        "trans": { "vn": "dạy", "cn": "教导", "uzb": "", "uighur": "ئۈگۈتۈش" }
-      },
-      {
         "id": 1584,
         "jp": "押す",
         "trans": { "vn": "nhấn", "cn": "压", "uzb": "", "uighur": "بىسىش" }
-      },
-      {
-        "id": 1585,
-        "jp": "変える",
-        "trans": {
-          "vn": "Thay đổi.",
-          "cn": "改变",
-          "uzb": "",
-          "uighur": "ئۆزگىرىش"
-        }
       },
       {
         "id": 1586,
@@ -13450,16 +12525,6 @@
           "cn": "涉及",
           "uzb": "",
           "uighur": "ئالاقىدار"
-        }
-      },
-      {
-        "id": 1587,
-        "jp": "書き直す",
-        "trans": {
-          "vn": "Viết lại",
-          "cn": "重新写",
-          "uzb": "",
-          "uighur": "تۈزىتىش"
         }
       },
       {
@@ -13473,16 +12538,6 @@
         }
       },
       {
-        "id": 1589,
-        "jp": "感ずる",
-        "trans": {
-          "vn": "Cảm nhận",
-          "cn": "感知",
-          "uzb": "",
-          "uighur": "ھىس قىلىش"
-        }
-      },
-      {
         "id": 1590,
         "jp": "頑張る",
         "trans": {
@@ -13490,16 +12545,6 @@
           "cn": "坚持",
           "uzb": "",
           "uighur": "غەيرەت قىلىش"
-        }
-      },
-      {
-        "id": 1591,
-        "jp": "消える",
-        "trans": {
-          "vn": "Biến mất",
-          "cn": "消失",
-          "uzb": "",
-          "uighur": "يوقاش"
         }
       },
       {
@@ -13513,11 +12558,6 @@
         }
       },
       {
-        "id": 1593,
-        "jp": "切る",
-        "trans": { "vn": "Cắt", "cn": "切割", "uzb": "", "uighur": "كىسىش" }
-      },
-      {
         "id": 1594,
         "jp": "比べる",
         "trans": {
@@ -13528,29 +12568,9 @@
         }
       },
       {
-        "id": 1595,
-        "jp": "繰り上がる",
-        "trans": {
-          "vn": "Trên cùng",
-          "cn": "升高",
-          "uzb": "",
-          "uighur": "ئالدىنالا"
-        }
-      },
-      {
         "id": 1596,
         "jp": "減じる",
         "trans": { "vn": "Giảm", "cn": "减少", "uzb": "", "uighur": "ئازايتىش" }
-      },
-      {
-        "id": 1597,
-        "jp": "心得る",
-        "trans": {
-          "vn": "Nhận thức",
-          "cn": "明白",
-          "uzb": "",
-          "uighur": "چۈشىنىش"
-        }
       },
       {
         "id": 1598,
@@ -13560,16 +12580,6 @@
           "cn": "回答",
           "uzb": "",
           "uighur": "جاۋاپ بىرىش"
-        }
-      },
-      {
-        "id": 1599,
-        "jp": "凌る",
-        "trans": {
-          "vn": "Vượt trội",
-          "cn": "超越",
-          "uzb": "",
-          "uighur": "چىداش"
         }
       },
       {
@@ -13588,29 +12598,9 @@
     "goal": 2000,
     "pairs": [
       {
-        "id": 1601,
-        "jp": "過ごす",
-        "trans": {
-          "vn": "Trải qua",
-          "cn": "度过",
-          "uzb": "",
-          "uighur": "ئۆتۈش"
-        }
-      },
-      {
         "id": 1602,
         "jp": "足す",
         "trans": { "vn": "Cộng", "cn": "相加", "uzb": "", "uighur": "قوشۇش" }
-      },
-      {
-        "id": 1603,
-        "jp": "出す",
-        "trans": {
-          "vn": "Đưa ra",
-          "cn": "提交",
-          "uzb": "",
-          "uighur": "چىقارماق"
-        }
       },
       {
         "id": 1604,
@@ -13620,16 +12610,6 @@
           "cn": "询问",
           "uzb": "",
           "uighur": "ئىزدەش"
-        }
-      },
-      {
-        "id": 1605,
-        "jp": "達する",
-        "trans": {
-          "vn": "đạt được",
-          "cn": "达到",
-          "uzb": "",
-          "uighur": "يەتمەك"
         }
       },
       {
@@ -13643,11 +12623,6 @@
         }
       },
       {
-        "id": 1607,
-        "jp": "出る",
-        "trans": { "vn": "Rời đi", "cn": "离开", "uzb": "", "uighur": "چىقار" }
-      },
-      {
         "id": 1608,
         "jp": "流れる",
         "trans": {
@@ -13655,16 +12630,6 @@
           "cn": "流动",
           "uzb": "",
           "uighur": "ئاقىدۇ"
-        }
-      },
-      {
-        "id": 1609,
-        "jp": "並ぶ",
-        "trans": {
-          "vn": "Xếp hàng",
-          "cn": "排队",
-          "uzb": "",
-          "uighur": "تىزىلىش"
         }
       },
       {
@@ -13678,11 +12643,6 @@
         }
       },
       {
-        "id": 1611,
-        "jp": "発す",
-        "trans": { "vn": "Phát", "cn": "发射", "uzb": "", "uighur": "ئەۋەتىش" }
-      },
-      {
         "id": 1612,
         "jp": "離れる",
         "trans": {
@@ -13690,16 +12650,6 @@
           "cn": "离开",
           "uzb": "",
           "uighur": "ئايرىلىش"
-        }
-      },
-      {
-        "id": 1613,
-        "jp": "引き続く",
-        "trans": {
-          "vn": "Tiếp tục",
-          "cn": "继续",
-          "uzb": "",
-          "uighur": "داۋاملاشتۇرۇش"
         }
       },
       {
@@ -13713,16 +12663,6 @@
         }
       },
       {
-        "id": 1615,
-        "jp": "迷う",
-        "trans": {
-          "vn": "Lạc đường",
-          "cn": "迷失",
-          "uzb": "",
-          "uighur": "ئىزىقىپ قىلىش"
-        }
-      },
-      {
         "id": 1616,
         "jp": "見える",
         "trans": {
@@ -13730,16 +12670,6 @@
           "cn": "可见",
           "uzb": "",
           "uighur": "كۆرۈنۈش"
-        }
-      },
-      {
-        "id": 1617,
-        "jp": "命ずる",
-        "trans": {
-          "vn": "Chỉ định",
-          "cn": "命令",
-          "uzb": "",
-          "uighur": "بۇيرۇق قىلىش"
         }
       },
       {
@@ -13753,16 +12683,6 @@
         }
       },
       {
-        "id": 1619,
-        "jp": "約す",
-        "trans": {
-          "vn": "Khoảng cách",
-          "cn": "约定",
-          "uzb": "",
-          "uighur": "بىكىتىش"
-        }
-      },
-      {
         "id": 1620,
         "jp": "要する",
         "trans": {
@@ -13773,29 +12693,9 @@
         }
       },
       {
-        "id": 1621,
-        "jp": "あがる",
-        "trans": {
-          "vn": "Ang lên",
-          "cn": "上升",
-          "uzb": "",
-          "uighur": "چىقماق"
-        }
-      },
-      {
         "id": 1622,
         "jp": "空ける",
         "trans": { "vn": "mở", "cn": "腾空", "uzb": "", "uighur": "كولاش" }
-      },
-      {
-        "id": 1623,
-        "jp": "溢れかえる",
-        "trans": {
-          "vn": "Tràn ngập",
-          "cn": "溢满",
-          "uzb": "",
-          "uighur": "تىشىپ چىقماق"
-        }
       },
       {
         "id": 1624,
@@ -13805,16 +12705,6 @@
           "cn": "溢出",
           "uzb": "",
           "uighur": "تىشىپ كىتىش"
-        }
-      },
-      {
-        "id": 1625,
-        "jp": "余る",
-        "trans": {
-          "vn": "Dư thừa",
-          "cn": "多余",
-          "uzb": "",
-          "uighur": "ئىشىپ قىلىش"
         }
       },
       {
@@ -13828,16 +12718,6 @@
         }
       },
       {
-        "id": 1627,
-        "jp": "活かす",
-        "trans": {
-          "vn": "tận dụng",
-          "cn": "利用",
-          "uzb": "",
-          "uighur": "جانلاندۇرۇش"
-        }
-      },
-      {
         "id": 1628,
         "jp": "受け入れる",
         "trans": {
@@ -13848,44 +12728,14 @@
         }
       },
       {
-        "id": 1629,
-        "jp": "受け継ぐ",
-        "trans": {
-          "vn": "Kế thừa",
-          "cn": "继承",
-          "uzb": "",
-          "uighur": "ئىلىپ داۋاملاشتۇرۇش"
-        }
-      },
-      {
         "id": 1630,
         "jp": "受ける",
         "trans": { "vn": "Nhận", "cn": "接受", "uzb": "", "uighur": "قوبۇل" }
       },
       {
-        "id": 1631,
-        "jp": "動く",
-        "trans": {
-          "vn": "Chuyển động",
-          "cn": "移动",
-          "uzb": "",
-          "uighur": "ھەركەت قىلىش"
-        }
-      },
-      {
         "id": 1632,
         "jp": "打つ",
         "trans": { "vn": "Đánh", "cn": "敲打", "uzb": "", "uighur": "ئۇرۇش" }
-      },
-      {
-        "id": 1633,
-        "jp": "映す",
-        "trans": {
-          "vn": "Chiếu",
-          "cn": "显示",
-          "uzb": "",
-          "uighur": "نۇر قايتۇرۇش"
-        }
       },
       {
         "id": 1634,
@@ -13895,16 +12745,6 @@
           "cn": "迁移",
           "uzb": "",
           "uighur": "يۆتكىلىش"
-        }
-      },
-      {
-        "id": 1635,
-        "jp": "生まれる",
-        "trans": {
-          "vn": "Sinh ra",
-          "cn": "出生",
-          "uzb": "",
-          "uighur": "تۇغۇلۇش"
         }
       },
       {
@@ -13918,16 +12758,6 @@
         }
       },
       {
-        "id": 1637,
-        "jp": "負う",
-        "trans": {
-          "vn": "Chịu đựng",
-          "cn": "负担",
-          "uzb": "",
-          "uighur": "يىڭىلىش"
-        }
-      },
-      {
         "id": 1638,
         "jp": "犯す",
         "trans": {
@@ -13938,44 +12768,14 @@
         }
       },
       {
-        "id": 1639,
-        "jp": "起こる",
-        "trans": {
-          "vn": "xảy ra",
-          "cn": "发生",
-          "uzb": "",
-          "uighur": "ئۆتكۈزۈش"
-        }
-      },
-      {
         "id": 1640,
         "jp": "押さえる",
         "trans": { "vn": "Ấn", "cn": "控制", "uzb": "", "uighur": "بىسىلىش" }
       },
       {
-        "id": 1641,
-        "jp": "おさまる",
-        "trans": {
-          "vn": "Yên bình",
-          "cn": "安定",
-          "uzb": "",
-          "uighur": "بىرتەرەپ قىلىش"
-        }
-      },
-      {
         "id": 1642,
         "jp": "帰る",
         "trans": { "vn": "Về nhà", "cn": "返回", "uzb": "", "uighur": "قايتىش" }
-      },
-      {
-        "id": 1643,
-        "jp": "代える",
-        "trans": {
-          "vn": "thay thế",
-          "cn": "替代",
-          "uzb": "",
-          "uighur": "ئالمىشىش"
-        }
       },
       {
         "id": 1644,
@@ -13985,16 +12785,6 @@
           "cn": "花费",
           "uzb": "",
           "uighur": "ئىسىپ قويۇش"
-        }
-      },
-      {
-        "id": 1645,
-        "jp": "書き残す",
-        "trans": {
-          "vn": "Ghi lại",
-          "cn": "留下",
-          "uzb": "",
-          "uighur": "يىزىپ قالدۇرۇش"
         }
       },
       {
@@ -14008,11 +12798,6 @@
         }
       },
       {
-        "id": 1647,
-        "jp": "掛ける",
-        "trans": { "vn": "gấp đôi", "cn": "悬挂", "uzb": "", "uighur": "ئىسىش" }
-      },
-      {
         "id": 1648,
         "jp": "重なり合う",
         "trans": {
@@ -14023,29 +12808,9 @@
         }
       },
       {
-        "id": 1649,
-        "jp": "数え上げる",
-        "trans": {
-          "vn": "Đếm",
-          "cn": "计数",
-          "uzb": "",
-          "uighur": "ساناپ چىقىش"
-        }
-      },
-      {
         "id": 1650,
         "jp": "数える",
         "trans": { "vn": "Đếm", "cn": "计数", "uzb": "", "uighur": "ساناش" }
-      },
-      {
-        "id": 1651,
-        "jp": "消え去る",
-        "trans": {
-          "vn": "Biến mất",
-          "cn": "消逝",
-          "uzb": "",
-          "uighur": "ئۆچۈرۋىتىش"
-        }
       },
       {
         "id": 1652,
@@ -14053,24 +12818,9 @@
         "trans": { "vn": "Nghe", "cn": "倾听", "uzb": "", "uighur": "ئاڭلاش" }
       },
       {
-        "id": 1653,
-        "jp": "決まる",
-        "trans": {
-          "vn": "Được quyết định",
-          "cn": "决定",
-          "uzb": "",
-          "uighur": "بەلگىلەش"
-        }
-      },
-      {
         "id": 1654,
         "jp": "着る",
         "trans": { "vn": "mặc", "cn": "穿戴", "uzb": "", "uighur": "كىيىش" }
-      },
-      {
-        "id": 1655,
-        "jp": "切れる",
-        "trans": { "vn": "cắt", "cn": "分离", "uzb": "", "uighur": "كىسىش" }
       },
       {
         "id": 1656,
@@ -14083,11 +12833,6 @@
         }
       },
       {
-        "id": 1657,
-        "jp": "くっつく",
-        "trans": { "vn": "dính", "cn": "附着", "uzb": "", "uighur": "چاپلىشىش" }
-      },
-      {
         "id": 1658,
         "jp": "組み合う",
         "trans": {
@@ -14095,16 +12840,6 @@
           "cn": "组合",
           "uzb": "",
           "uighur": "تەشكىلەس"
-        }
-      },
-      {
-        "id": 1659,
-        "jp": "汲み取れる",
-        "trans": {
-          "vn": "Nhận thấy",
-          "cn": "领会",
-          "uzb": "",
-          "uighur": "ئايرىپ چىقىرىش"
         }
       },
       {
@@ -14118,16 +12853,6 @@
         }
       },
       {
-        "id": 1661,
-        "jp": "越える",
-        "trans": {
-          "vn": "Vượt qua",
-          "cn": "超越",
-          "uzb": "",
-          "uighur": "ھالقىش"
-        }
-      },
-      {
         "id": 1662,
         "jp": "心がける",
         "trans": {
@@ -14135,16 +12860,6 @@
           "cn": "保持",
           "uzb": "",
           "uighur": "كۆڭۈل بۆلۈش"
-        }
-      },
-      {
-        "id": 1663,
-        "jp": "試みる",
-        "trans": {
-          "vn": "Thử",
-          "cn": "尝试",
-          "uzb": "",
-          "uighur": "سىناپ بىقىش"
         }
       },
       {
@@ -14158,11 +12873,6 @@
         }
       },
       {
-        "id": 1665,
-        "jp": "こめる",
-        "trans": { "vn": "cốm", "cn": "包容", "uzb": "", "uighur": "تولدۇرماق" }
-      },
-      {
         "id": 1666,
         "jp": "探す",
         "trans": {
@@ -14170,16 +12880,6 @@
           "cn": "寻找",
           "uzb": "",
           "uighur": "ئىزدەش"
-        }
-      },
-      {
-        "id": 1667,
-        "jp": "避ける",
-        "trans": {
-          "vn": "Tránh né",
-          "cn": "避免",
-          "uzb": "",
-          "uighur": "قىچىش"
         }
       },
       {
@@ -14193,16 +12893,6 @@
         }
       },
       {
-        "id": 1669,
-        "jp": "親しむ",
-        "trans": {
-          "vn": "quen thuộc",
-          "cn": "亲近",
-          "uzb": "",
-          "uighur": "يىقىنچىلىق قىلىش"
-        }
-      },
-      {
         "id": 1670,
         "jp": "捨てる",
         "trans": {
@@ -14210,16 +12900,6 @@
           "cn": "丢弃",
           "uzb": "",
           "uighur": "تاشلىۋىتىش"
-        }
-      },
-      {
-        "id": 1671,
-        "jp": "損なう",
-        "trans": {
-          "vn": "gây tổn hại",
-          "cn": "破坏",
-          "uzb": "",
-          "uighur": "بۇزۇش"
         }
       },
       {
@@ -14233,29 +12913,9 @@
         }
       },
       {
-        "id": 1673,
-        "jp": "存する",
-        "trans": {
-          "vn": "tồn tại",
-          "cn": "存在",
-          "uzb": "",
-          "uighur": "ساقلاپ قويۇش"
-        }
-      },
-      {
         "id": 1674,
         "jp": "立つ",
         "trans": { "vn": "Đứng", "cn": "站立", "uzb": "", "uighur": "تۇرۇش" }
-      },
-      {
-        "id": 1675,
-        "jp": "頼む",
-        "trans": {
-          "vn": "Xin vui lòng",
-          "cn": "请求",
-          "uzb": "",
-          "uighur": "ئۆتۈنۈش"
-        }
       },
       {
         "id": 1676,
@@ -14268,29 +12928,9 @@
         }
       },
       {
-        "id": 1677,
-        "jp": "保つ",
-        "trans": {
-          "vn": "Giữ",
-          "cn": "保持",
-          "uzb": "",
-          "uighur": "داۋاملاشتۇرۇش"
-        }
-      },
-      {
         "id": 1678,
         "jp": "足りる",
         "trans": { "vn": "đủ", "cn": "充足", "uzb": "", "uighur": "يىتەرلىك" }
-      },
-      {
-        "id": 1679,
-        "jp": "違える",
-        "trans": {
-          "vn": "Khác nhau",
-          "cn": "全力以赴",
-          "uzb": "",
-          "uighur": "خاتالىشىش"
-        }
       },
       {
         "id": 1680,
@@ -14300,16 +12940,6 @@
           "cn": "全力以赴",
           "uzb": "",
           "uighur": "باركۈچى بىلەن"
-        }
-      },
-      {
-        "id": 1681,
-        "jp": "綴る",
-        "trans": {
-          "vn": "May vá",
-          "cn": "拼写",
-          "uzb": "",
-          "uighur": "تىكمەك،تىكىش"
         }
       },
       {
@@ -14323,16 +12953,6 @@
         }
       },
       {
-        "id": 1683,
-        "jp": "出会う",
-        "trans": {
-          "vn": "gặp gỡ",
-          "cn": "遇见",
-          "uzb": "",
-          "uighur": "ئۇچرىشىش"
-        }
-      },
-      {
         "id": 1684,
         "jp": "適する",
         "trans": {
@@ -14340,16 +12960,6 @@
           "cn": "适应",
           "uzb": "",
           "uighur": "ماسلاشقان"
-        }
-      },
-      {
-        "id": 1685,
-        "jp": "とまどう",
-        "trans": {
-          "vn": "lúng túng",
-          "cn": "困惑",
-          "uzb": "",
-          "uighur": "نىمەقىلارىنى بىلمەسلىك"
         }
       },
       {
@@ -14363,16 +12973,6 @@
         }
       },
       {
-        "id": 1687,
-        "jp": "捉える",
-        "trans": {
-          "vn": "Nắm bắt",
-          "cn": "理解",
-          "uzb": "",
-          "uighur": "تۇتۇلۇش"
-        }
-      },
-      {
         "id": 1688,
         "jp": "取り扱う",
         "trans": {
@@ -14380,16 +12980,6 @@
           "cn": "处理",
           "uzb": "",
           "uighur": "ئىلىپ بىرتەرەپ قىلىش"
-        }
-      },
-      {
-        "id": 1689,
-        "jp": "取りさる",
-        "trans": {
-          "vn": "giữ",
-          "cn": "被夺走",
-          "uzb": "",
-          "uighur": "ئىلىپ شاللاش"
         }
       },
       {
@@ -14403,11 +12993,6 @@
         }
       },
       {
-        "id": 1691,
-        "jp": "直す",
-        "trans": { "vn": "Sửa", "cn": "修复", "uzb": "", "uighur": "تۈزۈتۈش" }
-      },
-      {
         "id": 1692,
         "jp": "流し込む",
         "trans": {
@@ -14418,29 +13003,9 @@
         }
       },
       {
-        "id": 1693,
-        "jp": "なくす",
-        "trans": {
-          "vn": "mất đi",
-          "cn": "丧失",
-          "uzb": "",
-          "uighur": "يوقۇتۇش"
-        }
-      },
-      {
         "id": 1694,
         "jp": "なさる",
         "trans": { "vn": "làm", "cn": "履行", "uzb": "", "uighur": "قىلىش" }
-      },
-      {
-        "id": 1695,
-        "jp": "なす",
-        "trans": {
-          "vn": "rau củ",
-          "cn": "履行",
-          "uzb": "",
-          "uighur": "تەركىپ قىلىش"
-        }
       },
       {
         "id": 1696,
@@ -14450,16 +13015,6 @@
           "cn": "学习",
           "uzb": "",
           "uighur": "مەشىق قىلىش،ئۆگىنىش"
-        }
-      },
-      {
-        "id": 1697,
-        "jp": "抜け出す",
-        "trans": {
-          "vn": "Thoát ra",
-          "cn": "逃脱",
-          "uzb": "",
-          "uighur": "تارتىپ چىقىش"
         }
       },
       {
@@ -14473,16 +13028,6 @@
         }
       },
       {
-        "id": 1699,
-        "jp": "残る",
-        "trans": {
-          "vn": "Còn lại",
-          "cn": "保留",
-          "uzb": "",
-          "uighur": "ئىشىپ قىلىش"
-        }
-      },
-      {
         "id": 1700,
         "jp": "望む",
         "trans": {
@@ -14490,16 +13035,6 @@
           "cn": "期望",
           "uzb": "",
           "uighur": "ئۈمۈد قىلىش"
-        }
-      },
-      {
-        "id": 1701,
-        "jp": "述べる",
-        "trans": {
-          "vn": "dẫn lại",
-          "cn": "表达",
-          "uzb": "",
-          "uighur": "بايان قىلىش"
         }
       },
       {
@@ -14513,44 +13048,14 @@
         }
       },
       {
-        "id": 1703,
-        "jp": "はじき出す",
-        "trans": {
-          "vn": "đánh ra",
-          "cn": "排除",
-          "uzb": "",
-          "uighur": "تىپىپ چىقىرىش"
-        }
-      },
-      {
         "id": 1704,
         "jp": "はめる",
         "trans": { "vn": "Đậu", "cn": "安装", "uzb": "", "uighur": "باشلىنىش" }
       },
       {
-        "id": 1705,
-        "jp": "ばれる",
-        "trans": {
-          "vn": "bại lộ",
-          "cn": "被发现",
-          "uzb": "",
-          "uighur": "بايقىلىپ قىلىش"
-        }
-      },
-      {
         "id": 1706,
         "jp": "ひく",
         "trans": { "vn": "Rút gọn", "cn": "拉", "uzb": "", "uighur": "ئىلىش" }
-      },
-      {
-        "id": 1707,
-        "jp": "秘める",
-        "trans": {
-          "vn": "giấu giếm",
-          "cn": "隐藏",
-          "uzb": "",
-          "uighur": "يوشۇرۇش"
-        }
       },
       {
         "id": 1708,
@@ -14560,16 +13065,6 @@
           "cn": "扩散",
           "uzb": "",
           "uighur": "كىڭىيىش"
-        }
-      },
-      {
-        "id": 1709,
-        "jp": "太る",
-        "trans": {
-          "vn": "tăng cân",
-          "cn": "变胖",
-          "uzb": "",
-          "uighur": "سەمىرىش"
         }
       },
       {
@@ -14583,16 +13078,6 @@
         }
       },
       {
-        "id": 1711,
-        "jp": "触れる",
-        "trans": {
-          "vn": "chạm vào",
-          "cn": "触摸",
-          "uzb": "",
-          "uighur": "تىگىش"
-        }
-      },
-      {
         "id": 1712,
         "jp": "経る",
         "trans": {
@@ -14600,16 +13085,6 @@
           "cn": "经过",
           "uzb": "",
           "uighur": "ئۆتۈش"
-        }
-      },
-      {
-        "id": 1713,
-        "jp": "施す",
-        "trans": {
-          "vn": "Thực hiện",
-          "cn": "提供",
-          "uzb": "",
-          "uighur": "سەدىقە قىلىش"
         }
       },
       {
@@ -14623,16 +13098,6 @@
         }
       },
       {
-        "id": 1715,
-        "jp": "み合わせる",
-        "trans": {
-          "vn": "Pha trộn",
-          "cn": "结合",
-          "uzb": "",
-          "uighur": "كۆرۈپ ماسلاشتۇرۇش"
-        }
-      },
-      {
         "id": 1716,
         "jp": "見受ける",
         "trans": {
@@ -14640,16 +13105,6 @@
           "cn": "察觉",
           "uzb": "",
           "uighur": "كۆرۈپ ئىلىش"
-        }
-      },
-      {
-        "id": 1717,
-        "jp": "見かける",
-        "trans": {
-          "vn": "Nhìn thấy",
-          "cn": "看见",
-          "uzb": "",
-          "uighur": "كۆرۈپ قىلىش"
         }
       },
       {
@@ -14663,16 +13118,6 @@
         }
       },
       {
-        "id": 1719,
-        "jp": "乱れる",
-        "trans": {
-          "vn": "hỗn loạn",
-          "cn": "混乱",
-          "uzb": "",
-          "uighur": "قالايمىقان قىلىش"
-        }
-      },
-      {
         "id": 1720,
         "jp": "導く",
         "trans": {
@@ -14683,29 +13128,9 @@
         }
       },
       {
-        "id": 1721,
-        "jp": "見渡す",
-        "trans": {
-          "vn": "Nhìn quanh",
-          "cn": "看过去",
-          "uzb": "",
-          "uighur": "نەزەر تاشلاش"
-        }
-      },
-      {
         "id": 1722,
         "jp": "もむ",
         "trans": { "vn": "Massage", "cn": "揉", "uzb": "", "uighur": "ئۇگلاش" }
-      },
-      {
-        "id": 1723,
-        "jp": "用する",
-        "trans": {
-          "vn": "sử dụng",
-          "cn": "使用",
-          "uzb": "",
-          "uighur": "ئىشلەتمەك"
-        }
       },
       {
         "id": 1724,
@@ -14715,16 +13140,6 @@
           "cn": "重读",
           "uzb": "",
           "uighur": "ئالماشتۇرۇپ ئوقۇش"
-        }
-      },
-      {
-        "id": 1725,
-        "jp": "読み直す",
-        "trans": {
-          "vn": "Đọc lại",
-          "cn": "重新阅读",
-          "uzb": "",
-          "uighur": "ئوقۇپ تۈزىتىش"
         }
       },
       {
@@ -14738,19 +13153,9 @@
         }
       },
       {
-        "id": 1727,
-        "jp": "わたる",
-        "trans": { "vn": "qua", "cn": "跨越", "uzb": "", "uighur": "ئۆتۈش" }
-      },
-      {
         "id": 1728,
         "jp": "たとえば",
         "trans": { "vn": "Ví dụ như", "cn": "例如", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1729,
-        "jp": "まず",
-        "trans": { "vn": "Trước tiên", "cn": "首先", "uzb": "", "uighur": "" }
       },
       {
         "id": 1730,
@@ -14758,19 +13163,9 @@
         "trans": { "vn": "Tất nhiên", "cn": "当然", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1731,
-        "jp": "少し",
-        "trans": { "vn": "Một chút", "cn": "稍微", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1732,
         "jp": "最も",
         "trans": { "vn": "Trái nhất", "cn": "最加", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1733,
-        "jp": "必ず",
-        "trans": { "vn": "Chắc chắn", "cn": "必须", "uzb": "", "uighur": "" }
       },
       {
         "id": 1734,
@@ -14778,24 +13173,9 @@
         "trans": { "vn": "Nếu", "cn": "假如", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1735,
-        "jp": "まったく",
-        "trans": { "vn": "Cứ thế thôi", "cn": "完全", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1736,
         "jp": "きちんと",
         "trans": { "vn": "Dễ hòa hợp", "cn": "整洁", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1737,
-        "jp": "初めて",
-        "trans": {
-          "vn": "Lần đầu tiên",
-          "cn": "第一次",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1738,
@@ -14803,19 +13183,9 @@
         "trans": { "vn": "Không nhiều", "cn": "太", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1739,
-        "jp": "より",
-        "trans": { "vn": "Hơn ", "cn": "比较", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1740,
         "jp": "もう",
         "trans": { "vn": "đã", "cn": "已经", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1741,
-        "jp": "よく",
-        "trans": { "vn": "thường", "cn": "经常", "uzb": "", "uighur": "" }
       },
       {
         "id": 1742,
@@ -14823,19 +13193,9 @@
         "trans": { "vn": "tạm thời", "cn": "一旦", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1743,
-        "jp": "さらに",
-        "trans": { "vn": "Ngoài ra", "cn": "更加", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1744,
         "jp": "たまたま",
         "trans": { "vn": "Ngẫu nhiên", "cn": "偶然", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1745,
-        "jp": "直接",
-        "trans": { "vn": "Trực tiếp", "cn": "直接", "uzb": "", "uighur": "" }
       },
       {
         "id": 1746,
@@ -14843,34 +13203,14 @@
         "trans": { "vn": "Rõ ràng", "cn": "清楚", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1747,
-        "jp": "ほぼ",
-        "trans": { "vn": "Hầu hết", "cn": "差不多", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1748,
         "jp": "数多く",
         "trans": { "vn": "Rất nhiều", "cn": "多数的", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1749,
-        "jp": "たとえ",
-        "trans": { "vn": "Dẫu cho", "cn": "假如", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1750,
         "jp": "次々",
         "trans": { "vn": "Liên tiếp", "cn": "不断", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1751,
-        "jp": "どんどん",
-        "trans": {
-          "vn": "Ngày càng nhanh",
-          "cn": "不断",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1752,
@@ -14883,19 +13223,9 @@
         }
       },
       {
-        "id": 1753,
-        "jp": "既に",
-        "trans": { "vn": "Đã có", "cn": "已经", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1754,
         "jp": "なるべく",
         "trans": { "vn": "Cố gắng", "cn": "尽量", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1755,
-        "jp": "もっと",
-        "trans": { "vn": "Thêm nữa", "cn": "更多", "uzb": "", "uighur": "" }
       },
       {
         "id": 1756,
@@ -14903,24 +13233,9 @@
         "trans": { "vn": "Cứ như là", "cn": "宛如", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1757,
-        "jp": "予め",
-        "trans": { "vn": "Đã trước", "cn": "预先", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1758,
         "jp": "決して",
         "trans": { "vn": "nhất định", "cn": "绝对", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1759,
-        "jp": "そっくり",
-        "trans": {
-          "vn": "Giống hệt",
-          "cn": "一模一样",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1760,
@@ -14928,19 +13243,9 @@
         "trans": { "vn": "Một chút", "cn": "稍微", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1761,
-        "jp": "特に",
-        "trans": { "vn": "Đặc biệt", "cn": "特别", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1762,
         "jp": "とても",
         "trans": { "vn": "Rất", "cn": "非常", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1763,
-        "jp": "何故",
-        "trans": { "vn": "Tại sao", "cn": "为什么", "uzb": "", "uighur": "" }
       },
       {
         "id": 1764,
@@ -14948,24 +13253,9 @@
         "trans": { "vn": "Hoàn hảo", "cn": "正好", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1765,
-        "jp": "まだ",
-        "trans": { "vn": "Vẫn còn", "cn": "还", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1766,
         "jp": "ようやく",
         "trans": { "vn": "Cuối cùng", "cn": "终于", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1767,
-        "jp": "あくまで",
-        "trans": {
-          "vn": "Cốt lõi là",
-          "cn": "无论如何",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1768,
@@ -14978,24 +13268,9 @@
         }
       },
       {
-        "id": 1769,
-        "jp": "いくら",
-        "trans": {
-          "vn": "bất kỳ giá nào",
-          "cn": "多少",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1770,
         "jp": "一番",
         "trans": { "vn": "Một số", "cn": "第一", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1771,
-        "jp": "いよいよ",
-        "trans": { "vn": "Sắp tới rồi", "cn": "终于", "uzb": "", "uighur": "" }
       },
       {
         "id": 1772,
@@ -15003,24 +13278,9 @@
         "trans": { "vn": "Mãi mãi", "cn": "接连不断", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1773,
-        "jp": "刻々",
-        "trans": {
-          "vn": "Ngắn ngủi",
-          "cn": "每时每刻",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1774,
         "jp": "さっそく",
         "trans": { "vn": "Ngay lập tức", "cn": "马上", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1775,
-        "jp": "ずっと",
-        "trans": { "vn": "Suốt", "cn": "一直", "uzb": "", "uighur": "" }
       },
       {
         "id": 1776,
@@ -15033,24 +13293,9 @@
         }
       },
       {
-        "id": 1777,
-        "jp": "即",
-        "trans": {
-          "vn": "ngay lập tức",
-          "cn": "马上/立刻",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1778,
         "jp": "たくさん",
         "trans": { "vn": "nhiều", "cn": "很多", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1779,
-        "jp": "単に",
-        "trans": { "vn": "đơn thuần", "cn": "很多", "uzb": "", "uighur": "" }
       },
       {
         "id": 1780,
@@ -15058,19 +13303,9 @@
         "trans": { "vn": "làm đúng", "cn": "好好地", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1781,
-        "jp": "ちょうど",
-        "trans": { "vn": "vừa", "cn": "正好", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1782,
         "jp": "つい",
         "trans": { "vn": "lỡ", "cn": "不知不觉", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1783,
-        "jp": "つまり",
-        "trans": { "vn": "tức là", "cn": "所以说", "uzb": "", "uighur": "" }
       },
       {
         "id": 1784,
@@ -15078,34 +13313,14 @@
         "trans": { "vn": "đương nhiên", "cn": "当然", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1785,
-        "jp": "当分",
-        "trans": { "vn": "Xin lưu ý", "cn": "暂时", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1786,
         "jp": "とにかく",
         "trans": { "vn": "Bất kể", "cn": "无论如何", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1787,
-        "jp": "ともかく",
-        "trans": {
-          "vn": "Dù sao đi nữa.",
-          "cn": "总之",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1788,
         "jp": "とりあえず",
         "trans": { "vn": "Tạm thời", "cn": "姑且", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1789,
-        "jp": "にょろ",
-        "trans": { "vn": "dấu ngã ~", "cn": "蜿蜒", "uzb": "", "uighur": "" }
       },
       {
         "id": 1790,
@@ -15118,29 +13333,9 @@
         }
       },
       {
-        "id": 1791,
-        "jp": "ポイ",
-        "trans": {
-          "vn": "Đầu thuốc lá",
-          "cn": "某种倾向",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1792,
         "jp": "もともと",
         "trans": { "vn": "ngay từ đầu", "cn": "原来", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1793,
-        "jp": "もはや",
-        "trans": {
-          "vn": "Không còn",
-          "cn": "已经/早已",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1794,
@@ -15148,19 +13343,9 @@
         "trans": { "vn": "Không", "cn": "没有", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1795,
-        "jp": "大きい",
-        "trans": { "vn": "lớn", "cn": "大的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1796,
         "jp": "長い",
         "trans": { "vn": "Dài", "cn": "长的", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1797,
-        "jp": "よい",
-        "trans": { "vn": "Tốt", "cn": "好的", "uzb": "", "uighur": "" }
       },
       {
         "id": 1798,
@@ -15168,19 +13353,9 @@
         "trans": { "vn": "Bằng nhau", "cn": "相等", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1799,
-        "jp": "小さい",
-        "trans": { "vn": "nhỏ", "cn": "小的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1800,
         "jp": "正しい",
         "trans": { "vn": "Chính xác", "cn": "正确", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1801,
-        "jp": "短い",
-        "trans": { "vn": "Ngắn", "cn": "短的", "uzb": "", "uighur": "" }
       },
       {
         "id": 1802,
@@ -15188,19 +13363,9 @@
         "trans": { "vn": "Chi tiết", "cn": "详细", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1803,
-        "jp": "いい",
-        "trans": { "vn": "Tốt", "cn": "好的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1804,
         "jp": "多い",
         "trans": { "vn": "nhiều", "cn": "多的", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1805,
-        "jp": "高い",
-        "trans": { "vn": "đắt", "cn": "高的", "uzb": "", "uighur": "" }
       },
       {
         "id": 1806,
@@ -15213,19 +13378,9 @@
         }
       },
       {
-        "id": 1807,
-        "jp": "重い",
-        "trans": { "vn": "Nặng", "cn": "重", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1808,
         "jp": "少ない",
         "trans": { "vn": "Ít", "cn": "少", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1809,
-        "jp": "広い",
-        "trans": { "vn": "rộng lớn", "cn": "宽阔", "uzb": "", "uighur": "" }
       },
       {
         "id": 1810,
@@ -15233,19 +13388,9 @@
         "trans": { "vn": "Khó", "cn": "困难", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1811,
-        "jp": "悪い",
-        "trans": { "vn": "Xấu", "cn": "坏的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1812,
         "jp": "近い",
         "trans": { "vn": "Gần", "cn": "近的", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1813,
-        "jp": "低い",
-        "trans": { "vn": "Thấp", "cn": "低的", "uzb": "", "uighur": "" }
       },
       {
         "id": 1814,
@@ -15253,19 +13398,9 @@
         "trans": { "vn": "chậm", "cn": "慢的", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1815,
-        "jp": "長たらしい",
-        "trans": { "vn": "dài dòng", "cn": "啰嗦", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1816,
         "jp": "欲しい",
         "trans": { "vn": "Muốn có", "cn": "想要的", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1817,
-        "jp": "赤い",
-        "trans": { "vn": "Đỏ", "cn": "红色", "uzb": "", "uighur": "" }
       },
       {
         "id": 1818,
@@ -15273,19 +13408,9 @@
         "trans": { "vn": "Mới", "cn": "新的", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1819,
-        "jp": "おかしい",
-        "trans": { "vn": "kỳ lạ", "cn": "奇怪的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1820,
         "jp": "面白い",
         "trans": { "vn": "Thú vị", "cn": "有趣", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1821,
-        "jp": "軽い",
-        "trans": { "vn": "Nhẹ nhàng", "cn": "轻的", "uzb": "", "uighur": "" }
       },
       {
         "id": 1822,
@@ -15293,39 +13418,14 @@
         "trans": { "vn": "đậm", "cn": "浓的", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1823,
-        "jp": "細かい",
-        "trans": {
-          "vn": "Chi tiết",
-          "cn": "细小/细致",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1824,
         "jp": "はかない",
         "trans": { "vn": "Hững hờ", "cn": "虚幻的", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1825,
-        "jp": "速い",
-        "trans": {
-          "vn": "Nhanh chóng",
-          "cn": "快速的",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1826,
         "jp": "平たい",
         "trans": { "vn": "Phẳng", "cn": "平易/平坦的", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1827,
-        "jp": "柔らかい",
-        "trans": { "vn": "Mềm", "cn": "柔软的", "uzb": "", "uighur": "" }
       },
       {
         "id": 1828,
@@ -15338,29 +13438,14 @@
         }
       },
       {
-        "id": 1829,
-        "jp": "同様",
-        "trans": { "vn": "Tương tự", "cn": "同样", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1830,
         "jp": "同じ",
         "trans": { "vn": "Cùng một", "cn": "相同", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1831,
-        "jp": "重要",
-        "trans": { "vn": "Quan trọng", "cn": "重要", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1832,
         "jp": "好き",
         "trans": { "vn": "Thích", "cn": "喜欢", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1833,
-        "jp": "可能",
-        "trans": { "vn": "Có thể", "cn": "可能", "uzb": "", "uighur": "" }
       },
       {
         "id": 1834,
@@ -15373,29 +13458,14 @@
         }
       },
       {
-        "id": 1835,
-        "jp": "曖昧",
-        "trans": { "vn": "Mơ hồ", "cn": "爱昧不清", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1836,
         "jp": "単純",
         "trans": { "vn": "Đơn giản", "cn": "单纯", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1837,
-        "jp": "簡単",
-        "trans": { "vn": "Dễ dàng", "cn": "简单", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1838,
         "jp": "単独",
         "trans": { "vn": "Đơn độc", "cn": "单独", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1839,
-        "jp": "特別",
-        "trans": { "vn": "Đặc biệt", "cn": "特别", "uzb": "", "uighur": "" }
       },
       {
         "id": 1840,
@@ -15408,11 +13478,6 @@
         }
       },
       {
-        "id": 1841,
-        "jp": "厳密",
-        "trans": { "vn": "cứng nhắc", "cn": "严密", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1842,
         "jp": "適切",
         "trans": {
@@ -15423,19 +13488,9 @@
         }
       },
       {
-        "id": 1843,
-        "jp": "別々",
-        "trans": { "vn": "Riêng rẽ", "cn": "各自分开", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1844,
         "jp": "明確",
         "trans": { "vn": "Rõ ràng", "cn": "明确", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1845,
-        "jp": "有効",
-        "trans": { "vn": "Lợi hại", "cn": "有效", "uzb": "", "uighur": "" }
       },
       {
         "id": 1846,
@@ -15443,19 +13498,9 @@
         "trans": { "vn": "Mới", "cn": "新的", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1847,
-        "jp": "大変",
-        "trans": { "vn": "Rất khó khăn", "cn": "费劲", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1848,
         "jp": "たくさん",
         "trans": { "vn": "Nhiều", "cn": "很多", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1849,
-        "jp": "単一",
-        "trans": { "vn": "Một cách", "cn": "单一", "uzb": "", "uighur": "" }
       },
       {
         "id": 1850,
@@ -15463,19 +13508,9 @@
         "trans": { "vn": "Ngắn gọn", "cn": "简略", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1851,
-        "jp": "同一",
-        "trans": { "vn": "Cùng một", "cn": "同样", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1852,
         "jp": "バラバラ",
         "trans": { "vn": "Rời rạc", "cn": "散乱", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1853,
-        "jp": "十分",
-        "trans": { "vn": "Đủ", "cn": "充分", "uzb": "", "uighur": "" }
       },
       {
         "id": 1854,
@@ -15483,24 +13518,9 @@
         "trans": { "vn": "Tốt", "cn": "高巧", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1855,
-        "jp": "素直",
-        "trans": {
-          "vn": "Một cách triệt để",
-          "cn": "坦率",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1856,
         "jp": "大丈夫",
         "trans": { "vn": "Không sao", "cn": "不要紧", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1857,
-        "jp": "同等",
-        "trans": { "vn": "Tương đương", "cn": "同等", "uzb": "", "uighur": "" }
       },
       {
         "id": 1858,
@@ -15508,19 +13528,9 @@
         "trans": { "vn": "Rất nhiều", "cn": "紧急", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1859,
-        "jp": "密接",
-        "trans": { "vn": "gần", "cn": "密切/紧连", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1860,
         "jp": "余計",
         "trans": { "vn": "Thừa", "cn": "多余", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1861,
-        "jp": "明らか",
-        "trans": { "vn": "Rõ ràng", "cn": "清楚/显然", "uzb": "", "uighur": "" }
       },
       {
         "id": 1862,
@@ -15533,11 +13543,6 @@
         }
       },
       {
-        "id": 1863,
-        "jp": "大きめ",
-        "trans": { "vn": "To hơn", "cn": "大的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1864,
         "jp": "大まか",
         "trans": {
@@ -15548,19 +13553,9 @@
         }
       },
       {
-        "id": 1865,
-        "jp": "完全",
-        "trans": { "vn": "Hoàn toàn", "cn": "完全", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1866,
         "jp": "簡略",
         "trans": { "vn": "Đơn giản", "cn": "简略", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1867,
-        "jp": "奇妙",
-        "trans": { "vn": "Kỳ lạ", "cn": "奇妙", "uzb": "", "uighur": "" }
       },
       {
         "id": 1868,
@@ -15568,19 +13563,9 @@
         "trans": { "vn": "cẩn thận", "cn": "细心", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1869,
-        "jp": "自然",
-        "trans": { "vn": "Tự nhiên", "cn": "自然", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1870,
         "jp": "スムーズ",
         "trans": { "vn": "Mượt mà", "cn": "光滑/顺畅", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1871,
-        "jp": "正式",
-        "trans": { "vn": "Chính thức", "cn": "正式", "uzb": "", "uighur": "" }
       },
       {
         "id": 1872,
@@ -15593,19 +13578,9 @@
         }
       },
       {
-        "id": 1873,
-        "jp": "ディレクト",
-        "trans": { "vn": "Ổ đĩa", "cn": "目录", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1874,
         "jp": "当然",
         "trans": { "vn": "Tất nhiên", "cn": "当然", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1875,
-        "jp": "独自",
-        "trans": { "vn": "Độc đáo", "cn": "独自", "uzb": "", "uighur": "" }
       },
       {
         "id": 1876,
@@ -15613,24 +13588,9 @@
         "trans": { "vn": "Đặc biệt", "cn": "特殊", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1877,
-        "jp": "濃厚",
-        "trans": { "vn": "Đậm đặc", "cn": "浓厚", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1878,
         "jp": "ピッタリ",
         "trans": { "vn": "Hoàn hảo", "cn": "正好", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1879,
-        "jp": "不可欠",
-        "trans": {
-          "vn": "không thể thiếu",
-          "cn": "不可缺少",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1880,
@@ -15638,19 +13598,9 @@
         "trans": { "vn": "Vô hại", "cn": "平安无难", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1881,
-        "jp": "法的",
-        "trans": { "vn": "Pháp lý", "cn": "法律上的", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1882,
         "jp": "明白",
         "trans": { "vn": "Rõ ràng", "cn": "明显", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1883,
-        "jp": "容易",
-        "trans": { "vn": "DỄ DÀNG", "cn": "容易", "uzb": "", "uighur": "" }
       },
       {
         "id": 1884,
@@ -15663,24 +13613,9 @@
         }
       },
       {
-        "id": 1885,
-        "jp": "すなわち",
-        "trans": { "vn": "tức là", "cn": "也就是说", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1886,
         "jp": "また",
         "trans": { "vn": "lại", "cn": "还", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1887,
-        "jp": "なお",
-        "trans": {
-          "vn": "Nhắc lại",
-          "cn": "依然/愈发",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1888,
@@ -15688,29 +13623,14 @@
         "trans": { "vn": "và", "cn": "以及", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1889,
-        "jp": "しかし",
-        "trans": { "vn": "Tuy nhiên", "cn": "但是", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1890,
         "jp": "ただし",
         "trans": { "vn": "Tuy nhiên", "cn": "但是", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1891,
-        "jp": "さて",
-        "trans": { "vn": "Vậy thì", "cn": "那么", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1892,
         "jp": "あるいは",
         "trans": { "vn": "hoặc", "cn": "或者", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1893,
-        "jp": "一方",
-        "trans": { "vn": "Một phía", "cn": "另一方面", "uzb": "", "uighur": "" }
       },
       {
         "id": 1894,
@@ -15723,19 +13643,9 @@
         }
       },
       {
-        "id": 1895,
-        "jp": "そして",
-        "trans": { "vn": "và", "cn": "然后", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1896,
         "jp": "さらに",
         "trans": { "vn": "Ngoài ra", "cn": "更加的", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1897,
-        "jp": "ただ",
-        "trans": { "vn": "Chỉ có", "cn": "只是", "uzb": "", "uighur": "" }
       },
       {
         "id": 1898,
@@ -15743,19 +13653,9 @@
         "trans": { "vn": "hoặc", "cn": "或者", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1899,
-        "jp": "かつ",
-        "trans": { "vn": "hoặc ", "cn": "并且", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1900,
         "jp": "しかも",
         "trans": { "vn": "Thậm chí", "cn": "而且", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1901,
-        "jp": "実引数",
-        "trans": { "vn": "Tham số thực", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1902,
@@ -15763,24 +13663,9 @@
         "trans": { "vn": "Toán tử", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1903,
-        "jp": "初期化子",
-        "trans": { "vn": "Khởi tạo", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1904,
         "jp": "文の終端",
         "trans": { "vn": "Kết thúc của câu", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1905,
-        "jp": "条件演算子",
-        "trans": {
-          "vn": "Phép toán điều kiện",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1906,
@@ -15793,11 +13678,6 @@
         }
       },
       {
-        "id": 1907,
-        "jp": "関数呼び出し演算子",
-        "trans": { "vn": "Phép gọi hàm", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1908,
         "jp": "キャスト演算子",
         "trans": {
@@ -15806,11 +13686,6 @@
           "uzb": "",
           "uighur": ""
         }
-      },
-      {
-        "id": 1909,
-        "jp": "添字演算子",
-        "trans": { "vn": "Toán tử chỉ mục", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1910,
@@ -15823,25 +13698,10 @@
         }
       },
       {
-        "id": 1911,
-        "jp": "後置増分演算子",
-        "trans": { "vn": "Phép tự tăng sau", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1912,
         "jp": "前置増分演算子",
         "trans": {
           "vn": "Phép toán tăng tiền tố",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
-        "id": 1913,
-        "jp": "後置減分演算子",
-        "trans": {
-          "vn": "Phép toán trừ sau dấu hạn định",
           "cn": "",
           "uzb": "",
           "uighur": ""
@@ -15858,16 +13718,6 @@
         }
       },
       {
-        "id": 1915,
-        "jp": "単純代入演算子",
-        "trans": {
-          "vn": "Phép gán đơn giản",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1916,
         "jp": "代入抑止文字",
         "trans": {
@@ -15876,11 +13726,6 @@
           "uzb": "",
           "uighur": ""
         }
-      },
-      {
-        "id": 1917,
-        "jp": "２次元配列",
-        "trans": { "vn": "Mảng hai chiều", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1918,
@@ -15893,25 +13738,10 @@
         }
       },
       {
-        "id": 1919,
-        "jp": "２進数",
-        "trans": { "vn": "chữ nhị phân", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1920,
         "jp": "２の補数",
         "trans": {
           "vn": "Giá trị đối của 2",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
-        "id": 1921,
-        "jp": "８進拡張表記",
-        "trans": {
-          "vn": "Biểu diễn mở rộng bày trong mỗi phần",
           "cn": "",
           "uzb": "",
           "uighur": ""
@@ -15923,34 +13753,14 @@
         "trans": { "vn": "Số bát phân", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1923,
-        "jp": "８進数字",
-        "trans": { "vn": "Số bát phân", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1924,
         "jp": "８進定数",
         "trans": { "vn": "Số bát phân", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1925,
-        "jp": "10進数",
-        "trans": {
-          "vn": "10 trong hệ thập phân",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1926,
         "jp": "10進数字",
         "trans": { "vn": "Chữ số thập phân", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1927,
-        "jp": "10進定数",
-        "trans": { "vn": "Số thập phân", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1928,
@@ -15963,24 +13773,9 @@
         }
       },
       {
-        "id": 1929,
-        "jp": "16進拡張表記",
-        "trans": {
-          "vn": "Ghi chú mở rộng hệ thập lục phân",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1930,
         "jp": "16進数字",
         "trans": { "vn": "Số hexadecimal", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1931,
-        "jp": "16進定数",
-        "trans": { "vn": "16 số hex", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1932,
@@ -15993,24 +13788,9 @@
         }
       },
       {
-        "id": 1933,
-        "jp": "浮動小数点接尾語",
-        "trans": {
-          "vn": "Hậu tố dấu chấm động",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1934,
         "jp": "値渡し",
         "trans": { "vn": "Truyền giá trị", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1935,
-        "jp": "アロー演算子",
-        "trans": { "vn": "Toán tử mũi tên", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1936,
@@ -16023,24 +13803,9 @@
         }
       },
       {
-        "id": 1937,
-        "jp": "一重引用符",
-        "trans": {
-          "vn": "Ký hiệu trích dẫn một lần",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1938,
         "jp": "オーバーフロー",
         "trans": { "vn": "Tràn bộ nhớ", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1939,
-        "jp": "大文字",
-        "trans": { "vn": "Chữ hoa", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1940,
@@ -16053,34 +13818,14 @@
         }
       },
       {
-        "id": 1941,
-        "jp": "書き込みモード",
-        "trans": { "vn": "Chế độ ghi", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1942,
         "jp": "拡張表記",
         "trans": { "vn": "Biểu thị mở rộng", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1943,
-        "jp": "加減演算子",
-        "trans": {
-          "vn": "Phép toán cộng trừ",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1944,
         "jp": "共用体",
         "trans": { "vn": "Union", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1945,
-        "jp": "構造体",
-        "trans": { "vn": "cấu trúc", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1946,
@@ -16093,35 +13838,15 @@
         }
       },
       {
-        "id": 1947,
-        "jp": "文字列",
-        "trans": { "vn": "Chuỗi ký tự", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1948,
         "jp": "完全バッファリング",
         "trans": { "vn": "Đệm hoàn toàn", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1949,
-        "jp": "逆斜線",
-        "trans": { "vn": "Dash-back", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1950,
         "jp": "国際標準化機構",
         "trans": {
           "vn": "Tổ chức Tiêu chuẩn Hóa quốc tế",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
-        "id": 1951,
-        "jp": "最大公約数",
-        "trans": {
-          "vn": "ước chung lớn nhất",
           "cn": "",
           "uzb": "",
           "uighur": ""
@@ -16138,35 +13863,15 @@
         }
       },
       {
-        "id": 1953,
-        "jp": "サブルーチン",
-        "trans": { "vn": "Routines", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1954,
         "jp": "算術型",
         "trans": { "vn": "Kiểu số học", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1955,
-        "jp": "算術シフト",
-        "trans": { "vn": "Phép dịch số học", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1956,
         "jp": "参照渡し",
         "trans": {
           "vn": "Truyền tham chiếu",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
-        "id": 1957,
-        "jp": "四則演算",
-        "trans": {
-          "vn": "Phép toán bốn phép tính",
           "cn": "",
           "uzb": "",
           "uighur": ""
@@ -16183,24 +13888,9 @@
         }
       },
       {
-        "id": 1959,
-        "jp": "集成体型",
-        "trans": { "vn": "hình thể tổng", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1960,
         "jp": "照合誤り",
         "trans": { "vn": "Sai so khớp", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1961,
-        "jp": "乗除演算子",
-        "trans": {
-          "vn": "Phép toán cộng trừ",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1962,
@@ -16208,39 +13898,14 @@
         "trans": { "vn": "Số dư", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1963,
-        "jp": "真理値表",
-        "trans": { "vn": "Bảng chân lý", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1964,
         "jp": "垂直タブ",
         "trans": { "vn": "Dòng dọc", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1965,
-        "jp": "水平タブ",
-        "trans": {
-          "vn": "Thẻ định vị ngang",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1966,
         "jp": "名前空間",
         "trans": { "vn": "Không gian tên", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1967,
-        "jp": "制御式",
-        "trans": {
-          "vn": "Quy định điều khiển",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1968,
@@ -16253,19 +13918,9 @@
         }
       },
       {
-        "id": 1969,
-        "jp": "浮動小数点",
-        "trans": { "vn": "Điểm động", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1970,
         "jp": "関数原型",
         "trans": { "vn": "Nguyên mẫu hàm", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1971,
-        "jp": "走査文字",
-        "trans": { "vn": "Ký tự quét", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1972,
@@ -16278,24 +13933,9 @@
         }
       },
       {
-        "id": 1973,
-        "jp": "抑止文字",
-        "trans": { "vn": "Chữ chặn", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1974,
         "jp": "多次元配列",
         "trans": { "vn": "Mảng đa chiều", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1975,
-        "jp": "単項算術演算子",
-        "trans": {
-          "vn": "Phép toán số học đơn ngôi",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1976,
@@ -16308,39 +13948,14 @@
         }
       },
       {
-        "id": 1977,
-        "jp": "逐次探索",
-        "trans": { "vn": "Tìm kiếm tuần tự", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1978,
         "jp": "識別子",
         "trans": { "vn": "Nhận dạng", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1979,
-        "jp": "等価演算子",
-        "trans": {
-          "vn": "Ngôi tử tương đương",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1980,
         "jp": "排他的論理和",
         "trans": { "vn": "Phép OR loại trừ", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1981,
-        "jp": "派生型",
-        "trans": {
-          "vn": "Hình thức phát sinh",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
       },
       {
         "id": 1982,
@@ -16353,24 +13968,9 @@
         }
       },
       {
-        "id": 1983,
-        "jp": "汎整数型",
-        "trans": {
-          "vn": "Kiểu số nguyên tổng quát",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1984,
         "jp": "番兵",
         "trans": { "vn": "Bảo vệ", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1985,
-        "jp": "汎用性",
-        "trans": { "vn": "Đa dụng", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1986,
@@ -16378,24 +13978,9 @@
         "trans": { "vn": "căn bậc hai", "cn": "", "uzb": "", "uighur": "" }
       },
       {
-        "id": 1987,
-        "jp": "変換修飾子",
-        "trans": {
-          "vn": "Trình thay đổi chuyển đổi",
-          "cn": "",
-          "uzb": "",
-          "uighur": ""
-        }
-      },
-      {
         "id": 1988,
         "jp": "返却値",
         "trans": { "vn": "Giá trị trả về", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1989,
-        "jp": "べき乗",
-        "trans": { "vn": "Lũy thừa", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1990,
@@ -16408,19 +13993,9 @@
         }
       },
       {
-        "id": 1991,
-        "jp": "優先順位",
-        "trans": { "vn": "Mức độ ưu tiên", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
         "id": 1992,
         "jp": "要素型",
         "trans": { "vn": "Loại phần tử", "cn": "", "uzb": "", "uighur": "" }
-      },
-      {
-        "id": 1993,
-        "jp": "読み取りモード",
-        "trans": { "vn": "Chế độ đọc", "cn": "", "uzb": "", "uighur": "" }
       },
       {
         "id": 1994,

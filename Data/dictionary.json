@@ -6,7 +6,7 @@
       "hatsuon": "セイスウ",
       "honyaku": {
         "vn": "Số nguyên",
-        "cn": "整数",
+        "cn": "整数 ",
         "uzb": "butun son",
         "uighur": ""
       },
@@ -21,7 +21,7 @@
       "hatsuon": "アタイ",
       "honyaku": {
         "vn": "Giá trị",
-        "cn": "值",
+        "cn": "超值",
         "uzb": "qiymat",
         "uighur": ""
       },
@@ -36,7 +36,7 @@
       "hatsuon": "プログラム",
       "honyaku": {
         "vn": "chương trình",
-        "cn": "全息图",
+        "cn": "程序  ",
         "uzb": "dastur",
         "uighur": ""
       },
@@ -51,7 +51,7 @@
       "hatsuon": "モジ",
       "honyaku": {
         "vn": "Chữ",
-        "cn": "文字",
+        "cn": "文字  ",
         "uzb": "xat",
         "uighur": ""
       },
@@ -66,7 +66,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "lệnh in văn bản ra màn hình",
-        "cn": "分号",
+        "cn": "打印 ",
         "uzb": "",
         "uighur": ""
       },
@@ -81,7 +81,7 @@
       "hatsuon": "カンスウ",
       "honyaku": {
         "vn": "Hàm số",
-        "cn": "关数",
+        "cn": "函数 ",
         "uzb": "funktsiyasi",
         "uighur": ""
       },
@@ -96,7 +96,7 @@
       "hatsuon": "エンザン",
       "honyaku": {
         "vn": "Phép tính",
-        "cn": "验算",
+        "cn": "运算",
         "uzb": "Hisoblash",
         "uighur": ""
       },
@@ -141,7 +141,7 @@
       "hatsuon": "ブン",
       "honyaku": {
         "vn": "Văn bản",
-        "cn": "文",
+        "cn": "文  ",
         "uzb": "Gap",
         "uighur": ""
       },
@@ -156,7 +156,7 @@
       "hatsuon": "ニュウリョク",
       "honyaku": {
         "vn": "Nhập vào",
-        "cn": "入力",
+        "cn": "输入",
         "uzb": "kiritish",
         "uighur": ""
       },
@@ -171,7 +171,7 @@
       "hatsuon": "ポインタ",
       "honyaku": {
         "vn": "Con trỏ",
-        "cn": "猎犬",
+        "cn": "指针  ",
         "uzb": "ko'rsatgich",
         "uighur": ""
       },
@@ -201,7 +201,7 @@
       "hatsuon": "ハイレツ",
       "honyaku": {
         "vn": "Mảng",
-        "cn": "配列",
+        "cn": "阵列  ",
         "uzb": "massiv",
         "uighur": ""
       },
@@ -216,7 +216,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "hãy trở lại",
-        "cn": "返回",
+        "cn": "返回 ",
         "uzb": "qaytish",
         "uighur": ""
       },
@@ -231,7 +231,7 @@
       "hatsuon": "スウ",
       "honyaku": {
         "vn": "Số",
-        "cn": "数字",
+        "cn": "数字 ",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -246,7 +246,7 @@
       "hatsuon": "シキ",
       "honyaku": {
         "vn": "Biểu thức",
-        "cn": "式",
+        "cn": "式 ",
         "uzb": "formula",
         "uighur": ""
       },
@@ -261,7 +261,7 @@
       "hatsuon": "カタ",
       "honyaku": {
         "vn": "kiểu",
-        "cn": "型",
+        "cn": "型  ",
         "uzb": "mog'or",
         "uighur": ""
       },
@@ -276,7 +276,7 @@
       "hatsuon": "ショウ",
       "honyaku": {
         "vn": "Chương",
-        "cn": "章",
+        "cn": "章节 ",
         "uzb": "bob",
         "uighur": ""
       },
@@ -291,7 +291,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "「include」とは、プログラミング言語で使われるキーワードの一つで、他のファイルやコードの一部分を別のファイルやコードに組み込むために使用されます。これにより、同じコードを複数の場所で再利用したり、コードを分割して管理したりすることができます。また、ファイルの先頭に「include」文を書くことで、必要なライブラリやモジュールをプログラムに読み込むことも可能です。",
-        "cn": "包含",
+        "cn": "包括 ",
         "uzb": "o'z ichiga oladi",
         "uighur": ""
       },
@@ -321,7 +321,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Danh sách",
-        "cn": "名单",
+        "cn": "清单",
         "uzb": "Roʻyxat",
         "uighur": ""
       },
@@ -351,7 +351,7 @@
       "hatsuon": "ヘンスウ",
       "honyaku": {
         "vn": "Biến",
-        "cn": "变数",
+        "cn": "变量",
         "uzb": "o'zgaruvchan",
         "uighur": ""
       },
@@ -366,7 +366,7 @@
       "hatsuon": "レイ",
       "honyaku": {
         "vn": "Ví dụ",
-        "cn": "例",
+        "cn": "示例 ",
         "uzb": "misol",
         "uighur": ""
       },
@@ -396,7 +396,7 @@
       "hatsuon": "ダイニュウ",
       "honyaku": {
         "vn": "Thay thế",
-        "cn": "代入",
+        "cn": "代入 ",
         "uzb": "Topshiriq",
         "uighur": ""
       },
@@ -411,7 +411,7 @@
       "hatsuon": "カズ",
       "honyaku": {
         "vn": "Số",
-        "cn": "数字",
+        "cn": "数字  ",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -426,7 +426,7 @@
       "hatsuon": "ヨウソ",
       "honyaku": {
         "vn": "Yếu tố",
-        "cn": "要素",
+        "cn": "要素  ",
         "uzb": "element",
         "uighur": ""
       },
@@ -441,7 +441,7 @@
       "hatsuon": "シンチョウ",
       "honyaku": {
         "vn": "Chiều cao",
-        "cn": "身高",
+        "cn": "身高  ",
         "uzb": "balandligi",
         "uighur": ""
       },
@@ -456,7 +456,7 @@
       "hatsuon": "オブジェクト",
       "honyaku": {
         "vn": "Đối tượng",
-        "cn": "目标对象",
+        "cn": "目的  ",
         "uzb": "ob'ekt",
         "uighur": ""
       },
@@ -471,7 +471,7 @@
       "hatsuon": "コウゾウ",
       "honyaku": {
         "vn": "Cấu trúc",
-        "cn": "构造",
+        "cn": "构造  ",
         "uzb": "tuzilishi",
         "uighur": ""
       },
@@ -486,7 +486,7 @@
       "hatsuon": "ストリーム",
       "honyaku": {
         "vn": "Dòng chảy",
-        "cn": "气流",
+        "cn": "流",
         "uzb": "oqim",
         "uighur": ""
       },
@@ -516,7 +516,7 @@
       "hatsuon": "ケッカ",
       "honyaku": {
         "vn": "Kết quả",
-        "cn": "结果",
+        "cn": "结果  ",
         "uzb": "natija",
         "uighur": ""
       },
@@ -531,7 +531,7 @@
       "hatsuon": "タイ",
       "honyaku": {
         "vn": "cơ thể",
-        "cn": "体系",
+        "cn": "身体  ",
         "uzb": "tanasi",
         "uighur": ""
       },
@@ -546,7 +546,7 @@
       "hatsuon": "イカ",
       "honyaku": {
         "vn": "Dưới đây",
-        "cn": "以下",
+        "cn": "以下 ",
         "uzb": "quyida",
         "uighur": ""
       },
@@ -561,7 +561,7 @@
       "hatsuon": "ビット",
       "honyaku": {
         "vn": "bit",
-        "cn": "数点",
+        "cn": "位",
         "uzb": "bit",
         "uighur": ""
       },
@@ -576,7 +576,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "đôi",
-        "cn": "双倍",
+        "cn": "双倍的 ",
         "uzb": "ikki barobar",
         "uighur": ""
       },
@@ -606,7 +606,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "khai biến",
-        "cn": "字符",
+        "cn": "字符 ",
         "uzb": "",
         "uighur": ""
       },
@@ -621,7 +621,7 @@
       "hatsuon": "センゲン",
       "honyaku": {
         "vn": "tuyên ngôn",
-        "cn": "宣言",
+        "cn": "宣言 ",
         "uzb": "deklaratsiya",
         "uighur": ""
       },
@@ -636,7 +636,7 @@
       "hatsuon": "オープン",
       "honyaku": {
         "vn": "Mở cửa",
-        "cn": "开",
+        "cn": "打开 ",
         "uzb": "ochiq",
         "uighur": ""
       },
@@ -666,7 +666,7 @@
       "hatsuon": "リテラル",
       "honyaku": {
         "vn": "Như đã trích dẫn",
-        "cn": "原子公式",
+        "cn": "文字  ",
         "uzb": "tom ma'noda",
         "uighur": ""
       },
@@ -696,7 +696,7 @@
       "hatsuon": "ナマエ",
       "honyaku": {
         "vn": "Tên",
-        "cn": "名字",
+        "cn": "名字 ",
         "uzb": "nomi",
         "uighur": ""
       },
@@ -711,7 +711,7 @@
       "hatsuon": "バン",
       "honyaku": {
         "vn": "Viên",
-        "cn": "号",
+        "cn": "数字 ",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -726,7 +726,7 @@
       "hatsuon": "カクノウ",
       "honyaku": {
         "vn": "cất giữ",
-        "cn": "容纳",
+        "cn": "存储",
         "uzb": "Do'kon",
         "uighur": ""
       },
@@ -741,7 +741,7 @@
       "hatsuon": "ツギ",
       "honyaku": {
         "vn": "Kế tiếp",
-        "cn": "下",
+        "cn": "下一个 ",
         "uzb": "Keyingisi",
         "uighur": ""
       },
@@ -756,7 +756,7 @@
       "hatsuon": "ケイシキ",
       "honyaku": {
         "vn": "Hình thức",
-        "cn": "形式",
+        "cn": "格式 ",
         "uzb": "format",
         "uighur": ""
       },
@@ -771,7 +771,7 @@
       "hatsuon": "コピー",
       "honyaku": {
         "vn": "Sao chép",
-        "cn": "复制",
+        "cn": "复制 ",
         "uzb": "nusxa ko'chirish",
         "uighur": ""
       },
@@ -786,7 +786,7 @@
       "hatsuon": "ショウスウ",
       "honyaku": {
         "vn": "phần nhỏ",
-        "cn": "小数点",
+        "cn": "小数 ",
         "uzb": "kasr",
         "uighur": ""
       },
@@ -801,7 +801,7 @@
       "hatsuon": "ヘンカン",
       "honyaku": {
         "vn": "Chuyển đổi",
-        "cn": "变数",
+        "cn": "变换 ",
         "uzb": "konvertatsiya",
         "uighur": ""
       },
@@ -816,7 +816,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "trong khi",
-        "cn": "尽管",
+        "cn": "尽管 ",
         "uzb": "esa",
         "uighur": ""
       },
@@ -831,7 +831,7 @@
       "hatsuon": "テイスウ",
       "honyaku": {
         "vn": "thành hằng số",
-        "cn": "定数",
+        "cn": "定数 ",
         "uzb": "doimiy",
         "uighur": ""
       },
@@ -846,7 +846,7 @@
       "hatsuon": "サクセイ",
       "honyaku": {
         "vn": "Tạo",
-        "cn": "做成",
+        "cn": "创造 ",
         "uzb": "yaratmoq",
         "uighur": ""
       },
@@ -861,7 +861,7 @@
       "hatsuon": "ミギ",
       "honyaku": {
         "vn": "Phải",
-        "cn": "右",
+        "cn": "右边 ",
         "uzb": "to'g'ri",
         "uighur": ""
       },
@@ -876,7 +876,7 @@
       "hatsuon": "セントウ",
       "honyaku": {
         "vn": "Đầu",
-        "cn": "开始",
+        "cn": "第一个 ",
         "uzb": "bosh",
         "uighur": ""
       },
@@ -891,7 +891,7 @@
       "hatsuon": "フ",
       "honyaku": {
         "vn": "Âm",
-        "cn": "负数",
+        "cn": "输 ",
         "uzb": "salbiy",
         "uighur": ""
       },
@@ -906,7 +906,7 @@
       "hatsuon": "ブブン",
       "honyaku": {
         "vn": "Phần",
-        "cn": "部分",
+        "cn": "部分 ",
         "uzb": "qismi",
         "uighur": ""
       },
@@ -921,7 +921,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "chiều cao",
-        "cn": "高度",
+        "cn": "高度 ",
         "uzb": "balandligi",
         "uighur": ""
       },
@@ -936,7 +936,7 @@
       "hatsuon": "ヒョウカ",
       "honyaku": {
         "vn": "Đánh giá",
-        "cn": "评价",
+        "cn": "评价 ",
         "uzb": "baholash",
         "uighur": ""
       },
@@ -951,7 +951,7 @@
       "hatsuon": "テイギ",
       "honyaku": {
         "vn": "Định nghĩa",
-        "cn": "定义",
+        "cn": "定义 ",
         "uzb": "ta'rifi",
         "uighur": ""
       },
@@ -966,7 +966,7 @@
       "hatsuon": "ワ",
       "honyaku": {
         "vn": "Và",
-        "cn": "求和",
+        "cn": "和 ",
         "uzb": "javob",
         "uighur": ""
       },
@@ -981,7 +981,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "ptr",
-        "cn": "指针",
+        "cn": "指针  ",
         "uzb": "",
         "uighur": ""
       },
@@ -996,7 +996,7 @@
       "hatsuon": "ジツゲン",
       "honyaku": {
         "vn": "Đạt được",
-        "cn": "做成",
+        "cn": "实现 ",
         "uzb": "amalga oshirish",
         "uighur": ""
       },
@@ -1011,7 +1011,7 @@
       "hatsuon": "マクロ",
       "honyaku": {
         "vn": "Công thức toán học",
-        "cn": "巨大",
+        "cn": "宏 ",
         "uzb": "makro",
         "uighur": ""
       },
@@ -1026,7 +1026,7 @@
       "hatsuon": "エンシュウ",
       "honyaku": {
         "vn": "Bài tập",
-        "cn": "实习",
+        "cn": "演习 ",
         "uzb": "mashqlar",
         "uighur": ""
       },
@@ -1056,7 +1056,7 @@
       "hatsuon": "ケタ",
       "honyaku": {
         "vn": "chữ số",
-        "cn": "行",
+        "cn": "行 ",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -1071,7 +1071,7 @@
       "hatsuon": "テンスウ",
       "honyaku": {
         "vn": "Điểm số",
-        "cn": "点数",
+        "cn": "点数 ",
         "uzb": "Xol",
         "uighur": ""
       },
@@ -1086,7 +1086,7 @@
       "hatsuon": "フゴウ",
       "honyaku": {
         "vn": "Dấu hiệu",
-        "cn": "符号",
+        "cn": "符号 ",
         "uzb": "belgisi",
         "uighur": ""
       },
@@ -1101,7 +1101,7 @@
       "hatsuon": "リヨウ",
       "honyaku": {
         "vn": "Sử dụng",
-        "cn": "利用",
+        "cn": "利用 ",
         "uzb": "foydalanish",
         "uighur": ""
       },
@@ -1116,7 +1116,7 @@
       "hatsuon": "シテイ",
       "honyaku": {
         "vn": "Chỉ định",
-        "cn": "指定",
+        "cn": "指定 ",
         "uzb": "belgilash",
         "uighur": ""
       },
@@ -1131,7 +1131,7 @@
       "hatsuon": "ショキ",
       "honyaku": {
         "vn": "Ban đầu",
-        "cn": "初期",
+        "cn": "开始的 ",
         "uzb": "boshlang'ich",
         "uighur": ""
       },
@@ -1146,7 +1146,7 @@
       "hatsuon": "スウチ",
       "honyaku": {
         "vn": "Con số",
-        "cn": "数值",
+        "cn": "数值 ",
         "uzb": "raqamli qiymat",
         "uighur": ""
       },
@@ -1161,7 +1161,7 @@
       "hatsuon": "ヒツヨウ",
       "honyaku": {
         "vn": "cần",
-        "cn": "必要",
+        "cn": "必要 ",
         "uzb": "kerak",
         "uighur": ""
       },
@@ -1176,7 +1176,7 @@
       "hatsuon": "ゲンゴ",
       "honyaku": {
         "vn": "Ngôn ngữ",
-        "cn": "语言",
+        "cn": "语言 ",
         "uzb": "til",
         "uighur": ""
       },
@@ -1191,7 +1191,7 @@
       "hatsuon": "データ",
       "honyaku": {
         "vn": "Dữ liệu",
-        "cn": "数据",
+        "cn": "数据 ",
         "uzb": "ma'lumotlar",
         "uighur": ""
       },
@@ -1206,7 +1206,7 @@
       "hatsuon": "エラー",
       "honyaku": {
         "vn": "Lỗi",
-        "cn": "错误",
+        "cn": "错误 ",
         "uzb": "xato",
         "uighur": ""
       },
@@ -1221,7 +1221,7 @@
       "hatsuon": "アドレス",
       "honyaku": {
         "vn": "Địa chỉ",
-        "cn": "网址",
+        "cn": "地址 ",
         "uzb": "manzil",
         "uighur": ""
       },
@@ -1236,7 +1236,7 @@
       "hatsuon": "ヘイキン",
       "honyaku": {
         "vn": "Trung bình",
-        "cn": "平均",
+        "cn": "平均 ",
         "uzb": "o'rtacha",
         "uighur": ""
       },
@@ -1251,7 +1251,7 @@
       "hatsuon": "タイジュウ",
       "honyaku": {
         "vn": "cân nặng",
-        "cn": "体重",
+        "cn": "体重 ",
         "uzb": "tana vazni",
         "uighur": ""
       },
@@ -1266,7 +1266,7 @@
       "hatsuon": "カイセツ",
       "honyaku": {
         "vn": "Giải thích",
-        "cn": "解说",
+        "cn": "解说 ",
         "uzb": "Tushuntirish",
         "uighur": ""
       },
@@ -1281,7 +1281,7 @@
       "hatsuon": "ジョウ",
       "honyaku": {
         "vn": "Đi",
-        "cn": "坐",
+        "cn": "坐 ",
         "uzb": "Kvadrat",
         "uighur": ""
       },
@@ -1296,7 +1296,7 @@
       "hatsuon": "フドウ",
       "honyaku": {
         "vn": "Nổi",
-        "cn": "浮动",
+        "cn": "漂浮的 ",
         "uzb": "suzuvchi",
         "uighur": ""
       },
@@ -1311,7 +1311,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "cấu trúc",
-        "cn": "结构",
+        "cn": "结构体 ",
         "uzb": "tuzilishi",
         "uighur": ""
       },
@@ -1326,7 +1326,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "sanaka",
-        "cn": "sanaka",
+        "cn": "中间 ",
         "uzb": "",
         "uighur": ""
       },
@@ -1341,7 +1341,7 @@
       "hatsuon": "オペランド",
       "honyaku": {
         "vn": "Nhập",
-        "cn": "运算数",
+        "cn": "操作数 ",
         "uzb": "operand",
         "uighur": ""
       },
@@ -1356,7 +1356,7 @@
       "hatsuon": "ロンリ",
       "honyaku": {
         "vn": "Hợp lý",
-        "cn": "伦理",
+        "cn": "理论 ",
         "uzb": "mantiq",
         "uighur": ""
       },
@@ -1371,7 +1371,7 @@
       "hatsuon": "ガクシュウ",
       "honyaku": {
         "vn": "học tập",
-        "cn": "学习",
+        "cn": "学习 ",
         "uzb": "o'rganish",
         "uighur": ""
       },
@@ -1386,7 +1386,7 @@
       "hatsuon": "シュツリョク",
       "honyaku": {
         "vn": "Xuất khẩu",
-        "cn": "出力",
+        "cn": "输出 ",
         "uzb": "chiqish",
         "uighur": ""
       },
@@ -1401,7 +1401,7 @@
       "hatsuon": "ジッスウ",
       "honyaku": {
         "vn": "Số thực",
-        "cn": "实数",
+        "cn": "实数 ",
         "uzb": "haqiqiy raqam",
         "uighur": ""
       },
@@ -1416,7 +1416,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "const",
-        "cn": "常量",
+        "cn": "常量 ",
         "uzb": "const",
         "uighur": ""
       },
@@ -1431,7 +1431,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Bảng",
-        "cn": "桌子",
+        "cn": "桌子 ",
         "uzb": "Jadval",
         "uighur": ""
       },
@@ -1446,7 +1446,7 @@
       "hatsuon": "カイ",
       "honyaku": {
         "vn": "Vòng",
-        "cn": "回去",
+        "cn": "回数 ",
         "uzb": "marta",
         "uighur": ""
       },
@@ -1461,7 +1461,7 @@
       "hatsuon": "ガクセイ",
       "honyaku": {
         "vn": "Sinh viên",
-        "cn": "学生",
+        "cn": "学生 ",
         "uzb": "talaba",
         "uighur": ""
       },
@@ -1476,7 +1476,7 @@
       "hatsuon": "ゴ",
       "honyaku": {
         "vn": "Ngôn ngữ",
-        "cn": "语言",
+        "cn": "语言 ",
         "uzb": "so'z",
         "uighur": ""
       },
@@ -1491,7 +1491,7 @@
       "hatsuon": "セツメイ",
       "honyaku": {
         "vn": "Giải thích",
-        "cn": "说明",
+        "cn": "说明 ",
         "uzb": "tushuntirish",
         "uighur": ""
       },
@@ -1521,7 +1521,7 @@
       "hatsuon": "レッキョ",
       "honyaku": {
         "vn": "Liệt kê",
-        "cn": "列举",
+        "cn": "举例 ",
         "uzb": "ro'yxatga olish",
         "uighur": ""
       },
@@ -1536,7 +1536,7 @@
       "hatsuon": "ヘンキャク",
       "honyaku": {
         "vn": "Trả lại",
-        "cn": "返回",
+        "cn": "返回 ",
         "uzb": "qaytish",
         "uighur": ""
       },
@@ -1551,7 +1551,7 @@
       "hatsuon": "メンバー",
       "honyaku": {
         "vn": "Thành viên",
-        "cn": "成员",
+        "cn": "成员 ",
         "uzb": "a'zosi",
         "uighur": ""
       },
@@ -1566,7 +1566,7 @@
       "hatsuon": "サイダイ",
       "honyaku": {
         "vn": "Tối đa",
-        "cn": "最大",
+        "cn": "最大 ",
         "uzb": "maksimal",
         "uighur": ""
       },
@@ -1581,7 +1581,7 @@
       "hatsuon": "シュウリョウ",
       "honyaku": {
         "vn": "Kết thúc",
-        "cn": "结束",
+        "cn": "结束 ",
         "uzb": "oxiri",
         "uighur": ""
       },
@@ -1596,7 +1596,7 @@
       "hatsuon": "セイ",
       "honyaku": {
         "vn": "Chính",
-        "cn": "正面",
+        "cn": "正 ",
         "uzb": "Ijobiy",
         "uighur": ""
       },
@@ -1611,7 +1611,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "giai thừa",
-        "cn": "阶乘",
+        "cn": "阶乘 ",
         "uzb": "",
         "uighur": ""
       },
@@ -1626,7 +1626,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "tensu",
-        "cn": "tensu",
+        "cn": "天寿 ",
         "uzb": "",
         "uighur": ""
       },
@@ -1641,7 +1641,7 @@
       "hatsuon": "ズ",
       "honyaku": {
         "vn": "Biểu đồ",
-        "cn": "图表",
+        "cn": "图 ",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -1656,7 +1656,7 @@
       "hatsuon": "ナガレ",
       "honyaku": {
         "vn": "Luồn",
-        "cn": "流动",
+        "cn": "流动 ",
         "uzb": "oqim",
         "uighur": ""
       },
@@ -1671,7 +1671,7 @@
       "hatsuon": "ページ",
       "honyaku": {
         "vn": "Trang",
-        "cn": "页数",
+        "cn": "页 ",
         "uzb": "sahifa",
         "uighur": ""
       },
@@ -1686,7 +1686,7 @@
       "hatsuon": "イチ",
       "honyaku": {
         "vn": "Vị trí",
-        "cn": "位置",
+        "cn": "位置 ",
         "uzb": "pozitsiya",
         "uighur": ""
       },
@@ -1701,7 +1701,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "địa phương",
-        "cn": "当地",
+        "cn": "当地的 ",
         "uzb": "mahalliy",
         "uighur": ""
       },
@@ -1716,7 +1716,7 @@
       "hatsuon": "コウブン",
       "honyaku": {
         "vn": "Cú pháp",
-        "cn": "结构",
+        "cn": "语法",
         "uzb": "sintaksis",
         "uighur": ""
       },
@@ -1731,7 +1731,7 @@
       "hatsuon": "サイショ",
       "honyaku": {
         "vn": "đầu tiên",
-        "cn": "最初开始",
+        "cn": "开始的 ",
         "uzb": "birinchi",
         "uighur": ""
       },
@@ -1746,7 +1746,7 @@
       "hatsuon": "ヒョウジュン",
       "honyaku": {
         "vn": "Tiêu chuẩn",
-        "cn": "准备",
+        "cn": "标准 ",
         "uzb": "standart",
         "uighur": ""
       },
@@ -1761,7 +1761,7 @@
       "hatsuon": "ヘッダ",
       "honyaku": {
         "vn": "Tiêu đề",
-        "cn": "",
+        "cn": "标头 ",
         "uzb": "sarlavha",
         "uighur": ""
       },
@@ -1776,7 +1776,7 @@
       "hatsuon": "ソウサ",
       "honyaku": {
         "vn": "Thao tác",
-        "cn": "操作",
+        "cn": "操作 ",
         "uzb": "operatsiya",
         "uighur": ""
       },
@@ -1791,7 +1791,7 @@
       "hatsuon": "モード",
       "honyaku": {
         "vn": "Chế độ",
-        "cn": "模式",
+        "cn": "模式 ",
         "uzb": "rejimi",
         "uighur": ""
       },
@@ -1806,7 +1806,7 @@
       "hatsuon": "クローズ",
       "honyaku": {
         "vn": "đóng",
-        "cn": "从句",
+        "cn": "关闭 ",
         "uzb": "yaqin",
         "uighur": ""
       },
@@ -1821,7 +1821,7 @@
       "hatsuon": "ジコク",
       "honyaku": {
         "vn": "Thời gian",
-        "cn": "时间",
+        "cn": "时间 ",
         "uzb": "vaqt",
         "uighur": ""
       },
@@ -1836,7 +1836,7 @@
       "hatsuon": "ショシキ",
       "honyaku": {
         "vn": "định dạng",
-        "cn": "写",
+        "cn": "字体 ",
         "uzb": "Format",
         "uighur": ""
       },
@@ -1851,7 +1851,7 @@
       "hatsuon": "スウジ",
       "honyaku": {
         "vn": "Số",
-        "cn": "数字",
+        "cn": "数字 ",
         "uzb": "raqamlar",
         "uighur": ""
       },
@@ -1866,7 +1866,7 @@
       "hatsuon": "スベテ",
       "honyaku": {
         "vn": "Tất cả",
-        "cn": "全部",
+        "cn": "全部 ",
         "uzb": "hammasi",
         "uighur": ""
       },
@@ -1881,7 +1881,7 @@
       "hatsuon": "アト",
       "honyaku": {
         "vn": "Sau",
-        "cn": "后面",
+        "cn": "后 ",
         "uzb": "orqa",
         "uighur": ""
       },
@@ -1896,7 +1896,7 @@
       "hatsuon": "タンコウ",
       "honyaku": {
         "vn": "Chỉ số",
-        "cn": "单项",
+        "cn": "单项 ",
         "uzb": "unary",
         "uighur": ""
       },
@@ -1911,7 +1911,7 @@
       "hatsuon": "ドウサ",
       "honyaku": {
         "vn": "Hoạt động",
-        "cn": "动作",
+        "cn": "动作 ",
         "uzb": "harakat",
         "uighur": ""
       },
@@ -1926,7 +1926,7 @@
       "hatsuon": "バイナリ",
       "honyaku": {
         "vn": "nhị phân",
-        "cn": "二进位",
+        "cn": "二进制 ",
         "uzb": "ikkilik",
         "uighur": ""
       },
@@ -1941,7 +1941,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Kích thước.",
-        "cn": "大小",
+        "cn": "大小 ",
         "uzb": "",
         "uighur": ""
       },
@@ -1956,7 +1956,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "cân nặng",
-        "cn": "重量",
+        "cn": "重量 ",
         "uzb": "vazn",
         "uighur": ""
       },
@@ -1971,7 +1971,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "số",
-        "cn": "号码",
+        "cn": "数字 ",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -1986,7 +1986,7 @@
       "hatsuon": "カリ",
       "honyaku": {
         "vn": "Tạm thời",
-        "cn": "反",
+        "cn": "短暂",
         "uzb": "taxminiy",
         "uighur": ""
       },
@@ -2016,7 +2016,7 @@
       "hatsuon": "サ",
       "honyaku": {
         "vn": "Khác",
-        "cn": "差",
+        "cn": "差别",
         "uzb": "farq",
         "uighur": ""
       },
@@ -2031,7 +2031,7 @@
       "hatsuon": "シフト",
       "honyaku": {
         "vn": "Ca làm việc",
-        "cn": "表",
+        "cn": "移位",
         "uzb": "siljish",
         "uighur": ""
       },
@@ -2046,7 +2046,7 @@
       "hatsuon": "ソエジ",
       "honyaku": {
         "vn": "Chỉ số",
-        "cn": "添加文字",
+        "cn": "注脚",
         "uzb": "subscript",
         "uighur": ""
       },
@@ -2061,7 +2061,7 @@
       "hatsuon": "カキコミ",
       "honyaku": {
         "vn": "Viết",
-        "cn": "写",
+        "cn": "写入",
         "uzb": "yozish",
         "uighur": ""
       },
@@ -2121,7 +2121,7 @@
       "hatsuon": "ゴウケイ",
       "honyaku": {
         "vn": "Tổng cộng",
-        "cn": "一共",
+        "cn": "合计",
         "uzb": "jami",
         "uighur": ""
       },
@@ -2151,7 +2151,7 @@
       "hatsuon": "セイセイ",
       "honyaku": {
         "vn": "Sinh ra",
-        "cn": "做成",
+        "cn": "生成",
         "uzb": "Yaratish",
         "uighur": ""
       },
@@ -2166,7 +2166,7 @@
       "hatsuon": "テキスト",
       "honyaku": {
         "vn": "Văn bản",
-        "cn": "作业",
+        "cn": "文本",
         "uzb": "matn",
         "uighur": ""
       },
@@ -2181,7 +2181,7 @@
       "hatsuon": "ヒョウキ",
       "honyaku": {
         "vn": "Biểu hiện",
-        "cn": "表格",
+        "cn": "记载",
         "uzb": "Belgilash",
         "uighur": ""
       },
@@ -2226,7 +2226,7 @@
       "hatsuon": "ソート",
       "honyaku": {
         "vn": "Phân loại",
-        "cn": "种类",
+        "cn": "分类",
         "uzb": "saralash",
         "uighur": ""
       },
@@ -2271,7 +2271,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "nghỉ",
-        "cn": "休息",
+        "cn": "休息 ",
         "uzb": "tanaffus",
         "uighur": ""
       },
@@ -2286,7 +2286,7 @@
       "hatsuon": "カダイ",
       "honyaku": {
         "vn": "Vấn đề",
-        "cn": "课题",
+        "cn": "任务",
         "uzb": "topshiriq",
         "uighur": ""
       },
@@ -2301,7 +2301,7 @@
       "hatsuon": "セイギョ",
       "honyaku": {
         "vn": "Điều khiển",
-        "cn": "",
+        "cn": "控制",
         "uzb": "boshqaruv",
         "uighur": ""
       },
@@ -2316,7 +2316,7 @@
       "hatsuon": "ヒダリ",
       "honyaku": {
         "vn": "Trái",
-        "cn": "左边",
+        "cn": "左",
         "uzb": "chap",
         "uighur": ""
       },
@@ -2331,7 +2331,7 @@
       "hatsuon": "ヨウイ",
       "honyaku": {
         "vn": "chuẩn bị",
-        "cn": "用意",
+        "cn": "准备",
         "uzb": "tayyorlash",
         "uighur": ""
       },
@@ -2346,7 +2346,7 @@
       "hatsuon": "イジョウ",
       "honyaku": {
         "vn": "Trên đây",
-        "cn": "总共",
+        "cn": "以上",
         "uzb": "ana xolos",
         "uighur": ""
       },
@@ -2361,7 +2361,7 @@
       "hatsuon": "クリカエシ",
       "honyaku": {
         "vn": "Lặp lại",
-        "cn": "反响操作",
+        "cn": "反复",
         "uzb": "takrorlash",
         "uighur": ""
       },
@@ -2376,7 +2376,7 @@
       "hatsuon": "サキ",
       "honyaku": {
         "vn": "trước",
-        "cn": "前面",
+        "cn": "前方",
         "uzb": "maqsad",
         "uighur": ""
       },
@@ -2406,7 +2406,7 @@
       "hatsuon": "ソレゾレ",
       "honyaku": {
         "vn": "Mỗi cái một",
-        "cn": "这些",
+        "cn": "各自",
         "uzb": "Har biri",
         "uighur": ""
       },
@@ -2436,7 +2436,7 @@
       "hatsuon": "トウコウ",
       "honyaku": {
         "vn": "Bài viết",
-        "cn": "发出",
+        "cn": "投稿",
         "uzb": "Post",
         "uighur": ""
       },
@@ -2466,7 +2466,7 @@
       "hatsuon": "ブ",
       "honyaku": {
         "vn": "Phần",
-        "cn": "部分",
+        "cn": "部",
         "uzb": "Bo'lim",
         "uighur": ""
       },
@@ -2511,7 +2511,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "lệnh for",
-        "cn": "for",
+        "cn": "为了",
         "uzb": "uchun",
         "uighur": ""
       },
@@ -2586,7 +2586,7 @@
       "hatsuon": "ヘンコウ",
       "honyaku": {
         "vn": "Thay đổi",
-        "cn": "变换",
+        "cn": "修改",
         "uzb": "o'zgartirish",
         "uighur": ""
       },
@@ -2616,7 +2616,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "gstudent",
-        "cn": "",
+        "cn": "学生",
         "uzb": "gtalaba",
         "uighur": ""
       },
@@ -2631,7 +2631,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "schols",
-        "cn": "",
+        "cn": "斯科尔斯",
         "uzb": "maktablar",
         "uighur": ""
       },
@@ -2646,7 +2646,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "dòng chảy",
-        "cn": "",
+        "cn": "溪流",
         "uzb": "oqim",
         "uighur": ""
       },
@@ -2661,7 +2661,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "sau đó",
-        "cn": "",
+        "cn": "别的",
         "uzb": "boshqa",
         "uighur": ""
       },
@@ -2676,7 +2676,7 @@
       "hatsuon": "イッパン",
       "honyaku": {
         "vn": "Phổ thông",
-        "cn": "一般",
+        "cn": "一般的",
         "uzb": "General",
         "uighur": ""
       },
@@ -2691,7 +2691,7 @@
       "hatsuon": "カクニン",
       "honyaku": {
         "vn": "Xác nhận",
-        "cn": "确定",
+        "cn": "确认",
         "uzb": "tasdiqlash",
         "uighur": ""
       },
@@ -2766,7 +2766,7 @@
       "hatsuon": "バン",
       "honyaku": {
         "vn": "Phiên bản",
-        "cn": "出版",
+        "cn": "版",
         "uzb": "nashr",
         "uighur": ""
       },
@@ -2781,7 +2781,7 @@
       "hatsuon": "プロ",
       "honyaku": {
         "vn": "Chuyên nghiệp",
-        "cn": "大家",
+        "cn": "专业的",
         "uzb": "Professional",
         "uighur": ""
       },
@@ -2796,7 +2796,7 @@
       "hatsuon": "ホンショウ",
       "honyaku": {
         "vn": "Chương này",
-        "cn": "本章",
+        "cn": "主要章节",
         "uzb": "Asosiy bob",
         "uighur": ""
       },
@@ -2826,7 +2826,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "trống",
-        "cn": "号码",
+        "cn": "无效的",
         "uzb": "",
         "uighur": ""
       },
@@ -2841,7 +2841,7 @@
       "hatsuon": "イミ",
       "honyaku": {
         "vn": "Ý nghĩa",
-        "cn": "意思",
+        "cn": "意义",
         "uzb": "ma'nosi",
         "uighur": ""
       },
@@ -2856,7 +2856,7 @@
       "hatsuon": "カイギョウ",
       "honyaku": {
         "vn": "Xuống dòng",
-        "cn": "改正",
+        "cn": "新队",
         "uzb": "yangi qator",
         "uighur": ""
       },
@@ -2871,7 +2871,7 @@
       "hatsuon": "キゴウ",
       "honyaku": {
         "vn": "Các ký hiệu",
-        "cn": "记号",
+        "cn": "象征",
         "uzb": "ramzi",
         "uighur": ""
       },
@@ -2901,7 +2901,7 @@
       "hatsuon": "ケタスウ",
       "honyaku": {
         "vn": "Số chữ số",
-        "cn": "行数",
+        "cn": "位数",
         "uzb": "raqamlar soni",
         "uighur": ""
       },
@@ -2916,7 +2916,7 @@
       "hatsuon": "コウ",
       "honyaku": {
         "vn": "Phần tử",
-        "cn": "项目",
+        "cn": "学期",
         "uzb": "muddat",
         "uighur": ""
       },
@@ -2931,7 +2931,7 @@
       "hatsuon": "コスウ",
       "honyaku": {
         "vn": "Số lượng",
-        "cn": "个数",
+        "cn": "件数",
         "uzb": "Parchalar soni",
         "uighur": ""
       },
@@ -2946,7 +2946,7 @@
       "hatsuon": "サイゴ",
       "honyaku": {
         "vn": "Cuối cùng",
-        "cn": "最后",
+        "cn": "最后的",
         "uzb": "oxirgi",
         "uighur": ""
       },
@@ -2961,7 +2961,7 @@
       "hatsuon": "セキ",
       "honyaku": {
         "vn": "Chất lượng",
-        "cn": "责",
+        "cn": "产品",
         "uzb": "mahsulot",
         "uighur": ""
       },
@@ -2976,7 +2976,7 @@
       "hatsuon": "ツイカ",
       "honyaku": {
         "vn": "Thêm",
-        "cn": "追加",
+        "cn": "添加",
         "uzb": "qo'shimcha",
         "uighur": ""
       },
@@ -2991,7 +2991,7 @@
       "hatsuon": "テキヨウ",
       "honyaku": {
         "vn": "Áp dụng",
-        "cn": "试用",
+        "cn": "应用",
         "uzb": "Ilova",
         "uighur": ""
       },
@@ -3006,7 +3006,7 @@
       "hatsuon": "テンカイ",
       "honyaku": {
         "vn": "Triển khai",
-        "cn": "展开",
+        "cn": "部署",
         "uzb": "oylashtirish",
         "uighur": ""
       },
@@ -3021,7 +3021,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Đóng tệp",
-        "cn": "",
+        "cn": "关闭",
         "uzb": "",
         "uighur": ""
       },
@@ -3036,7 +3036,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "fopen",
-        "cn": "",
+        "cn": "福彭",
         "uzb": "",
         "uighur": ""
       },
@@ -3051,7 +3051,7 @@
       "hatsuon": "カタメイ",
       "honyaku": {
         "vn": "Tên kiểu dữ liệu",
-        "cn": "体型",
+        "cn": "型号名称",
         "uzb": "Model nomi",
         "uighur": ""
       },
@@ -3066,7 +3066,7 @@
       "hatsuon": "ガメン",
       "honyaku": {
         "vn": "Màn hình",
-        "cn": "画面",
+        "cn": "屏幕",
         "uzb": "ekran",
         "uighur": ""
       },
@@ -3081,7 +3081,7 @@
       "hatsuon": "ギョウ",
       "honyaku": {
         "vn": "hàng",
-        "cn": "行",
+        "cn": "线",
         "uzb": "chiziq",
         "uighur": ""
       },
@@ -3156,7 +3156,7 @@
       "hatsuon": "ミズイロ",
       "honyaku": {
         "vn": "Màu nước",
-        "cn": "水的颜色",
+        "cn": "浅蓝色",
         "uzb": "ochiq ko'k",
         "uighur": ""
       },
@@ -3171,7 +3171,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "chưa ký",
-        "cn": "",
+        "cn": "未签名",
         "uzb": "imzosiz",
         "uighur": ""
       },
@@ -3201,7 +3201,7 @@
       "hatsuon": "キゲン",
       "honyaku": {
         "vn": "Thời hạn",
-        "cn": "期限",
+        "cn": "最后期限",
         "uzb": "topshirish muddati",
         "uighur": ""
       },
@@ -3216,7 +3216,7 @@
       "hatsuon": "キホン",
       "honyaku": {
         "vn": "Cơ bản",
-        "cn": "基本",
+        "cn": "基本的",
         "uzb": "Asosiy",
         "uighur": ""
       },
@@ -3246,7 +3246,7 @@
       "hatsuon": "シタ",
       "honyaku": {
         "vn": "Đáy",
-        "cn": "下面",
+        "cn": "在下面",
         "uzb": "ostida",
         "uighur": ""
       },
@@ -3276,7 +3276,7 @@
       "hatsuon": "ショウジュン",
       "honyaku": {
         "vn": "tăng dần",
-        "cn": "上下顺序",
+        "cn": "升序",
         "uzb": "ortib borayotgan",
         "uighur": ""
       },
@@ -3291,7 +3291,7 @@
       "hatsuon": "セツビ",
       "honyaku": {
         "vn": "Đuôi từ",
-        "cn": "结尾",
+        "cn": "后缀",
         "uzb": "tartib",
         "uighur": ""
       },
@@ -3306,7 +3306,7 @@
       "hatsuon": "ナラビ",
       "honyaku": {
         "vn": "Dãy",
-        "cn": "排序",
+        "cn": "排队",
         "uzb": "Qatorga turish",
         "uighur": ""
       },
@@ -3336,7 +3336,7 @@
       "hatsuon": "ベツ",
       "honyaku": {
         "vn": "Khác",
-        "cn": "别",
+        "cn": "其他",
         "uzb": "boshqa",
         "uighur": ""
       },
@@ -3351,7 +3351,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "cnt",
-        "cn": "",
+        "cn": "碳纳米管",
         "uzb": "",
         "uighur": ""
       },
@@ -3366,7 +3366,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "dữ liệu",
-        "cn": "",
+        "cn": "数据",
         "uzb": "ma'lumotlar",
         "uighur": ""
       },
@@ -3381,7 +3381,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "tệp",
-        "cn": "",
+        "cn": "文件",
         "uzb": "fayl",
         "uighur": ""
       },
@@ -3411,7 +3411,7 @@
       "hatsuon": "ウエ",
       "honyaku": {
         "vn": "Trên",
-        "cn": "上下",
+        "cn": "向上",
         "uzb": "Yuqoriga",
         "uighur": ""
       },
@@ -3426,7 +3426,7 @@
       "hatsuon": "カウント",
       "honyaku": {
         "vn": "Đếm",
-        "cn": "桌面",
+        "cn": "数数",
         "uzb": "hisoblash",
         "uighur": ""
       },
@@ -3456,7 +3456,7 @@
       "hatsuon": "ショウ",
       "honyaku": {
         "vn": "số thương",
-        "cn": "商家",
+        "cn": "商",
         "uzb": "ko'rsatkich",
         "uighur": ""
       },
@@ -3471,7 +3471,7 @@
       "hatsuon": "シン",
       "honyaku": {
         "vn": "Chân thật",
-        "cn": "真",
+        "cn": "真的",
         "uzb": "rost",
         "uighur": ""
       },
@@ -3486,7 +3486,7 @@
       "hatsuon": "ナカミ",
       "honyaku": {
         "vn": "Trung tâm",
-        "cn": "本身",
+        "cn": "内容",
         "uzb": "tarkibi",
         "uighur": ""
       },
@@ -3516,7 +3516,7 @@
       "hatsuon": "ハコ",
       "honyaku": {
         "vn": "Thùng",
-        "cn": "箱子",
+        "cn": "盒子",
         "uzb": "quti",
         "uighur": ""
       },
@@ -3531,7 +3531,7 @@
       "hatsuon": "ブンキ",
       "honyaku": {
         "vn": "Phân nhánh",
-        "cn": "分别",
+        "cn": "分支",
         "uzb": "filiali",
         "uighur": ""
       },
@@ -3546,7 +3546,7 @@
       "hatsuon": "イコウ",
       "honyaku": {
         "vn": "Từ đây trở đi",
-        "cn": "以下",
+        "cn": "向前",
         "uzb": "boshlab",
         "uighur": ""
       },
@@ -3561,7 +3561,7 @@
       "hatsuon": "オオク",
       "honyaku": {
         "vn": "Rất nhiều",
-        "cn": "多",
+        "cn": "许多",
         "uzb": "ko'p",
         "uighur": ""
       },
@@ -3591,7 +3591,7 @@
       "hatsuon": "ガワ",
       "honyaku": {
         "vn": "phía",
-        "cn": "侧边",
+        "cn": "〜侧面",
         "uzb": "tomoni",
         "uighur": ""
       },
@@ -3606,7 +3606,7 @@
       "hatsuon": "コード",
       "honyaku": {
         "vn": "Mã",
-        "cn": "码",
+        "cn": "代码",
         "uzb": "kod",
         "uighur": ""
       },
@@ -3621,7 +3621,7 @@
       "hatsuon": "サイキ",
       "honyaku": {
         "vn": "Đệ quy",
-        "cn": "再次回来",
+        "cn": "递归",
         "uzb": "rekursiya",
         "uighur": ""
       },
@@ -3636,7 +3636,7 @@
       "hatsuon": "サンショウ",
       "honyaku": {
         "vn": "tham khảo",
-        "cn": "参照",
+        "cn": "参考",
         "uzb": "ma'lumotnoma",
         "uighur": ""
       },
@@ -3651,7 +3651,7 @@
       "hatsuon": "チュウイ",
       "honyaku": {
         "vn": "lưu ý",
-        "cn": "注意",
+        "cn": "笔记",
         "uzb": "Eslatma",
         "uighur": ""
       },
@@ -3666,7 +3666,7 @@
       "hatsuon": "ヒョウ",
       "honyaku": {
         "vn": "Bảng",
-        "cn": "表",
+        "cn": "桌子",
         "uzb": "stol",
         "uighur": ""
       },
@@ -3681,7 +3681,7 @@
       "hatsuon": "ホスウ",
       "honyaku": {
         "vn": "Phần bù",
-        "cn": "辅助",
+        "cn": "补充",
         "uzb": "to'ldiruvchi",
         "uighur": ""
       },
@@ -3696,7 +3696,7 @@
       "hatsuon": "ホゾン",
       "honyaku": {
         "vn": "Lưu trữ",
-        "cn": "保护",
+        "cn": "保持",
         "uzb": "saqlamoq",
         "uighur": ""
       },
@@ -3711,7 +3711,7 @@
       "hatsuon": "マツビ",
       "honyaku": {
         "vn": "Cuối cùng",
-        "cn": "末节",
+        "cn": "结尾",
         "uzb": "oxiri",
         "uighur": ""
       },
@@ -3741,7 +3741,7 @@
       "hatsuon": "インクリメント",
       "honyaku": {
         "vn": "tăng lên",
-        "cn": "定义",
+        "cn": "增量",
         "uzb": "oshirish",
         "uighur": ""
       },
@@ -3756,7 +3756,7 @@
       "hatsuon": "カショ",
       "honyaku": {
         "vn": "Địa điểm",
-        "cn": "增量",
+        "cn": "部分",
         "uzb": "qismi",
         "uighur": ""
       },
@@ -3771,7 +3771,7 @@
       "hatsuon": "ケツゴウ",
       "honyaku": {
         "vn": "Hợp nhất",
-        "cn": "结合",
+        "cn": "加入",
         "uzb": "qo'shilish",
         "uighur": ""
       },
@@ -3786,7 +3786,7 @@
       "hatsuon": "ゼンショウ",
       "honyaku": {
         "vn": "Chương trước",
-        "cn": "前章",
+        "cn": "上一章",
         "uzb": "oldingi bob",
         "uighur": ""
       },
@@ -3801,7 +3801,7 @@
       "hatsuon": "ゼンタイ",
       "honyaku": {
         "vn": "toàn bộ",
-        "cn": "全体",
+        "cn": "所有的",
         "uzb": "butun",
         "uighur": ""
       },
@@ -3831,7 +3831,7 @@
       "hatsuon": "チュウシャク",
       "honyaku": {
         "vn": "Ghi chú",
-        "cn": "注释",
+        "cn": "注解",
         "uzb": "Izoh",
         "uighur": ""
       },
@@ -3846,7 +3846,7 @@
       "hatsuon": "テイシュツ",
       "honyaku": {
         "vn": "Nộp",
-        "cn": "提出",
+        "cn": "提交",
         "uzb": "topshirish",
         "uighur": ""
       },
@@ -3876,7 +3876,7 @@
       "hatsuon": "ハンテン",
       "honyaku": {
         "vn": "Đảo ngược",
-        "cn": "翻转",
+        "cn": "反转",
         "uzb": "inversiya",
         "uighur": ""
       },
@@ -3891,7 +3891,7 @@
       "hatsuon": "フクスウ",
       "honyaku": {
         "vn": "Đa số",
-        "cn": "负数",
+        "cn": "复数",
         "uzb": "bir nechta",
         "uighur": ""
       },
@@ -3906,7 +3906,7 @@
       "hatsuon": "ポイント",
       "honyaku": {
         "vn": "Điểm",
-        "cn": "积分",
+        "cn": "观点",
         "uzb": "nuqta",
         "uighur": ""
       },
@@ -3921,7 +3921,7 @@
       "hatsuon": "ラム",
       "honyaku": {
         "vn": "Làm",
-        "cn": "能量",
+        "cn": "ROM",
         "uzb": "ROM",
         "uighur": ""
       },
@@ -3936,7 +3936,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "str",
-        "cn": "",
+        "cn": "斯特",
         "uzb": "koʻch",
         "uighur": ""
       },
@@ -3951,7 +3951,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Tiểu thuyết",
-        "cn": "",
+        "cn": "柱子",
         "uzb": "Ustun",
         "uighur": ""
       },
@@ -3966,7 +3966,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Hàm",
-        "cn": "",
+        "cn": "功能",
         "uzb": "funktsiyasi",
         "uighur": ""
       },
@@ -3981,7 +3981,7 @@
       "hatsuon": "ウシロ",
       "honyaku": {
         "vn": "Phía sau",
-        "cn": "后面",
+        "cn": "在后面",
         "uzb": "orqasida",
         "uighur": ""
       },
@@ -3996,7 +3996,7 @@
       "hatsuon": "カイセキ",
       "honyaku": {
         "vn": "Giải đáp",
-        "cn": "解析",
+        "cn": "分析",
         "uzb": "tahlil",
         "uighur": ""
       },
@@ -4011,7 +4011,7 @@
       "hatsuon": "カンセツ",
       "honyaku": {
         "vn": "gián tiếp",
-        "cn": "简介",
+        "cn": "间接",
         "uzb": "bilvosita",
         "uighur": ""
       },
@@ -4026,7 +4026,7 @@
       "hatsuon": "コウチ",
       "honyaku": {
         "vn": "Sau đó",
-        "cn": "后放",
+        "cn": "后缀",
         "uzb": "postfiks",
         "uighur": ""
       },
@@ -4041,7 +4041,7 @@
       "hatsuon": "コンド",
       "honyaku": {
         "vn": "lần tới",
-        "cn": "这次",
+        "cn": "下次",
         "uzb": "Keyingi safar",
         "uighur": ""
       },
@@ -4056,7 +4056,7 @@
       "hatsuon": "コンマ",
       "honyaku": {
         "vn": "Dấu phẩy",
-        "cn": "叫撒、",
+        "cn": "逗号",
         "uzb": "vergul",
         "uighur": ""
       },
@@ -4071,7 +4071,7 @@
       "hatsuon": "サンジュツ",
       "honyaku": {
         "vn": "Toán học",
-        "cn": "算数",
+        "cn": "算术",
         "uzb": "arifmetik",
         "uighur": ""
       },
@@ -4086,7 +4086,7 @@
       "hatsuon": "ジョウホウ",
       "honyaku": {
         "vn": "Thông tin",
-        "cn": "情报",
+        "cn": "信息",
         "uzb": "ma `lumot",
         "uighur": ""
       },
@@ -4101,7 +4101,7 @@
       "hatsuon": "ソース",
       "honyaku": {
         "vn": "Nguyên liệu",
-        "cn": "酱汁",
+        "cn": "酱",
         "uzb": "sous",
         "uighur": ""
       },
@@ -4116,7 +4116,7 @@
       "hatsuon": "タイオウ",
       "honyaku": {
         "vn": "Phù hợp",
-        "cn": "对策",
+        "cn": "一致",
         "uzb": "yozishmalar",
         "uighur": ""
       },
@@ -4131,7 +4131,7 @@
       "hatsuon": "タントウ",
       "honyaku": {
         "vn": "Chịu trách nhiệm",
-        "cn": "担当",
+        "cn": "负责",
         "uzb": "javobgar",
         "uighur": ""
       },
@@ -4146,7 +4146,7 @@
       "hatsuon": "モト",
       "honyaku": {
         "vn": "Nguyên",
-        "cn": "元",
+        "cn": "以前的",
         "uzb": "Oldingi",
         "uighur": ""
       },
@@ -4161,7 +4161,7 @@
       "hatsuon": "ヨミトリ",
       "honyaku": {
         "vn": "Đọc",
-        "cn": "读取",
+        "cn": "阅读",
         "uzb": "o'qish",
         "uighur": ""
       },
@@ -4176,7 +4176,7 @@
       "hatsuon": "アイダ",
       "honyaku": {
         "vn": "thời gian",
-        "cn": "间",
+        "cn": "尽管",
         "uzb": "esa",
         "uighur": ""
       },
@@ -4191,7 +4191,7 @@
       "hatsuon": "イゾン",
       "honyaku": {
         "vn": "sự phụ thuộc",
-        "cn": "存在",
+        "cn": "依赖",
         "uzb": "qaramlik",
         "uighur": ""
       },
@@ -4221,7 +4221,7 @@
       "hatsuon": "カンケツ",
       "honyaku": {
         "vn": "Ngắn gọn",
-        "cn": "简洁",
+        "cn": "简洁的",
         "uzb": "Qisqacha",
         "uighur": ""
       },
@@ -4236,7 +4236,7 @@
       "hatsuon": "キスウ",
       "honyaku": {
         "vn": "Số lẻ",
-        "cn": "奇术",
+        "cn": "奇数",
         "uzb": "toq raqam",
         "uighur": ""
       },
@@ -4266,7 +4266,7 @@
       "hatsuon": "サイシュウ",
       "honyaku": {
         "vn": "Cuối cùng",
-        "cn": "最终",
+        "cn": "最终的",
         "uzb": "Final",
         "uighur": ""
       },
@@ -4296,7 +4296,7 @@
       "hatsuon": "シヨウ",
       "honyaku": {
         "vn": "phương pháp",
-        "cn": "大家",
+        "cn": "方法",
         "uzb": "spetsifikatsiya",
         "uighur": ""
       },
@@ -4356,7 +4356,7 @@
       "hatsuon": "ハッピョウ",
       "honyaku": {
         "vn": "Trình bày",
-        "cn": "发表",
+        "cn": "公告",
         "uzb": "e'lon",
         "uighur": ""
       },
@@ -4386,7 +4386,7 @@
       "hatsuon": "ホウケイ",
       "honyaku": {
         "vn": "Hình vuông",
-        "cn": "方形",
+        "cn": "正方形",
         "uzb": "kvadrat",
         "uighur": ""
       },
@@ -4401,7 +4401,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "fprintf",
-        "cn": "函数",
+        "cn": "打印函数",
         "uzb": "fprintf",
         "uighur": ""
       },
@@ -4461,7 +4461,7 @@
       "hatsuon": "オモテ",
       "honyaku": {
         "vn": "Bảng",
-        "cn": "表",
+        "cn": "表格",
         "uzb": "stol",
         "uighur": ""
       },
@@ -4476,7 +4476,7 @@
       "hatsuon": "オワリ",
       "honyaku": {
         "vn": "Kết thúc",
-        "cn": "结束",
+        "cn": "结尾",
         "uzb": "oxiri",
         "uighur": ""
       },
@@ -4521,7 +4521,7 @@
       "hatsuon": "キャスト",
       "honyaku": {
         "vn": "Diễn viên",
-        "cn": "",
+        "cn": "投掷",
         "uzb": "quyma",
         "uighur": ""
       },
@@ -4536,7 +4536,7 @@
       "hatsuon": "キン",
       "honyaku": {
         "vn": "Vàng",
-        "cn": "金子",
+        "cn": "钱",
         "uzb": "Pul",
         "uighur": ""
       },
@@ -4551,7 +4551,7 @@
       "hatsuon": "グタイ",
       "honyaku": {
         "vn": "Cụ thể",
-        "cn": "具体",
+        "cn": "具体的",
         "uzb": "beton",
         "uighur": ""
       },
@@ -4581,7 +4581,7 @@
       "hatsuon": "コ",
       "honyaku": {
         "vn": "Chúng ta",
-        "cn": "个",
+        "cn": "个人",
         "uzb": "Individual",
         "uighur": ""
       },
@@ -4596,7 +4596,7 @@
       "hatsuon": "サイシン",
       "honyaku": {
         "vn": "Ngày nay",
-        "cn": "最新、",
+        "cn": "最新的",
         "uzb": "oxirgi",
         "uighur": ""
       },
@@ -4611,7 +4611,7 @@
       "hatsuon": "サギョウ",
       "honyaku": {
         "vn": "Làm việc",
-        "cn": "作业",
+        "cn": "工作",
         "uzb": "ish",
         "uighur": ""
       },
@@ -4626,7 +4626,7 @@
       "hatsuon": "シキベツ",
       "honyaku": {
         "vn": "nhận diện",
-        "cn": "识别",
+        "cn": "鉴别",
         "uzb": "identifikatsiya",
         "uighur": ""
       },
@@ -4641,7 +4641,7 @@
       "hatsuon": "シュウゴウ",
       "honyaku": {
         "vn": "Tập hợp",
-        "cn": "集合",
+        "cn": "放",
         "uzb": "o'rnatish",
         "uighur": ""
       },
@@ -4671,7 +4671,7 @@
       "hatsuon": "シリョウ",
       "honyaku": {
         "vn": "Tài liệu",
-        "cn": "资料",
+        "cn": "文档",
         "uzb": "Hujjat",
         "uighur": ""
       },
@@ -4701,7 +4701,7 @@
       "hatsuon": "ゾウブン",
       "honyaku": {
         "vn": "Tăng lượng",
-        "cn": "增加",
+        "cn": "增加的",
         "uzb": "ortib boruvchi",
         "uighur": ""
       },
@@ -4716,7 +4716,7 @@
       "hatsuon": "タ",
       "honyaku": {
         "vn": "Anh ấy",
-        "cn": "他",
+        "cn": "其他",
         "uzb": "boshqa",
         "uighur": ""
       },
@@ -4746,7 +4746,7 @@
       "hatsuon": "ナイブ",
       "honyaku": {
         "vn": "Trong nội bộ",
-        "cn": "内部",
+        "cn": "内部的",
         "uzb": "ichki",
         "uighur": ""
       },
@@ -4776,7 +4776,7 @@
       "hatsuon": "ハタラキ",
       "honyaku": {
         "vn": "Lao động",
-        "cn": "动作",
+        "cn": "工作",
         "uzb": "ish",
         "uighur": ""
       },
@@ -4836,7 +4836,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "lông",
-        "cn": "长",
+        "cn": "长的",
         "uzb": "uzoq",
         "uighur": ""
       },
@@ -4881,7 +4881,7 @@
       "hatsuon": "イチラン",
       "honyaku": {
         "vn": "Danh sách",
-        "cn": "一览",
+        "cn": "列表",
         "uzb": "Roʻyxat",
         "uighur": ""
       },
@@ -4896,7 +4896,7 @@
       "hatsuon": "カイジョウ",
       "honyaku": {
         "vn": "Giai thừa",
-        "cn": "乘坐",
+        "cn": "阶乘",
         "uzb": "faktorial",
         "uighur": ""
       },
@@ -4911,7 +4911,7 @@
       "hatsuon": "カイスウ",
       "honyaku": {
         "vn": "Lần lượt",
-        "cn": "回数",
+        "cn": "次数",
         "uzb": "marta soni",
         "uighur": ""
       },
@@ -4941,7 +4941,7 @@
       "hatsuon": "カギリ",
       "honyaku": {
         "vn": "Chỉ có",
-        "cn": "限定2",
+        "cn": "限度",
         "uzb": "Modomiki, hamonki; sababli, uchun",
         "uighur": ""
       },
@@ -4956,7 +4956,7 @@
       "hatsuon": "ギャク",
       "honyaku": {
         "vn": "Ngược",
-        "cn": "逆向",
+        "cn": "相反",
         "uzb": "teskari",
         "uighur": ""
       },
@@ -4971,7 +4971,7 @@
       "hatsuon": "キョウツウ",
       "honyaku": {
         "vn": "Chung",
-        "cn": "共通",
+        "cn": "共同",
         "uzb": "umumiy",
         "uighur": ""
       },
@@ -4986,7 +4986,7 @@
       "hatsuon": "ゲン",
       "honyaku": {
         "vn": "Giảm",
-        "cn": "减",
+        "cn": "减少",
         "uzb": "pasayish",
         "uighur": ""
       },
@@ -5001,7 +5001,7 @@
       "hatsuon": "ゴウ",
       "honyaku": {
         "vn": "số",
-        "cn": "",
+        "cn": "号",
         "uzb": "nashr",
         "uighur": ""
       },
@@ -5016,7 +5016,7 @@
       "hatsuon": "コウザ",
       "honyaku": {
         "vn": "Hội thảo",
-        "cn": "",
+        "cn": "讲座",
         "uzb": "Kurs",
         "uighur": ""
       },
@@ -5031,7 +5031,7 @@
       "hatsuon": "コウセイ",
       "honyaku": {
         "vn": "Cấu trúc",
-        "cn": "构成",
+        "cn": "作品",
         "uzb": "tarkibi",
         "uighur": ""
       },
@@ -5046,7 +5046,7 @@
       "hatsuon": "コウヤク",
       "honyaku": {
         "vn": "Cam kết",
-        "cn": "约定",
+        "cn": "保证",
         "uzb": "garov",
         "uighur": ""
       },
@@ -5106,7 +5106,7 @@
       "hatsuon": "セイド",
       "honyaku": {
         "vn": "Độ chính xác",
-        "cn": "精度",
+        "cn": "准确性",
         "uzb": "aniqlik",
         "uighur": ""
       },
@@ -5121,7 +5121,7 @@
       "hatsuon": "ツウジョウ",
       "honyaku": {
         "vn": "Thường",
-        "cn": "正常",
+        "cn": "通常",
         "uzb": "odatda",
         "uighur": ""
       },
@@ -5136,7 +5136,7 @@
       "hatsuon": "テツヅキ",
       "honyaku": {
         "vn": "Thủ tục",
-        "cn": "手续",
+        "cn": "程序",
         "uzb": "tartib",
         "uighur": ""
       },
@@ -5151,7 +5151,7 @@
       "hatsuon": "ニュウシュツリョク",
       "honyaku": {
         "vn": "Nhập/Xuất",
-        "cn": "输入",
+        "cn": "输入输出",
         "uzb": "kirish/chiqish",
         "uighur": ""
       },
@@ -5166,7 +5166,7 @@
       "hatsuon": "ノコリ",
       "honyaku": {
         "vn": "Không dùng",
-        "cn": "剩下",
+        "cn": "残余",
         "uzb": "dam olish",
         "uighur": ""
       },
@@ -5196,7 +5196,7 @@
       "hatsuon": "ヒダリガワ",
       "honyaku": {
         "vn": "Bên trái",
-        "cn": "左侧",
+        "cn": "左边",
         "uzb": "chap",
         "uighur": ""
       },
@@ -5211,7 +5211,7 @@
       "hatsuon": "フクザツ",
       "honyaku": {
         "vn": "phức tạp",
-        "cn": "复杂",
+        "cn": "复杂的",
         "uzb": "murakkab",
         "uighur": ""
       },
@@ -5241,7 +5241,7 @@
       "hatsuon": "マジナイ",
       "honyaku": {
         "vn": "phép thuật",
-        "cn": "都没有",
+        "cn": "拼写",
         "uzb": "afsun",
         "uighur": ""
       },
@@ -5256,7 +5256,7 @@
       "hatsuon": "ヨウス",
       "honyaku": {
         "vn": "Tình trạng",
-        "cn": "样子",
+        "cn": "状态",
         "uzb": "davlat",
         "uighur": ""
       },
@@ -5271,7 +5271,7 @@
       "hatsuon": "レンゾク",
       "honyaku": {
         "vn": "Liên tiếp",
-        "cn": "连续",
+        "cn": "连续的",
         "uzb": "davomiy",
         "uighur": ""
       },
@@ -5331,7 +5331,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "chuyển đổi",
-        "cn": "手表",
+        "cn": "转变",
         "uzb": "almashtirish",
         "uighur": ""
       },
@@ -5346,7 +5346,7 @@
       "hatsuon": "アマリ",
       "honyaku": {
         "vn": "Không đủ",
-        "cn": "剩下",
+        "cn": "余",
         "uzb": "qolgan",
         "uighur": ""
       },
@@ -5361,7 +5361,7 @@
       "hatsuon": "イチブ",
       "honyaku": {
         "vn": "Một phần",
-        "cn": "一部分",
+        "cn": "部分",
         "uzb": "qismi",
         "uighur": ""
       },
@@ -5376,7 +5376,7 @@
       "hatsuon": "ウケワタシ",
       "honyaku": {
         "vn": "Giao hàng",
-        "cn": "接受",
+        "cn": "交割",
         "uzb": "yetkazib berish",
         "uighur": ""
       },
@@ -5391,7 +5391,7 @@
       "hatsuon": "エンシュウ",
       "honyaku": {
         "vn": "Chu vi",
-        "cn": "圆周率",
+        "cn": "圆周",
         "uzb": "aylana",
         "uighur": ""
       },
@@ -5406,7 +5406,7 @@
       "hatsuon": "ギャクジュン",
       "honyaku": {
         "vn": "Đảo ngược",
-        "cn": "正反、",
+        "cn": "相反的顺序",
         "uzb": "Teskari tartib",
         "uighur": ""
       },
@@ -5421,7 +5421,7 @@
       "hatsuon": "グラム",
       "honyaku": {
         "vn": "Gram",
-        "cn": "千克",
+        "cn": "克",
         "uzb": "gramm",
         "uighur": ""
       },
@@ -5436,7 +5436,7 @@
       "hatsuon": "ゲンジツ",
       "honyaku": {
         "vn": "Thực tế",
-        "cn": "实现",
+        "cn": "现实",
         "uzb": "haqiqat",
         "uighur": ""
       },
@@ -5451,7 +5451,7 @@
       "hatsuon": "ジシン",
       "honyaku": {
         "vn": "Bản thân",
-        "cn": "自己",
+        "cn": "他自己",
         "uzb": "o'zi",
         "uighur": ""
       },
@@ -5466,7 +5466,7 @@
       "hatsuon": "セイリツ",
       "honyaku": {
         "vn": "Thành lập",
-        "cn": "成立",
+        "cn": "已确立的",
         "uzb": "Tashkil etilgan",
         "uighur": ""
       },
@@ -5511,7 +5511,7 @@
       "hatsuon": "ゼンチ",
       "honyaku": {
         "vn": "Trước đó",
-        "cn": "前面",
+        "cn": "介词",
         "uzb": "Old gap",
         "uighur": ""
       },
@@ -5526,7 +5526,7 @@
       "hatsuon": "タイショウ",
       "honyaku": {
         "vn": "Đối tượng",
-        "cn": "对象",
+        "cn": "主题",
         "uzb": "Mavzu",
         "uighur": ""
       },
@@ -5541,7 +5541,7 @@
       "hatsuon": "ツキ",
       "honyaku": {
         "vn": "Tháng",
-        "cn": "月亮",
+        "cn": "月",
         "uzb": "Oy",
         "uighur": ""
       },
@@ -5556,7 +5556,7 @@
       "hatsuon": "トウジョウ",
       "honyaku": {
         "vn": "Xuất hiện",
-        "cn": "登场",
+        "cn": "外貌",
         "uzb": "Tashqi ko'rinish",
         "uighur": ""
       },
@@ -5571,7 +5571,7 @@
       "hatsuon": "ニンイ",
       "honyaku": {
         "vn": "Bất kỳ",
-        "cn": "任意",
+        "cn": "任何",
         "uzb": "Har qanday",
         "uighur": ""
       },
@@ -5586,7 +5586,7 @@
       "hatsuon": "ネ",
       "honyaku": {
         "vn": "Giá trị",
-        "cn": "数值",
+        "cn": "价值",
         "uzb": "qiymat",
         "uighur": ""
       },
@@ -5601,7 +5601,7 @@
       "hatsuon": "ハイタ",
       "honyaku": {
         "vn": "Hạn chế",
-        "cn": "排他",
+        "cn": "独家的",
         "uzb": "eksklyuziv",
         "uighur": ""
       },
@@ -5616,7 +5616,7 @@
       "hatsuon": "バンゴウ",
       "honyaku": {
         "vn": "Số",
-        "cn": "号码",
+        "cn": "数字",
         "uzb": "raqam",
         "uighur": ""
       },
@@ -5631,7 +5631,7 @@
       "hatsuon": "ヒテイ",
       "honyaku": {
         "vn": "Phủ định",
-        "cn": "否定",
+        "cn": "否认",
         "uzb": "rad etish",
         "uighur": ""
       },
@@ -5661,7 +5661,7 @@
       "hatsuon": "ボウヨウ",
       "honyaku": {
         "vn": "Hy vọng",
-        "cn": "妄想海景",
+        "cn": "希美",
         "uzb": "Nozomi",
         "uighur": ""
       },
@@ -5676,7 +5676,7 @@
       "hatsuon": "モト",
       "honyaku": {
         "vn": "Nguyên văn",
-        "cn": "再",
+        "cn": "来源",
         "uzb": "manba",
         "uighur": ""
       },
@@ -5691,7 +5691,7 @@
       "hatsuon": "ヨウ",
       "honyaku": {
         "vn": "yêu cầu",
-        "cn": "要",
+        "cn": "基本的",
         "uzb": "Muhim",
         "uighur": ""
       },
@@ -5706,7 +5706,7 @@
       "hatsuon": "リツ",
       "honyaku": {
         "vn": "Điệu",
-        "cn": "率",
+        "cn": "速度",
         "uzb": "darajasi",
         "uighur": ""
       },
@@ -5721,7 +5721,7 @@
       "hatsuon": "リョウホウ",
       "honyaku": {
         "vn": "Cả hai",
-        "cn": "双方",
+        "cn": "两个都",
         "uzb": "ikkalasi ham",
         "uighur": ""
       },
@@ -5736,7 +5736,7 @@
       "hatsuon": "ループ",
       "honyaku": {
         "vn": "Vòng lặp",
-        "cn": "圈",
+        "cn": "环形",
         "uzb": "halqa",
         "uighur": ""
       },
@@ -5751,7 +5751,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "DOHC",
-        "cn": "不知道",
+        "cn": "双氢",
         "uzb": "DOHC",
         "uighur": ""
       },
@@ -5796,7 +5796,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Turbo",
-        "cn": "麻烦",
+        "cn": "涡轮",
         "uzb": "Turbo",
         "uighur": ""
       },
@@ -5811,7 +5811,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "được chỉ định",
-        "cn": "类型",
+        "cn": "类型定义",
         "uzb": "typedef",
         "uighur": ""
       },
@@ -5841,7 +5841,7 @@
       "hatsuon": "カード",
       "honyaku": {
         "vn": "Thẻ",
-        "cn": "卡",
+        "cn": "卡片",
         "uzb": "karta",
         "uighur": ""
       },
@@ -5871,7 +5871,7 @@
       "hatsuon": "カラダ",
       "honyaku": {
         "vn": "cơ thể",
-        "cn": "体",
+        "cn": "身体",
         "uzb": "tanasi",
         "uighur": ""
       },
@@ -5931,7 +5931,7 @@
       "hatsuon": "ゴウカク",
       "honyaku": {
         "vn": "Đỗ",
-        "cn": "合格",
+        "cn": "通过",
         "uzb": "O'tdi",
         "uighur": ""
       },
@@ -5976,7 +5976,7 @@
       "hatsuon": "サイコウ",
       "honyaku": {
         "vn": "Tốt nhất",
-        "cn": "高级",
+        "cn": "最好的",
         "uzb": "eng zo'r",
         "uighur": ""
       },
@@ -5991,7 +5991,7 @@
       "hatsuon": "サイショウ",
       "honyaku": {
         "vn": "Tối thiểu",
-        "cn": "垃圾",
+        "cn": "最低限度",
         "uzb": "eng kam",
         "uighur": ""
       },
@@ -6006,7 +6006,7 @@
       "hatsuon": "サル",
       "honyaku": {
         "vn": "khỉ",
-        "cn": "猴子",
+        "cn": "猴",
         "uzb": "maymun",
         "uighur": ""
       },
@@ -6036,7 +6036,7 @@
       "hatsuon": "ジッサイ",
       "honyaku": {
         "vn": "Thực tế",
-        "cn": "实际",
+        "cn": "实际的",
         "uzb": "haqiqiy",
         "uighur": ""
       },
@@ -6066,7 +6066,7 @@
       "hatsuon": "シュツゲン",
       "honyaku": {
         "vn": "Xuất hiện",
-        "cn": "出现",
+        "cn": "外貌",
         "uzb": "Tashqi ko'rinish",
         "uighur": ""
       },
@@ -6081,7 +6081,7 @@
       "hatsuon": "シュトク",
       "honyaku": {
         "vn": "Lấy được",
-        "cn": "取得",
+        "cn": "获得",
         "uzb": "sotib olish",
         "uighur": ""
       },
@@ -6126,7 +6126,7 @@
       "hatsuon": "セイシツ",
       "honyaku": {
         "vn": "Tính chất",
-        "cn": "性质",
+        "cn": "自然",
         "uzb": "tabiat",
         "uighur": ""
       },
@@ -6141,7 +6141,7 @@
       "hatsuon": "チガイ",
       "honyaku": {
         "vn": "Sự khác biệt",
-        "cn": "不一样",
+        "cn": "不同之处",
         "uzb": "farq",
         "uighur": ""
       },
@@ -6156,7 +6156,7 @@
       "hatsuon": "チカン",
       "honyaku": {
         "vn": "Thay thế",
-        "cn": "置换",
+        "cn": "替代品",
         "uzb": "almashtirish",
         "uighur": ""
       },
@@ -6171,7 +6171,7 @@
       "hatsuon": "ツヅリ",
       "honyaku": {
         "vn": "cách viết",
-        "cn": "点缀",
+        "cn": "拼写",
         "uzb": "imlo",
         "uighur": ""
       },
@@ -6186,7 +6186,7 @@
       "hatsuon": "トウカ",
       "honyaku": {
         "vn": "Tương đương",
-        "cn": "等价",
+        "cn": "相等的",
         "uzb": "ekvivalent",
         "uighur": ""
       },
@@ -6201,7 +6201,7 @@
       "hatsuon": "トオリ",
       "honyaku": {
         "vn": "Đường",
-        "cn": "照...样子-.-",
+        "cn": "街道",
         "uzb": "ko'cha",
         "uighur": ""
       },
@@ -6351,7 +6351,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "thường xuyên",
-        "cn": "持续",
+        "cn": "持续的",
         "uzb": "doimiy",
         "uighur": ""
       },
@@ -6381,7 +6381,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Tên",
-        "cn": "名字",
+        "cn": "姓名",
         "uzb": "nomi",
         "uighur": ""
       },
@@ -6396,7 +6396,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Dịch sang tiếng Việt:",
-        "cn": "看",
+        "cn": "看跌期权",
         "uzb": "qo'yadi",
         "uighur": ""
       },
@@ -6426,7 +6426,7 @@
       "hatsuon": "イッシュ",
       "honyaku": {
         "vn": "Một loài",
-        "cn": "一种类型",
+        "cn": "有点儿",
         "uzb": "kabi; singari",
         "uighur": ""
       },
@@ -6456,7 +6456,7 @@
       "hatsuon": "カイ",
       "honyaku": {
         "vn": "Xuống mức dưới",
-        "cn": "下面",
+        "cn": "下属",
         "uzb": "bo'ysunuvchi",
         "uighur": ""
       },
@@ -6471,7 +6471,7 @@
       "hatsuon": "カコミ",
       "honyaku": {
         "vn": "Nhấn",
-        "cn": "周围",
+        "cn": "盒子",
         "uzb": "quti",
         "uighur": ""
       },
@@ -6501,7 +6501,7 @@
       "hatsuon": "キジュツ",
       "honyaku": {
         "vn": "Ghi chú",
-        "cn": "讲述",
+        "cn": "描述",
         "uzb": "tavsifi",
         "uighur": ""
       },
@@ -6516,7 +6516,7 @@
       "hatsuon": "キリステ",
       "honyaku": {
         "vn": "cắt đi",
-        "cn": "切割",
+        "cn": "向下舍入",
         "uzb": "pastga aylantiring",
         "uighur": ""
       },
@@ -6531,7 +6531,7 @@
       "hatsuon": "クウハク",
       "honyaku": {
         "vn": "Không có gì",
-        "cn": "空白",
+        "cn": "空白的",
         "uzb": "bo'sh",
         "uighur": ""
       },
@@ -6546,7 +6546,7 @@
       "hatsuon": "クミ",
       "honyaku": {
         "vn": "nhóm",
-        "cn": "组",
+        "cn": "放",
         "uzb": "o'rnatish",
         "uighur": ""
       },
@@ -6561,7 +6561,7 @@
       "hatsuon": "ケッキョク",
       "honyaku": {
         "vn": "Cuối cùng",
-        "cn": "结局",
+        "cn": "到底",
         "uzb": "so'ngida",
         "uighur": ""
       },
@@ -6591,7 +6591,7 @@
       "hatsuon": "サキホド",
       "honyaku": {
         "vn": "Ngay trước đây",
-        "cn": "刚才",
+        "cn": "现在",
         "uzb": "Hozirgina",
         "uighur": ""
       },
@@ -6666,7 +6666,7 @@
       "hatsuon": "セット",
       "honyaku": {
         "vn": "Bộ đồ",
-        "cn": "组合",
+        "cn": "套餐",
         "uzb": "o'rnatish",
         "uighur": ""
       },
@@ -6681,7 +6681,7 @@
       "hatsuon": "ソウテイ",
       "honyaku": {
         "vn": "Giả định",
-        "cn": "预想",
+        "cn": "假设",
         "uzb": "Taxmin",
         "uighur": ""
       },
@@ -6696,7 +6696,7 @@
       "hatsuon": "チュウリャク",
       "honyaku": {
         "vn": "Giữ khoảng cách",
-        "cn": "中略",
+        "cn": "省略",
         "uzb": "Tushunmaslik",
         "uighur": ""
       },
@@ -6726,7 +6726,7 @@
       "hatsuon": "ドウギ",
       "honyaku": {
         "vn": "Tương nghĩa",
-        "cn": "同样",
+        "cn": "同义的",
         "uzb": "sinonim",
         "uighur": ""
       },
@@ -6741,7 +6741,7 @@
       "hatsuon": "ドット",
       "honyaku": {
         "vn": "Chấm",
-        "cn": "@",
+        "cn": "点",
         "uzb": "Nuqta",
         "uighur": ""
       },
@@ -6801,7 +6801,7 @@
       "hatsuon": "マル",
       "honyaku": {
         "vn": "Hình tròn",
-        "cn": "圆",
+        "cn": "圆圈",
         "uzb": "doira",
         "uighur": ""
       },
@@ -6831,7 +6831,7 @@
       "hatsuon": "ミカケ",
       "honyaku": {
         "vn": "Hiện trạng",
-        "cn": "发现",
+        "cn": "外貌",
         "uzb": "ko'rinish",
         "uighur": ""
       },
@@ -6846,7 +6846,7 @@
       "hatsuon": "ミギガワ",
       "honyaku": {
         "vn": "Phía bên phải",
-        "cn": "右侧",
+        "cn": "右边",
         "uzb": "o'ng tomon",
         "uighur": ""
       },
@@ -6861,7 +6861,7 @@
       "hatsuon": "ユウセン",
       "honyaku": {
         "vn": "ưu tiên",
-        "cn": "先来的",
+        "cn": "优先事项",
         "uzb": "ustuvorlik",
         "uighur": ""
       },
@@ -6876,7 +6876,7 @@
       "hatsuon": "ユライ",
       "honyaku": {
         "vn": "Lý do",
-        "cn": "来",
+        "cn": "由来",
         "uzb": "Kelib chiqishi",
         "uighur": ""
       },
@@ -6891,7 +6891,7 @@
       "hatsuon": "ログ",
       "honyaku": {
         "vn": "Nhật ký",
-        "cn": "对数",
+        "cn": "日志",
         "uzb": "jurnal",
         "uighur": ""
       },
@@ -6951,7 +6951,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "không có thông tin nào",
-        "cn": "nptr",
+        "cn": "NPTR",
         "uzb": "nptr",
         "uighur": ""
       },
@@ -6966,7 +6966,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "con trỏ",
-        "cn": "积分",
+        "cn": "指针",
         "uzb": "ko'rsatgich",
         "uighur": ""
       },
@@ -7026,7 +7026,7 @@
       "hatsuon": "アイサツ",
       "honyaku": {
         "vn": "Xin chào",
-        "cn": "打招呼",
+        "cn": "问候语",
         "uzb": "salomlashish",
         "uighur": ""
       },
@@ -7041,7 +7041,7 @@
       "hatsuon": "アカ",
       "honyaku": {
         "vn": "Đỏ",
-        "cn": "红色",
+        "cn": "红色的",
         "uzb": "qizil",
         "uighur": ""
       },
@@ -7086,7 +7086,7 @@
       "hatsuon": "カイ",
       "honyaku": {
         "vn": "Giải",
-        "cn": "解释",
+        "cn": "解决方案",
         "uzb": "Yechim",
         "uighur": ""
       },
@@ -7101,7 +7101,7 @@
       "hatsuon": "カウントダウン",
       "honyaku": {
         "vn": "Đếm trừ",
-        "cn": "雷欧奥特曼",
+        "cn": "倒数",
         "uzb": "ortga hisoblash",
         "uighur": ""
       },
@@ -7116,7 +7116,7 @@
       "hatsuon": "カクチョウ",
       "honyaku": {
         "vn": "mở rộng",
-        "cn": "扩大",
+        "cn": "扩张",
         "uzb": "kengaytirish",
         "uighur": ""
       },
@@ -7131,7 +7131,7 @@
       "hatsuon": "カスウ",
       "honyaku": {
         "vn": "Số ảo",
-        "cn": "负数",
+        "cn": "尾数",
         "uzb": "mantis",
         "uighur": ""
       },
@@ -7146,7 +7146,7 @@
       "hatsuon": "カラ",
       "honyaku": {
         "vn": "Trống",
-        "cn": "空白",
+        "cn": "天空",
         "uzb": "Osmon",
         "uighur": ""
       },
@@ -7161,7 +7161,7 @@
       "hatsuon": "キョウ",
       "honyaku": {
         "vn": "Hôm nay",
-        "cn": "今日",
+        "cn": "今天",
         "uzb": "Bugun",
         "uighur": ""
       },
@@ -7176,7 +7176,7 @@
       "hatsuon": "グアイ",
       "honyaku": {
         "vn": "tình trạng",
-        "cn": "集合",
+        "cn": "状况",
         "uzb": "holat",
         "uighur": ""
       },
@@ -7191,7 +7191,7 @@
       "hatsuon": "クルマ",
       "honyaku": {
         "vn": "Xe hơi",
-        "cn": "宝马三系",
+        "cn": "车",
         "uzb": "mashina",
         "uighur": ""
       },
@@ -7221,7 +7221,7 @@
       "hatsuon": "コウモク",
       "honyaku": {
         "vn": "Mục",
-        "cn": "项目",
+        "cn": "物品",
         "uzb": "element",
         "uighur": ""
       },
@@ -7236,7 +7236,7 @@
       "hatsuon": "ジ",
       "honyaku": {
         "vn": "Chữ",
-        "cn": "字",
+        "cn": "特点",
         "uzb": "xarakter",
         "uighur": ""
       },
@@ -7251,7 +7251,7 @@
       "hatsuon": "シキブン",
       "honyaku": {
         "vn": "Biểu thức",
-        "cn": "式文",
+        "cn": "公式陈述",
         "uzb": "formula bayonoti",
         "uighur": ""
       },
@@ -7281,7 +7281,7 @@
       "hatsuon": "ジュウショ",
       "honyaku": {
         "vn": "Địa chỉ",
-        "cn": "住所",
+        "cn": "地址",
         "uzb": "manzil",
         "uighur": ""
       },
@@ -7296,7 +7296,7 @@
       "hatsuon": "ジョウジョ",
       "honyaku": {
         "vn": "Chia nhân",
-        "cn": "乘除",
+        "cn": "乘法和除法",
         "uzb": "Ko'paytirish va bo'lish",
         "uighur": ""
       },
@@ -7326,7 +7326,7 @@
       "hatsuon": "セイレキ",
       "honyaku": {
         "vn": "Lịch tây",
-        "cn": "西晋",
+        "cn": "西历",
         "uzb": "G'arbiy kalendar",
         "uighur": ""
       },
@@ -7356,7 +7356,7 @@
       "hatsuon": "ゼンシャ",
       "honyaku": {
         "vn": "Trước đây",
-        "cn": "前者",
+        "cn": "以前的",
         "uzb": "oldingi",
         "uighur": ""
       },
@@ -7416,7 +7416,7 @@
       "hatsuon": "チョクゴ",
       "honyaku": {
         "vn": "Sau đó",
-        "cn": "值后",
+        "cn": "紧接着",
         "uzb": "Darhol keyin",
         "uighur": ""
       },
@@ -7431,7 +7431,7 @@
       "hatsuon": "ディスプレイ",
       "honyaku": {
         "vn": "Màn hình",
-        "cn": "屏幕、",
+        "cn": "展示",
         "uzb": "ko'rsatish",
         "uighur": ""
       },
@@ -7446,7 +7446,7 @@
       "hatsuon": "テンジョウ",
       "honyaku": {
         "vn": "Chấm xác định",
-        "cn": "定点",
+        "cn": "点确定",
         "uzb": "Nuqtani aniqlash",
         "uighur": ""
       },
@@ -7461,7 +7461,7 @@
       "hatsuon": "ド",
       "honyaku": {
         "vn": "độ",
-        "cn": "度",
+        "cn": "每次",
         "uzb": "Har safar",
         "uighur": ""
       },
@@ -7476,7 +7476,7 @@
       "hatsuon": "ドクショ",
       "honyaku": {
         "vn": "Đọc sách",
-        "cn": "读书",
+        "cn": "阅读",
         "uzb": "o'qish",
         "uighur": ""
       },
@@ -7491,7 +7491,7 @@
       "hatsuon": "ニンゲン",
       "honyaku": {
         "vn": "Con người",
-        "cn": "人间",
+        "cn": "人类",
         "uzb": "inson",
         "uighur": ""
       },
@@ -7506,7 +7506,7 @@
       "hatsuon": "ネコ",
       "honyaku": {
         "vn": "Mèo",
-        "cn": "丽丽",
+        "cn": "猫",
         "uzb": "Mushuk",
         "uighur": ""
       },
@@ -7536,7 +7536,7 @@
       "hatsuon": "バイト",
       "honyaku": {
         "vn": "Việc làm thêm",
-        "cn": "打工",
+        "cn": "字节",
         "uzb": "Yarim-stavkali ish, noto'la ish",
         "uighur": ""
       },
@@ -7551,7 +7551,7 @@
       "hatsuon": "バショ",
       "honyaku": {
         "vn": "Địa điểm",
-        "cn": "场所",
+        "cn": "地方",
         "uzb": "joy",
         "uighur": ""
       },
@@ -7566,7 +7566,7 @@
       "hatsuon": "ハナシ",
       "honyaku": {
         "vn": "Câu chuyện",
-        "cn": "话语",
+        "cn": "说话",
         "uzb": "Hikoya",
         "uighur": ""
       },
@@ -7581,7 +7581,7 @@
       "hatsuon": "ビザ",
       "honyaku": {
         "vn": "Thị thực",
-        "cn": "披萨",
+        "cn": "签证",
         "uzb": "viza",
         "uighur": ""
       },
@@ -7596,7 +7596,7 @@
       "hatsuon": "フツウ",
       "honyaku": {
         "vn": "Bình thường",
-        "cn": "普通",
+        "cn": "通常",
         "uzb": "odatda",
         "uighur": ""
       },
@@ -7611,7 +7611,7 @@
       "hatsuon": "プログラミング",
       "honyaku": {
         "vn": "Lập trình",
-        "cn": "演算",
+        "cn": "编程",
         "uzb": "dasturlash",
         "uighur": ""
       },
@@ -7626,7 +7626,7 @@
       "hatsuon": "ブンプ",
       "honyaku": {
         "vn": "phân phối",
-        "cn": "分布",
+        "cn": "分配",
         "uzb": "tarqatish",
         "uighur": ""
       },
@@ -7641,7 +7641,7 @@
       "hatsuon": "ヘン",
       "honyaku": {
         "vn": "Biến",
-        "cn": "变化",
+        "cn": "奇怪的",
         "uzb": "g'alati",
         "uighur": ""
       },
@@ -7656,7 +7656,7 @@
       "hatsuon": "ホトンド",
       "honyaku": {
         "vn": "Hầu hết",
-        "cn": "基本上",
+        "cn": "大部分",
         "uzb": "asosan",
         "uighur": ""
       },
@@ -7671,7 +7671,7 @@
       "hatsuon": "マニュアル",
       "honyaku": {
         "vn": "Chỉ dẫn",
-        "cn": "不知道",
+        "cn": "手动的",
         "uzb": "qo'llanma",
         "uighur": ""
       },
@@ -7686,7 +7686,7 @@
       "hatsuon": "ムゲン",
       "honyaku": {
         "vn": "Vô tận",
-        "cn": "无限",
+        "cn": "无穷",
         "uzb": "cheksiz",
         "uighur": ""
       },
@@ -7701,7 +7701,7 @@
       "hatsuon": "ムネ",
       "honyaku": {
         "vn": "Thông báo",
-        "cn": "宗旨",
+        "cn": "意思",
         "uzb": "ta'sir",
         "uighur": ""
       },
@@ -7716,7 +7716,7 @@
       "hatsuon": "メイジ",
       "honyaku": {
         "vn": "Minh Tường",
-        "cn": "表明",
+        "cn": "明确的",
         "uzb": "aniq",
         "uighur": ""
       },
@@ -7731,7 +7731,7 @@
       "hatsuon": "メイショウ",
       "honyaku": {
         "vn": "Tên gọi",
-        "cn": "名称",
+        "cn": "姓名",
         "uzb": "nomi",
         "uighur": ""
       },
@@ -7746,7 +7746,7 @@
       "hatsuon": "ヤクスウ",
       "honyaku": {
         "vn": "Số vành đai",
-        "cn": "约束",
+        "cn": "约数",
         "uzb": "bo'luvchi",
         "uighur": ""
       },
@@ -7761,7 +7761,7 @@
       "hatsuon": "ヨブン",
       "honyaku": {
         "vn": "Thừa",
-        "cn": "剩下",
+        "cn": "多余",
         "uzb": "qo'shimcha",
         "uighur": ""
       },
@@ -7806,7 +7806,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "fgetc",
-        "cn": "腹肌特",
+        "cn": "弗吉特",
         "uzb": "fgetc",
         "uighur": ""
       },
@@ -7836,7 +7836,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "đặt vào",
-        "cn": "菩萨",
+        "cn": "普萨",
         "uzb": "putsa",
         "uighur": ""
       },
@@ -7896,7 +7896,7 @@
       "hatsuon": "アップ",
       "honyaku": {
         "vn": "Lên",
-        "cn": "上面",
+        "cn": "向上",
         "uzb": "yuqoriga",
         "uighur": ""
       },
@@ -7911,7 +7911,7 @@
       "hatsuon": "アツマリ",
       "honyaku": {
         "vn": "Nhóm họp",
-        "cn": "集合",
+        "cn": "搜集",
         "uzb": "yig'ilish",
         "uighur": ""
       },
@@ -7926,7 +7926,7 @@
       "hatsuon": "アロー",
       "honyaku": {
         "vn": "Mũi tên",
-        "cn": "箭头",
+        "cn": "箭",
         "uzb": "strelka",
         "uighur": ""
       },
@@ -7956,7 +7956,7 @@
       "hatsuon": "イッポウ",
       "honyaku": {
         "vn": "Một phía",
-        "cn": "一方面",
+        "cn": "另一方面",
         "uzb": "boshqa tarafdan",
         "uighur": ""
       },
@@ -7971,7 +7971,7 @@
       "hatsuon": "イライ",
       "honyaku": {
         "vn": "Yêu cầu",
-        "cn": "依赖",
+        "cn": "要求",
         "uzb": "iltimos",
         "uighur": ""
       },
@@ -8001,7 +8001,7 @@
       "hatsuon": "エイゴ",
       "honyaku": {
         "vn": "Tiếng Anh",
-        "cn": "引用",
+        "cn": "英语",
         "uzb": "Ingliz",
         "uighur": ""
       },
@@ -8016,7 +8016,7 @@
       "hatsuon": "エディタ",
       "honyaku": {
         "vn": "Trình biên tập",
-        "cn": "脸上",
+        "cn": "编辑",
         "uzb": "muharrir",
         "uighur": ""
       },
@@ -8031,7 +8031,7 @@
       "hatsuon": "エン",
       "honyaku": {
         "vn": "Đồng",
-        "cn": "元",
+        "cn": "圆圈",
         "uzb": "doira",
         "uighur": ""
       },
@@ -8046,7 +8046,7 @@
       "hatsuon": "オブジェ",
       "honyaku": {
         "vn": "Tượng thể",
-        "cn": "客服",
+        "cn": "目的",
         "uzb": "ob'ekt",
         "uighur": ""
       },
@@ -8061,7 +8061,7 @@
       "hatsuon": "オリエンテーション",
       "honyaku": {
         "vn": "Hướng dẫn.",
-        "cn": "达二",
+        "cn": "方向",
         "uzb": "orientatsiya",
         "uighur": ""
       },
@@ -8076,7 +8076,7 @@
       "hatsuon": "カゲン",
       "honyaku": {
         "vn": "Thêm hay bớt",
-        "cn": "加减",
+        "cn": "调整",
         "uzb": "Moslashish",
         "uighur": ""
       },
@@ -8091,7 +8091,7 @@
       "hatsuon": "カコイ",
       "honyaku": {
         "vn": "Chu vi",
-        "cn": "井",
+        "cn": "周边环境",
         "uzb": "Atrof",
         "uighur": ""
       },
@@ -8166,7 +8166,7 @@
       "hatsuon": "キブン",
       "honyaku": {
         "vn": "Tâm trạng",
-        "cn": "心情",
+        "cn": "感觉",
         "uzb": "tuyg'u",
         "uighur": ""
       },
@@ -8196,7 +8196,7 @@
       "hatsuon": "コ",
       "honyaku": {
         "vn": "",
-        "cn": "呼叫",
+        "cn": "称呼",
         "uzb": "qo'ng'iroq qiling",
         "uighur": ""
       },
@@ -8241,7 +8241,7 @@
       "hatsuon": "ココ",
       "honyaku": {
         "vn": "Cá nhân",
-        "cn": "个",
+        "cn": "个人",
         "uzb": "individual",
         "uighur": ""
       },
@@ -8316,7 +8316,7 @@
       "hatsuon": "ジドウ",
       "honyaku": {
         "vn": "Tự động",
-        "cn": "自动",
+        "cn": "自动的",
         "uzb": "avtomatik",
         "uighur": ""
       },
@@ -8331,7 +8331,7 @@
       "hatsuon": "シュウショク",
       "honyaku": {
         "vn": "Tìm việc làm",
-        "cn": "工作",
+        "cn": "就业",
         "uzb": "ish toping",
         "uighur": ""
       },
@@ -8346,7 +8346,7 @@
       "hatsuon": "ジュンイ",
       "honyaku": {
         "vn": "Vị trí",
-        "cn": "顺序",
+        "cn": "名次",
         "uzb": "daraja",
         "uighur": ""
       },
@@ -8361,7 +8361,7 @@
       "hatsuon": "ジョウイ",
       "honyaku": {
         "vn": "Trên cùng",
-        "cn": "上面",
+        "cn": "顶部",
         "uzb": "yuqori",
         "uighur": ""
       },
@@ -8376,7 +8376,7 @@
       "hatsuon": "セ",
       "honyaku": {
         "vn": "Lưng",
-        "cn": "背",
+        "cn": "后退",
         "uzb": "orqaga",
         "uighur": ""
       },
@@ -8391,7 +8391,7 @@
       "hatsuon": "セイカク",
       "honyaku": {
         "vn": "Chính xác",
-        "cn": "正确",
+        "cn": "正确的",
         "uzb": "to'g'ri",
         "uighur": ""
       },
@@ -8406,7 +8406,7 @@
       "hatsuon": "セイシツ",
       "honyaku": {
         "vn": "Tính chất",
-        "cn": "性质",
+        "cn": "自然",
         "uzb": "tabiat",
         "uighur": ""
       },
@@ -8436,7 +8436,7 @@
       "hatsuon": "ゼミナール",
       "honyaku": {
         "vn": "Hội thảo",
-        "cn": "四大",
+        "cn": "研讨会",
         "uzb": "seminar",
         "uighur": ""
       },
@@ -8451,7 +8451,7 @@
       "hatsuon": "ゼンカク",
       "honyaku": {
         "vn": "Mọi khía cạnh",
-        "cn": "全角",
+        "cn": "全屏宽度",
         "uzb": "to'liq kenglik",
         "uighur": ""
       },
@@ -8466,7 +8466,7 @@
       "hatsuon": "ソウイ",
       "honyaku": {
         "vn": "Sự khác biệt",
-        "cn": "相反",
+        "cn": "不同之处",
         "uzb": "farq",
         "uighur": ""
       },
@@ -8481,7 +8481,7 @@
       "hatsuon": "ソウゴウ",
       "honyaku": {
         "vn": "Tổng hợp",
-        "cn": "综合",
+        "cn": "综合的",
         "uzb": "keng qamrovli",
         "uighur": ""
       },
@@ -8496,7 +8496,7 @@
       "hatsuon": "ソウトウ",
       "honyaku": {
         "vn": "Khá tương xứng",
-        "cn": "相当",
+        "cn": "相等的",
         "uzb": "ekvivalent",
         "uighur": ""
       },
@@ -8526,7 +8526,7 @@
       "hatsuon": "タイ",
       "honyaku": {
         "vn": "Đối với",
-        "cn": "对",
+        "cn": "相对 ",
         "uzb": "ga qarshi",
         "uighur": ""
       },
@@ -8541,7 +8541,7 @@
       "hatsuon": "タイケイ",
       "honyaku": {
         "vn": "Hệ thống",
-        "cn": "体系",
+        "cn": "系统 ",
         "uzb": "tizimi",
         "uighur": ""
       },
@@ -8556,7 +8556,7 @@
       "hatsuon": "ダイショウ",
       "honyaku": {
         "vn": "Kích cỡ",
-        "cn": "大小",
+        "cn": "大和小",
         "uzb": "katta va kichik",
         "uighur": ""
       },
@@ -8601,7 +8601,7 @@
       "hatsuon": "ツネ",
       "honyaku": {
         "vn": "Thường",
-        "cn": "长",
+        "cn": "平常",
         "uzb": "har doim",
         "uighur": ""
       },
@@ -8616,7 +8616,7 @@
       "hatsuon": "テキトウ",
       "honyaku": {
         "vn": "Phù hợp",
-        "cn": "适当",
+        "cn": "合适的",
         "uzb": "mos",
         "uighur": ""
       },
@@ -8646,7 +8646,7 @@
       "hatsuon": "トチュウ",
       "honyaku": {
         "vn": "Giữa chừng",
-        "cn": "途中·",
+        "cn": "在中间",
         "uzb": "o'rtasida",
         "uighur": ""
       },
@@ -8661,7 +8661,7 @@
       "hatsuon": "トドケ",
       "honyaku": {
         "vn": "Đến",
-        "cn": "杰",
+        "cn": "报告",
         "uzb": "Bildirishnoma",
         "uighur": ""
       },
@@ -8676,7 +8676,7 @@
       "hatsuon": "ナフダ",
       "honyaku": {
         "vn": "Bảng tên",
-        "cn": "名牌",
+        "cn": "名称标签",
         "uzb": "nom belgisi",
         "uighur": ""
       },
@@ -8691,7 +8691,7 @@
       "hatsuon": "バッファ",
       "honyaku": {
         "vn": "Vùng đệm",
-        "cn": "达此",
+        "cn": "缓冲",
         "uzb": "bufer",
         "uighur": ""
       },
@@ -8721,7 +8721,7 @@
       "hatsuon": "フテイ",
       "honyaku": {
         "vn": "Không xác định",
-        "cn": "不定数",
+        "cn": "不定",
         "uzb": "Noaniq",
         "uighur": ""
       },
@@ -8736,7 +8736,7 @@
       "hatsuon": "フロー",
       "honyaku": {
         "vn": "Dòng chảy",
-        "cn": "够",
+        "cn": "流动",
         "uzb": "oqim",
         "uighur": ""
       },
@@ -8751,7 +8751,7 @@
       "hatsuon": "プロジェクト",
       "honyaku": {
         "vn": "Dự án",
-        "cn": "波点",
+        "cn": "项目",
         "uzb": "loyiha",
         "uighur": ""
       },
@@ -8781,7 +8781,7 @@
       "hatsuon": "ベキジョウ",
       "honyaku": {
         "vn": "Lũy thừa",
-        "cn": "店铺",
+        "cn": "求幂",
         "uzb": "eksponentsiya",
         "uighur": ""
       },
@@ -8796,7 +8796,7 @@
       "hatsuon": "ヘンカ",
       "honyaku": {
         "vn": "Thay đổi",
-        "cn": "变化",
+        "cn": "改变",
         "uzb": "o'zgartirish",
         "uighur": ""
       },
@@ -8811,7 +8811,7 @@
       "hatsuon": "マチガイ",
       "honyaku": {
         "vn": "Sai lầm",
-        "cn": "弄错",
+        "cn": "错误",
         "uzb": "xato",
         "uighur": ""
       },
@@ -8841,7 +8841,7 @@
       "hatsuon": "メリット",
       "honyaku": {
         "vn": "Lợi ích",
-        "cn": "安师",
+        "cn": "优点",
         "uzb": "savob",
         "uighur": ""
       },
@@ -8856,7 +8856,7 @@
       "hatsuon": "ヤジルシ",
       "honyaku": {
         "vn": "Mũi tên",
-        "cn": "还哦",
+        "cn": "箭头",
         "uzb": "strelka",
         "uighur": ""
       },
@@ -8871,7 +8871,7 @@
       "hatsuon": "リットル",
       "honyaku": {
         "vn": "Lit",
-        "cn": "撒旦",
+        "cn": "升",
         "uzb": "litr",
         "uighur": ""
       },
@@ -8886,7 +8886,7 @@
       "hatsuon": "レイガイ",
       "honyaku": {
         "vn": "Ngoại lệ",
-        "cn": "阿三的",
+        "cn": "例外",
         "uzb": "istisno",
         "uighur": ""
       },
@@ -8901,7 +8901,7 @@
       "hatsuon": "ワード",
       "honyaku": {
         "vn": "Từ",
-        "cn": "哦天",
+        "cn": "单词",
         "uzb": "so'z",
         "uighur": ""
       },
@@ -8916,7 +8916,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Chuột",
-        "cn": "蛤",
+        "cn": "控制键",
         "uzb": "Ctrl",
         "uighur": ""
       },
@@ -8931,7 +8931,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "liệt kê",
-        "cn": "函数",
+        "cn": "枚举",
         "uzb": "ro'yxatga olish",
         "uighur": ""
       },
@@ -8946,7 +8946,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Kết thúc tập tin",
-        "cn": "欧冠",
+        "cn": "EOF",
         "uzb": "EOF",
         "uighur": ""
       },
@@ -8961,7 +8961,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "định dạng",
-        "cn": "阿达",
+        "cn": "格式",
         "uzb": "format",
         "uighur": ""
       },
@@ -8976,7 +8976,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "fputc",
-        "cn": "亢",
+        "cn": "弗普特克",
         "uzb": "fputc",
         "uighur": ""
       },
@@ -8991,7 +8991,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "```nhiên liệu```",
-        "cn": "",
+        "cn": "燃料",
         "uzb": "yoqilg'i",
         "uighur": ""
       },
@@ -9065,7 +9065,7 @@
       "kanji": "select",
       "hatsuon": "",
       "honyaku": {
-        "vn": "Chọn lựa",
+        "vn": "#ERROR!",
         "cn": "选择",
         "uzb": "tanlang",
         "uighur": ""
@@ -9111,7 +9111,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "strcpy",
-        "cn": "string copy（字符串复制）的缩写",
+        "cn": "结构体",
         "uzb": "strcpy",
         "uighur": ""
       },
@@ -9227,10 +9227,10 @@
     },
     {
       "id": 616,
-      "kanji": "success",
+      "kanji": "succs",
       "hatsuon": "",
       "honyaku": {
-        "vn": "Thành công",
+        "vn": "#ERROR!",
         "cn": "成功",
         "uzb": "omad",
         "uighur": ""
@@ -9441,7 +9441,7 @@
       "hatsuon": "カワリ",
       "honyaku": {
         "vn": "Thay thế",
-        "cn": "另类",
+        "cn": "代替",
         "uzb": "almashtirmoq",
         "uighur": ""
       },
@@ -9606,7 +9606,7 @@
       "hatsuon": "コロナ",
       "honyaku": {
         "vn": "Vi-rút Corona",
-        "cn": "日冕",
+        "cn": "新冠",
         "uzb": "toj",
         "uighur": ""
       },
@@ -9846,7 +9846,7 @@
       "hatsuon": "シンセツ",
       "honyaku": {
         "vn": "Thân thiện",
-        "cn": "仁慈",
+        "cn": "亲切",
         "uzb": "Mehribonlik",
         "uighur": ""
       },
@@ -9861,7 +9861,7 @@
       "hatsuon": "シンパイ",
       "honyaku": {
         "vn": "Lo lắng",
-        "cn": "关注",
+        "cn": "担心",
         "uzb": "tashvish",
         "uighur": ""
       },
@@ -9906,7 +9906,7 @@
       "hatsuon": "セキ",
       "honyaku": {
         "vn": "Chỗ ngồi",
-        "cn": "座椅",
+        "cn": "座位",
         "uzb": "o'rindiq",
         "uighur": ""
       },
@@ -10386,7 +10386,7 @@
       "hatsuon": "ホジ",
       "honyaku": {
         "vn": "Giữ",
-        "cn": "保留",
+        "cn": "保持",
         "uzb": "Saqlash",
         "uighur": ""
       },
@@ -10401,7 +10401,7 @@
       "hatsuon": "ホントウ",
       "honyaku": {
         "vn": "Thật sự",
-        "cn": "正确",
+        "cn": "真的",
         "uzb": "TO'G'RI",
         "uighur": ""
       },
@@ -10671,7 +10671,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "dname",
-        "cn": "",
+        "cn": "姓名",
         "uzb": "dnom",
         "uighur": ""
       },
@@ -10686,7 +10686,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "EFGH",
-        "cn": "",
+        "cn": "EFGH",
         "uzb": "EFGH",
         "uighur": ""
       },
@@ -10701,7 +10701,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "",
-        "cn": "",
+        "cn": "gcdf",
         "uzb": "gcdf",
         "uighur": ""
       },
@@ -11180,8 +11180,8 @@
       "kanji": "オブ",
       "hatsuon": "オブ",
       "honyaku": {
-        "vn": "",
-        "cn": "火",
+        "vn": "オブ would be translated as ô bô in ベトナム語.",
+        "cn": "或",
         "uzb": "ning",
         "uighur": ""
       },
@@ -11436,7 +11436,7 @@
       "hatsuon": "ギョウスウ",
       "honyaku": {
         "vn": "số dòng",
-        "cn": "生产线数量",
+        "cn": "行数",
         "uzb": "Chiziqlar soni",
         "uighur": ""
       },
@@ -11706,7 +11706,7 @@
       "hatsuon": "コイビト",
       "honyaku": {
         "vn": "Người yêu",
-        "cn": "情人",
+        "cn": "恋人",
         "uzb": "sevgilisi",
         "uighur": ""
       },
@@ -12066,7 +12066,7 @@
       "hatsuon": "ジョサン",
       "honyaku": {
         "vn": "Phép chia",
-        "cn": "师",
+        "cn": "除法",
         "uzb": "bo'linish",
         "uighur": ""
       },
@@ -12141,7 +12141,7 @@
       "hatsuon": "スト",
       "honyaku": {
         "vn": "Cuộc đình công",
-        "cn": "",
+        "cn": "罢工",
         "uzb": "zarba berish",
         "uighur": ""
       },
@@ -12336,7 +12336,7 @@
       "hatsuon": "タコヤキ",
       "honyaku": {
         "vn": "Xôi chiên",
-        "cn": "八达通烘焙",
+        "cn": "章鱼烧",
         "uzb": "Takoyaki",
         "uighur": ""
       },
@@ -12621,7 +12621,7 @@
       "hatsuon": "ナキゴエ",
       "honyaku": {
         "vn": "Tiếng kêu",
-        "cn": "啁啾",
+        "cn": "叫声",
         "uzb": "yig'lamoq",
         "uighur": ""
       },
@@ -12651,7 +12651,7 @@
       "hatsuon": "ナマ",
       "honyaku": {
         "vn": "Sinh",
-        "cn": "生",
+        "cn": "未经处理的",
         "uzb": "Yashash",
         "uighur": ""
       },
@@ -12696,7 +12696,7 @@
       "hatsuon": "ニュウモン",
       "honyaku": {
         "vn": "Giới thiệu",
-        "cn": "介绍",
+        "cn": "入门",
         "uzb": "Kirish",
         "uighur": ""
       },
@@ -12816,7 +12816,7 @@
       "hatsuon": "ヒ",
       "honyaku": {
         "vn": "Lửa",
-        "cn": "火灾",
+        "cn": "火",
         "uzb": "olov",
         "uighur": ""
       },
@@ -13626,7 +13626,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "Lỗi",
-        "cn": "二月",
+        "cn": "错误",
         "uzb": "xato",
         "uighur": ""
       },
@@ -13656,7 +13656,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "tên tệp",
-        "cn": "二月",
+        "cn": "文件名",
         "uzb": "Fayl nomi",
         "uighur": ""
       },
@@ -13671,7 +13671,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "thông tin",
-        "cn": "二月文件名",
+        "cn": "信息",
         "uzb": "ma'lumot",
         "uighur": ""
       },
@@ -13865,7 +13865,7 @@
       "kanji": "compound",
       "hatsuon": "",
       "honyaku": {
-        "vn": "",
+        "vn": "#ERROR!",
         "cn": "复数",
         "uzb": "birikma",
         "uighur": ""
@@ -13896,7 +13896,7 @@
       "hatsuon": "",
       "honyaku": {
         "vn": "đ",
-        "cn": "",
+        "cn": "đ",
         "uzb": "đ",
         "uighur": ""
       },
@@ -14211,7 +14211,7 @@
       "hatsuon": "アクサン",
       "honyaku": {
         "vn": "アクサン",
-        "cn": "阿克桑",
+        "cn": "口音",
         "uzb": "Urg'u",
         "uighur": ""
       },
@@ -14436,7 +14436,7 @@
       "hatsuon": "イクオール",
       "honyaku": {
         "vn": "Ikuoru",
-        "cn": "伊科尔",
+        "cn": "平等的",
         "uzb": "Teng",
         "uighur": ""
       },
@@ -14571,7 +14571,7 @@
       "hatsuon": "イワゴウ",
       "honyaku": {
         "vn": "Iwai",
-        "cn": "岩",
+        "cn": "山脉",
         "uzb": "Ivago",
         "uighur": ""
       },
@@ -14631,7 +14631,7 @@
       "hatsuon": "インタ",
       "honyaku": {
         "vn": "インタ",
-        "cn": "因特尔",
+        "cn": "国际",
         "uzb": "Inter",
         "uighur": ""
       },
@@ -14766,7 +14766,7 @@
       "hatsuon": "ウワキ",
       "honyaku": {
         "vn": "phản bội",
-        "cn": "风流韵事",
+        "cn": "自大",
         "uzb": "Aldash",
         "uighur": ""
       },
@@ -14840,7 +14840,7 @@
       "kanji": "エスケープ",
       "hatsuon": "エスケープ",
       "honyaku": {
-        "vn": "Trốn thoát",
+        "vn": "#ERROR!",
         "cn": "逃逸",
         "uzb": "qochish",
         "uighur": ""
@@ -15035,7 +15035,7 @@
       "kanji": "加",
       "hatsuon": "カ",
       "honyaku": {
-        "vn": "Thêm vào",
+        "vn": "#ERROR!",
         "cn": "附加",
         "uzb": "Kanada",
         "uighur": ""
@@ -15050,7 +15050,7 @@
       "kanji": "可",
       "hatsuon": "カ",
       "honyaku": {
-        "vn": "可",
+        "vn": "可 would be translated to có thể in ベトナム語.",
         "cn": "可能",
         "uzb": "Mumkin",
         "uighur": ""
@@ -15801,7 +15801,7 @@
       "hatsuon": "クエスチョン",
       "honyaku": {
         "vn": "Câu hỏi",
-        "cn": "提问",
+        "cn": "求情",
         "uzb": "savol",
         "uighur": ""
       },
@@ -15846,7 +15846,7 @@
       "hatsuon": "グラミン",
       "honyaku": {
         "vn": "グラミン does not have a direct translation in Vietnamese.",
-        "cn": "格莱珉",
+        "cn": "石英",
         "uzb": "Gramin",
         "uighur": ""
       },
@@ -16101,7 +16101,7 @@
       "hatsuon": "コウアン",
       "honyaku": {
         "vn": "Sáng kiến",
-        "cn": "发明",
+        "cn": "考案",
         "uzb": "kashfiyot",
         "uighur": ""
       },
@@ -16311,7 +16311,7 @@
       "hatsuon": "ゴニュウ",
       "honyaku": {
         "vn": "五入 translates to làm tròn đến số nguyên gần nhất in Vietnamese.",
-        "cn": "5 个条目",
+        "cn": "五入",
         "uzb": "Besh bo'lak",
         "uighur": ""
       },
@@ -17016,7 +17016,7 @@
       "hatsuon": "ショウコウ",
       "honyaku": {
         "vn": "Đại tá",
-        "cn": "规模较小的学校",
+        "cn": "少校",
         "uzb": "yosh maktab",
         "uighur": ""
       },
@@ -17121,7 +17121,7 @@
       "hatsuon": "シルコンフレックス",
       "honyaku": {
         "vn": "シルコンフレックス",
-        "cn": "",
+        "cn": "硅胶",
         "uzb": "silikon moslashuvchan",
         "uighur": ""
       },
@@ -17375,7 +17375,7 @@
       "kanji": "接触",
       "hatsuon": "セッショク",
       "honyaku": {
-        "vn": "Tiếp xúc",
+        "vn": "#ERROR!",
         "cn": "联系",
         "uzb": "aloqa",
         "uighur": ""
@@ -17751,7 +17751,7 @@
       "hatsuon": "タク",
       "honyaku": {
         "vn": "Chuyển đổi sang ngôn ngữ Việt Nam:",
-        "cn": "乒乓球",
+        "cn": "桌子",
         "uzb": "stol",
         "uighur": ""
       },
@@ -17841,7 +17841,7 @@
       "hatsuon": "タニン",
       "honyaku": {
         "vn": "Người khác",
-        "cn": "其他",
+        "cn": "他人",
         "uzb": "boshqalar",
         "uighur": ""
       },
@@ -18230,7 +18230,7 @@
       "kanji": "電子",
       "hatsuon": "デンシ",
       "honyaku": {
-        "vn": "Điện tử",
+        "vn": "#ERROR!",
         "cn": "电子",
         "uzb": "elektron",
         "uighur": ""
@@ -18801,7 +18801,7 @@
       "hatsuon": "ハンカク",
       "honyaku": {
         "vn": "半角",
-        "cn": "半宽",
+        "cn": "半角",
         "uzb": "Yarim o'lcham",
         "uighur": ""
       },
@@ -19025,8 +19025,8 @@
       "kanji": "ひとまとまり",
       "hatsuon": "ヒトマトマリ",
       "honyaku": {
-        "vn": "những/các",
-        "cn": "一群人",
+        "vn": "#ERROR!",
+        "cn": "团结",
         "uzb": "bir to'da",
         "uighur": ""
       },
@@ -19296,7 +19296,7 @@
       "hatsuon": "ヘタ",
       "honyaku": {
         "vn": "Yếu đuối",
-        "cn": "写得不好",
+        "cn": "不擅长",
         "uzb": "kambag'al",
         "uighur": ""
       },
@@ -19415,7 +19415,7 @@
       "kanji": "本質",
       "hatsuon": "ホンシツ",
       "honyaku": {
-        "vn": "Bản chất",
+        "vn": "#ERROR!",
         "cn": "精华",
         "uzb": "mohiyati",
         "uighur": ""
@@ -19446,7 +19446,7 @@
       "hatsuon": "ホンネ",
       "honyaku": {
         "vn": "Thật lòng",
-        "cn": "真正条款",
+        "cn": "本音",
         "uzb": "haqiqiy tuyg'ular",
         "uighur": ""
       },
@@ -20001,7 +20001,7 @@
       "hatsuon": "ヨセアツメ",
       "honyaku": {
         "vn": "dưa hấu",
-        "cn": "收集",
+        "cn": "各种各样的",
         "uzb": "har xil",
         "uighur": ""
       },
@@ -20016,7 +20016,7 @@
       "hatsuon": "ヨハク",
       "honyaku": {
         "vn": "Dự trừ.",
-        "cn": "边",
+        "cn": "利润",
         "uzb": "marja",
         "uighur": ""
       },
@@ -20031,7 +20031,7 @@
       "hatsuon": "ヨユウ",
       "honyaku": {
         "vn": "Thoải mái",
-        "cn": "边",
+        "cn": "空余",
         "uzb": "xona",
         "uighur": ""
       },
@@ -20090,7 +20090,7 @@
       "kanji": "リーム",
       "hatsuon": "リーム",
       "honyaku": {
-        "vn": "",
+        "vn": "リーム (pronounced Rīmu) does not have a specific meaning in ベトナム語 as it is a name or proper noun.",
         "cn": "夯实",
         "uzb": "o'ram",
         "uighur": ""
@@ -25971,7 +25971,7 @@
       "hatsuon": "モットモ",
       "honyaku": {
         "vn": "Trái nhất",
-        "cn": "最",
+        "cn": "最加",
         "uzb": "",
         "uighur": ""
       },
@@ -26001,7 +26001,7 @@
       "hatsuon": "モシ",
       "honyaku": {
         "vn": "Nếu",
-        "cn": "如果",
+        "cn": "假如",
         "uzb": "",
         "uighur": ""
       },
@@ -26016,7 +26016,7 @@
       "hatsuon": "マッタク",
       "honyaku": {
         "vn": "Cứ thế thôi",
-        "cn": "真是的",
+        "cn": "完全",
         "uzb": "",
         "uighur": ""
       },
@@ -26031,7 +26031,7 @@
       "hatsuon": "キチント",
       "honyaku": {
         "vn": "Dễ hòa hợp",
-        "cn": "好好地",
+        "cn": "整洁",
         "uzb": "",
         "uighur": ""
       },
@@ -26061,7 +26061,7 @@
       "hatsuon": "アマリ",
       "honyaku": {
         "vn": "Không nhiều",
-        "cn": "太，过于",
+        "cn": "太",
         "uzb": "",
         "uighur": ""
       },
@@ -26076,7 +26076,7 @@
       "hatsuon": "ヨリ",
       "honyaku": {
         "vn": "Hơn ",
-        "cn": "比较之",
+        "cn": "比较",
         "uzb": "",
         "uighur": ""
       },
@@ -26136,7 +26136,7 @@
       "hatsuon": "サラニ",
       "honyaku": {
         "vn": "Ngoài ra",
-        "cn": "进一步",
+        "cn": "更加",
         "uzb": "",
         "uighur": ""
       },
@@ -26181,7 +26181,7 @@
       "hatsuon": "ハッキリ",
       "honyaku": {
         "vn": "Rõ ràng",
-        "cn": "清爽",
+        "cn": "清楚",
         "uzb": "",
         "uighur": ""
       },
@@ -26211,7 +26211,7 @@
       "hatsuon": "カズオオク",
       "honyaku": {
         "vn": "Rất nhiều",
-        "cn": "为数众多",
+        "cn": "多数的",
         "uzb": "",
         "uighur": ""
       },
@@ -26226,7 +26226,7 @@
       "hatsuon": "タトエ",
       "honyaku": {
         "vn": "Dẫu cho",
-        "cn": "比方",
+        "cn": "假如",
         "uzb": "",
         "uighur": ""
       },
@@ -26241,7 +26241,7 @@
       "hatsuon": "ツギツギ",
       "honyaku": {
         "vn": "Liên tiếp",
-        "cn": "接二连三的",
+        "cn": "不断",
         "uzb": "",
         "uighur": ""
       },
@@ -26301,7 +26301,7 @@
       "hatsuon": "ナルベク",
       "honyaku": {
         "vn": "Cố gắng",
-        "cn": "尽可能",
+        "cn": "尽量",
         "uzb": "",
         "uighur": ""
       },
@@ -26361,7 +26361,7 @@
       "hatsuon": "ケッシテ",
       "honyaku": {
         "vn": "nhất định",
-        "cn": "绝不",
+        "cn": "绝对",
         "uzb": "",
         "uighur": ""
       },
@@ -26496,7 +26496,7 @@
       "hatsuon": "アクマデ",
       "honyaku": {
         "vn": "Cốt lõi là",
-        "cn": "说到底",
+        "cn": "无论如何",
         "uzb": "",
         "uighur": ""
       },
@@ -26556,7 +26556,7 @@
       "hatsuon": "イヨイヨ",
       "honyaku": {
         "vn": "Sắp tới rồi",
-        "cn": "越发",
+        "cn": "终于",
         "uzb": "",
         "uighur": ""
       },
@@ -26586,7 +26586,7 @@
       "hatsuon": "コッコク",
       "honyaku": {
         "vn": "Ngắn ngủi",
-        "cn": "时刻",
+        "cn": "每时每刻",
         "uzb": "",
         "uighur": ""
       },
@@ -26646,7 +26646,7 @@
       "hatsuon": "ソク",
       "honyaku": {
         "vn": "ngay lập tức",
-        "cn": "马上立刻",
+        "cn": "马上/立刻",
         "uzb": "",
         "uighur": ""
       },
@@ -26676,7 +26676,7 @@
       "hatsuon": "タンニ",
       "honyaku": {
         "vn": "đơn thuần",
-        "cn": "单纯只是",
+        "cn": "很多",
         "uzb": "",
         "uighur": ""
       },
@@ -26721,7 +26721,7 @@
       "hatsuon": "ツイ",
       "honyaku": {
         "vn": "lỡ",
-        "cn": "不知不觉地无意中",
+        "cn": "不知不觉",
         "uzb": "",
         "uighur": ""
       },
@@ -26736,7 +26736,7 @@
       "hatsuon": "ツマリ",
       "honyaku": {
         "vn": "tức là",
-        "cn": "也就是说",
+        "cn": "所以说",
         "uzb": "",
         "uighur": ""
       },
@@ -26781,7 +26781,7 @@
       "hatsuon": "トニカク",
       "honyaku": {
         "vn": "Bất kể",
-        "cn": "总之",
+        "cn": "无论如何",
         "uzb": "",
         "uighur": ""
       },
@@ -26811,7 +26811,7 @@
       "hatsuon": "トリアエズ",
       "honyaku": {
         "vn": "Tạm thời",
-        "cn": "姑且暂时",
+        "cn": "姑且",
         "uzb": "",
         "uighur": ""
       },
@@ -26871,7 +26871,7 @@
       "hatsuon": "モトモト",
       "honyaku": {
         "vn": "ngay từ đầu",
-        "cn": "同原来一样",
+        "cn": "原来",
         "uzb": "",
         "uighur": ""
       },
@@ -26886,7 +26886,7 @@
       "hatsuon": "モハヤ",
       "honyaku": {
         "vn": "Không còn",
-        "cn": "事到如今已经",
+        "cn": "已经/早已",
         "uzb": "",
         "uighur": ""
       },
@@ -26961,7 +26961,7 @@
       "hatsuon": "ヒトシイ",
       "honyaku": {
         "vn": "Bằng nhau",
-        "cn": "相等的",
+        "cn": "相等",
         "uzb": "",
         "uighur": ""
       },
@@ -26991,7 +26991,7 @@
       "hatsuon": "タダシイ",
       "honyaku": {
         "vn": "Chính xác",
-        "cn": "正确的",
+        "cn": "正确",
         "uzb": "",
         "uighur": ""
       },
@@ -27021,7 +27021,7 @@
       "hatsuon": "クワシイ",
       "honyaku": {
         "vn": "Chi tiết",
-        "cn": "具体的",
+        "cn": "详细",
         "uzb": "",
         "uighur": ""
       },
@@ -27081,7 +27081,7 @@
       "hatsuon": "ウマイ",
       "honyaku": {
         "vn": "Linh hoạt",
-        "cn": "擅长的",
+        "cn": "高明/巧妙",
         "uzb": "",
         "uighur": ""
       },
@@ -27096,7 +27096,7 @@
       "hatsuon": "オモイ",
       "honyaku": {
         "vn": "Nặng",
-        "cn": "重的",
+        "cn": "重",
         "uzb": "",
         "uighur": ""
       },
@@ -27111,7 +27111,7 @@
       "hatsuon": "スクナイ",
       "honyaku": {
         "vn": "Ít",
-        "cn": "少的",
+        "cn": "少",
         "uzb": "",
         "uighur": ""
       },
@@ -27126,7 +27126,7 @@
       "hatsuon": "ヒロイ",
       "honyaku": {
         "vn": "rộng lớn",
-        "cn": "宽广的",
+        "cn": "宽阔",
         "uzb": "",
         "uighur": ""
       },
@@ -27141,7 +27141,7 @@
       "hatsuon": "ムズカシイ",
       "honyaku": {
         "vn": "Khó",
-        "cn": "困难的",
+        "cn": "困难",
         "uzb": "",
         "uighur": ""
       },
@@ -27156,7 +27156,7 @@
       "hatsuon": "ワルイ",
       "honyaku": {
         "vn": "Xấu",
-        "cn": "糟糕的",
+        "cn": "坏的",
         "uzb": "",
         "uighur": ""
       },
@@ -27201,7 +27201,7 @@
       "hatsuon": "オソイ",
       "honyaku": {
         "vn": "chậm",
-        "cn": "晚的",
+        "cn": "慢的",
         "uzb": "",
         "uighur": ""
       },
@@ -27216,7 +27216,7 @@
       "hatsuon": "ナガタラシイ",
       "honyaku": {
         "vn": "dài dòng",
-        "cn": "冗长的",
+        "cn": "啰嗦",
         "uzb": "",
         "uighur": ""
       },
@@ -27246,7 +27246,7 @@
       "hatsuon": "アカイ",
       "honyaku": {
         "vn": "Đỏ",
-        "cn": "红色的",
+        "cn": "红色",
         "uzb": "",
         "uighur": ""
       },
@@ -27276,7 +27276,7 @@
       "hatsuon": "オカシイ",
       "honyaku": {
         "vn": "kỳ lạ",
-        "cn": "可笑的",
+        "cn": "奇怪的",
         "uzb": "",
         "uighur": ""
       },
@@ -27291,7 +27291,7 @@
       "hatsuon": "オモシロイ",
       "honyaku": {
         "vn": "Thú vị",
-        "cn": "有趣的",
+        "cn": "有趣",
         "uzb": "",
         "uighur": ""
       },
@@ -27336,7 +27336,7 @@
       "hatsuon": "コマカイ",
       "honyaku": {
         "vn": "Chi tiết",
-        "cn": "细致的",
+        "cn": "细小/细致",
         "uzb": "",
         "uighur": ""
       },
@@ -27351,7 +27351,7 @@
       "hatsuon": "ハカナイ",
       "honyaku": {
         "vn": "Hững hờ",
-        "cn": "靠不住的",
+        "cn": "虚幻的",
         "uzb": "",
         "uighur": ""
       },
@@ -27381,7 +27381,7 @@
       "hatsuon": "ヒラタイ",
       "honyaku": {
         "vn": "Phẳng",
-        "cn": "平坦的",
+        "cn": "平易/平坦的",
         "uzb": "",
         "uighur": ""
       },
@@ -27411,7 +27411,7 @@
       "hatsuon": "ユルイ",
       "honyaku": {
         "vn": "Thong thả",
-        "cn": "松的",
+        "cn": "缓慢的/不浓",
         "uzb": "",
         "uighur": ""
       },
@@ -27426,7 +27426,7 @@
       "hatsuon": "ドウヨウ",
       "honyaku": {
         "vn": "Tương tự",
-        "cn": "",
+        "cn": "同样",
         "uzb": "",
         "uighur": ""
       },
@@ -27441,7 +27441,7 @@
       "hatsuon": "オナジ",
       "honyaku": {
         "vn": "Cùng một",
-        "cn": "",
+        "cn": "相同",
         "uzb": "",
         "uighur": ""
       },
@@ -27456,7 +27456,7 @@
       "hatsuon": "ジュウヨウ",
       "honyaku": {
         "vn": "Quan trọng",
-        "cn": "",
+        "cn": "重要",
         "uzb": "",
         "uighur": ""
       },
@@ -27471,7 +27471,7 @@
       "hatsuon": "スキ",
       "honyaku": {
         "vn": "Thích",
-        "cn": "",
+        "cn": "喜欢",
         "uzb": "",
         "uighur": ""
       },
@@ -27486,7 +27486,7 @@
       "hatsuon": "カノウ",
       "honyaku": {
         "vn": "Có thể",
-        "cn": "",
+        "cn": "可能",
         "uzb": "",
         "uighur": ""
       },
@@ -27501,7 +27501,7 @@
       "hatsuon": "イロイロ",
       "honyaku": {
         "vn": "Cái nọ cái này",
-        "cn": "",
+        "cn": "各种各样",
         "uzb": "",
         "uighur": ""
       },
@@ -27516,7 +27516,7 @@
       "hatsuon": "アイマイ",
       "honyaku": {
         "vn": "Mơ hồ",
-        "cn": "",
+        "cn": "爱昧不清",
         "uzb": "",
         "uighur": ""
       },
@@ -27531,7 +27531,7 @@
       "hatsuon": "タンジュン",
       "honyaku": {
         "vn": "Đơn giản",
-        "cn": "",
+        "cn": "单纯",
         "uzb": "",
         "uighur": ""
       },
@@ -27546,7 +27546,7 @@
       "hatsuon": "カンタン",
       "honyaku": {
         "vn": "Dễ dàng",
-        "cn": "",
+        "cn": "简单",
         "uzb": "",
         "uighur": ""
       },
@@ -27561,7 +27561,7 @@
       "hatsuon": "タンドク",
       "honyaku": {
         "vn": "Đơn độc",
-        "cn": "",
+        "cn": "单独",
         "uzb": "",
         "uighur": ""
       },
@@ -27576,7 +27576,7 @@
       "hatsuon": "トクベツ",
       "honyaku": {
         "vn": "Đặc biệt",
-        "cn": "",
+        "cn": "特别",
         "uzb": "",
         "uighur": ""
       },
@@ -27591,7 +27591,7 @@
       "hatsuon": "フヨウ",
       "honyaku": {
         "vn": "Không cần thiết",
-        "cn": "",
+        "cn": "不要",
         "uzb": "",
         "uighur": ""
       },
@@ -27606,7 +27606,7 @@
       "hatsuon": "ゲンミツ",
       "honyaku": {
         "vn": "cứng nhắc",
-        "cn": "",
+        "cn": "严密",
         "uzb": "",
         "uighur": ""
       },
@@ -27621,7 +27621,7 @@
       "hatsuon": "テキセツ",
       "honyaku": {
         "vn": "Thích hợp",
-        "cn": "",
+        "cn": "恰当，适当",
         "uzb": "",
         "uighur": ""
       },
@@ -27636,7 +27636,7 @@
       "hatsuon": "ベツベツ",
       "honyaku": {
         "vn": "Riêng rẽ",
-        "cn": "",
+        "cn": "各自分开",
         "uzb": "",
         "uighur": ""
       },
@@ -27651,7 +27651,7 @@
       "hatsuon": "メイカク",
       "honyaku": {
         "vn": "Rõ ràng",
-        "cn": "",
+        "cn": "明确",
         "uzb": "",
         "uighur": ""
       },
@@ -27666,7 +27666,7 @@
       "hatsuon": "ユウコウ",
       "honyaku": {
         "vn": "Lợi hại",
-        "cn": "",
+        "cn": "有效",
         "uzb": "",
         "uighur": ""
       },
@@ -27681,7 +27681,7 @@
       "hatsuon": "アラタ",
       "honyaku": {
         "vn": "Mới",
-        "cn": "",
+        "cn": "新的",
         "uzb": "",
         "uighur": ""
       },
@@ -27696,7 +27696,7 @@
       "hatsuon": "タイヘン",
       "honyaku": {
         "vn": "Rất khó khăn",
-        "cn": "",
+        "cn": "费劲",
         "uzb": "",
         "uighur": ""
       },
@@ -27711,7 +27711,7 @@
       "hatsuon": "タクサン",
       "honyaku": {
         "vn": "Nhiều",
-        "cn": "",
+        "cn": "很多",
         "uzb": "",
         "uighur": ""
       },
@@ -27726,7 +27726,7 @@
       "hatsuon": "タンイツ",
       "honyaku": {
         "vn": "Một cách",
-        "cn": "",
+        "cn": "单一",
         "uzb": "",
         "uighur": ""
       },
@@ -27741,7 +27741,7 @@
       "hatsuon": "テミジカ",
       "honyaku": {
         "vn": "Ngắn gọn",
-        "cn": "",
+        "cn": "简略",
         "uzb": "",
         "uighur": ""
       },
@@ -27756,7 +27756,7 @@
       "hatsuon": "ドウイツ",
       "honyaku": {
         "vn": "Cùng một",
-        "cn": "",
+        "cn": "同样",
         "uzb": "",
         "uighur": ""
       },
@@ -27771,7 +27771,7 @@
       "hatsuon": "バラバラ",
       "honyaku": {
         "vn": "Rời rạc",
-        "cn": "",
+        "cn": "散乱",
         "uzb": "",
         "uighur": ""
       },
@@ -27786,7 +27786,7 @@
       "hatsuon": "ジュウブン",
       "honyaku": {
         "vn": "Đủ",
-        "cn": "",
+        "cn": "充分",
         "uzb": "",
         "uighur": ""
       },
@@ -27801,7 +27801,7 @@
       "hatsuon": "ジョウズ",
       "honyaku": {
         "vn": "Tốt",
-        "cn": "",
+        "cn": "高巧",
         "uzb": "",
         "uighur": ""
       },
@@ -27816,7 +27816,7 @@
       "hatsuon": "スナオ",
       "honyaku": {
         "vn": "Một cách triệt để",
-        "cn": "",
+        "cn": "坦率",
         "uzb": "",
         "uighur": ""
       },
@@ -27831,7 +27831,7 @@
       "hatsuon": "ダイジョウブ",
       "honyaku": {
         "vn": "Không sao",
-        "cn": "",
+        "cn": "不要紧",
         "uzb": "",
         "uighur": ""
       },
@@ -27846,7 +27846,7 @@
       "hatsuon": "ドウトウ",
       "honyaku": {
         "vn": "Tương đương",
-        "cn": "",
+        "cn": "同等",
         "uzb": "",
         "uighur": ""
       },
@@ -27861,7 +27861,7 @@
       "hatsuon": "ヒジョウ",
       "honyaku": {
         "vn": "Rất nhiều",
-        "cn": "",
+        "cn": "紧急",
         "uzb": "",
         "uighur": ""
       },
@@ -27876,7 +27876,7 @@
       "hatsuon": "ミッセツ",
       "honyaku": {
         "vn": "gần",
-        "cn": "",
+        "cn": "密切/紧连",
         "uzb": "",
         "uighur": ""
       },
@@ -27891,7 +27891,7 @@
       "hatsuon": "ヨケイ",
       "honyaku": {
         "vn": "Thừa",
-        "cn": "",
+        "cn": "多余",
         "uzb": "",
         "uighur": ""
       },
@@ -27906,7 +27906,7 @@
       "hatsuon": "アキラカ",
       "honyaku": {
         "vn": "Rõ ràng",
-        "cn": "",
+        "cn": "清楚/显然",
         "uzb": "",
         "uighur": ""
       },
@@ -27921,7 +27921,7 @@
       "hatsuon": "アタリマエ",
       "honyaku": {
         "vn": "Đương nhiên",
-        "cn": "",
+        "cn": "理所当然",
         "uzb": "",
         "uighur": ""
       },
@@ -27936,7 +27936,7 @@
       "hatsuon": "オオキメ",
       "honyaku": {
         "vn": "To hơn",
-        "cn": "",
+        "cn": "大的",
         "uzb": "",
         "uighur": ""
       },
@@ -27951,7 +27951,7 @@
       "hatsuon": "オオマカ",
       "honyaku": {
         "vn": "Nói chung",
-        "cn": "",
+        "cn": "大方/粗略",
         "uzb": "",
         "uighur": ""
       },
@@ -27966,7 +27966,7 @@
       "hatsuon": "カンゼン",
       "honyaku": {
         "vn": "Hoàn toàn",
-        "cn": "",
+        "cn": "完全",
         "uzb": "",
         "uighur": ""
       },
@@ -27981,7 +27981,7 @@
       "hatsuon": "カンリャク",
       "honyaku": {
         "vn": "Đơn giản",
-        "cn": "",
+        "cn": "简略",
         "uzb": "",
         "uighur": ""
       },
@@ -27996,7 +27996,7 @@
       "hatsuon": "キミョウ",
       "honyaku": {
         "vn": "Kỳ lạ",
-        "cn": "",
+        "cn": "奇妙",
         "uzb": "",
         "uighur": ""
       },
@@ -28011,7 +28011,7 @@
       "hatsuon": "サイシン",
       "honyaku": {
         "vn": "cẩn thận",
-        "cn": "",
+        "cn": "细心",
         "uzb": "",
         "uighur": ""
       },
@@ -28026,7 +28026,7 @@
       "hatsuon": "シゼン",
       "honyaku": {
         "vn": "Tự nhiên",
-        "cn": "",
+        "cn": "自然",
         "uzb": "",
         "uighur": ""
       },
@@ -28041,7 +28041,7 @@
       "hatsuon": "スムーズ",
       "honyaku": {
         "vn": "Mượt mà",
-        "cn": "",
+        "cn": "光滑/顺畅",
         "uzb": "",
         "uighur": ""
       },
@@ -28056,7 +28056,7 @@
       "hatsuon": "セイシキ",
       "honyaku": {
         "vn": "Chính thức",
-        "cn": "",
+        "cn": "正式",
         "uzb": "",
         "uighur": ""
       },
@@ -28071,7 +28071,7 @@
       "hatsuon": "ソックリ",
       "honyaku": {
         "vn": "Giống hệt",
-        "cn": "",
+        "cn": "一模一样",
         "uzb": "",
         "uighur": ""
       },
@@ -28086,7 +28086,7 @@
       "hatsuon": "ディレクト",
       "honyaku": {
         "vn": "Ổ đĩa",
-        "cn": "",
+        "cn": "目录",
         "uzb": "",
         "uighur": ""
       },
@@ -28101,7 +28101,7 @@
       "hatsuon": "トウゼン",
       "honyaku": {
         "vn": "Tất nhiên",
-        "cn": "",
+        "cn": "当然",
         "uzb": "",
         "uighur": ""
       },
@@ -28116,7 +28116,7 @@
       "hatsuon": "ドクジ",
       "honyaku": {
         "vn": "Độc đáo",
-        "cn": "",
+        "cn": "独自",
         "uzb": "",
         "uighur": ""
       },
@@ -28131,7 +28131,7 @@
       "hatsuon": "トクシュ",
       "honyaku": {
         "vn": "Đặc biệt",
-        "cn": "",
+        "cn": "特殊",
         "uzb": "",
         "uighur": ""
       },
@@ -28146,7 +28146,7 @@
       "hatsuon": "ノウコウ",
       "honyaku": {
         "vn": "Đậm đặc",
-        "cn": "",
+        "cn": "浓厚",
         "uzb": "",
         "uighur": ""
       },
@@ -28161,7 +28161,7 @@
       "hatsuon": "ピッタリ",
       "honyaku": {
         "vn": "Hoàn hảo",
-        "cn": "",
+        "cn": "正好",
         "uzb": "",
         "uighur": ""
       },
@@ -28176,7 +28176,7 @@
       "hatsuon": "フカケツ",
       "honyaku": {
         "vn": "không thể thiếu",
-        "cn": "",
+        "cn": "不可缺少",
         "uzb": "",
         "uighur": ""
       },
@@ -28191,7 +28191,7 @@
       "hatsuon": "ブナン",
       "honyaku": {
         "vn": "Vô hại",
-        "cn": "",
+        "cn": "平安无难",
         "uzb": "",
         "uighur": ""
       },
@@ -28206,7 +28206,7 @@
       "hatsuon": "ホウテキ",
       "honyaku": {
         "vn": "Pháp lý",
-        "cn": "",
+        "cn": "法律上的",
         "uzb": "",
         "uighur": ""
       },
@@ -28221,7 +28221,7 @@
       "hatsuon": "メイハク",
       "honyaku": {
         "vn": "Rõ ràng",
-        "cn": "",
+        "cn": "明显",
         "uzb": "",
         "uighur": ""
       },
@@ -28236,7 +28236,7 @@
       "hatsuon": "ヨウイ",
       "honyaku": {
         "vn": "DỄ DÀNG",
-        "cn": "",
+        "cn": "容易",
         "uzb": "",
         "uighur": ""
       },
@@ -28251,7 +28251,7 @@
       "hatsuon": "ワズカ",
       "honyaku": {
         "vn": "Chỉ một chút",
-        "cn": "",
+        "cn": "稍微的/仅",
         "uzb": "",
         "uighur": ""
       },
@@ -28281,7 +28281,7 @@
       "hatsuon": "マタ",
       "honyaku": {
         "vn": "lại",
-        "cn": "又",
+        "cn": "还",
         "uzb": "",
         "uighur": ""
       },
@@ -28296,7 +28296,7 @@
       "hatsuon": "ナオ",
       "honyaku": {
         "vn": "Nhắc lại",
-        "cn": "再者",
+        "cn": "依然/愈发",
         "uzb": "",
         "uighur": ""
       },
@@ -28386,7 +28386,7 @@
       "hatsuon": "イッポウ",
       "honyaku": {
         "vn": "Một phía",
-        "cn": "一方面",
+        "cn": "另一方面",
         "uzb": "",
         "uighur": ""
       },
@@ -28431,7 +28431,7 @@
       "hatsuon": "サラニ",
       "honyaku": {
         "vn": "Ngoài ra",
-        "cn": "进一步",
+        "cn": "更加的",
         "uzb": "",
         "uighur": ""
       },
@@ -29697,7 +29697,7 @@
       },
       "setsumei": {
         "jp": "排他的論理和は、2つの入力が与えられたとき、どちらか一方が真（True）であるときに真を返し、それ以外は偽（False）を返す論理演算です。例えば、入力がAがTrueでBがFalseの場合、排他的論理和はTrueを返します。逆に、AがFalseでBがTrueの場合もTrueを返します。しかし、AとBの両方がTrueもしくは両方がFalseの場合はFalseを返します。排他的論理和は、2つの条件が同時に成り立たないときに真を返すため、「どちらか一方のみが成り立つ場合に真」という条件を表現する際に使われます。",
-        "vn": "Phép toán logic XOR là phép toán logic trả về giá trị True khi chỉ một trong hai đầu vào là True và trả về giá trị False trong trường hợp còn lại.Ví dụ, nếu đầu vào là A là True và B là False, phép toán logic XOR sẽ trả về giá trị True. Ngược lại, nếu A là False và B là True, phép toán cũng sẽ trả về giá trị True. Tuy nhiên, nếu cả A và B đều là True hoặc cả hai đều là False, phép toán sẽ trả về giá trị False.Phép toán logic XOR được sử dụng để biểu diễn điều kiện chỉ một trong hai đúng khi hai điều kiện không đồng thời xảy ra."
+        "vn": "Phép toán logic XOR là phép toán logic trả về giá trị True khi chỉ một trong hai đầu vào là True và trả về giá trị False trong trường hợp còn lại.\n\nVí dụ, nếu đầu vào là A là True và B là False, phép toán logic XOR sẽ trả về giá trị True. Ngược lại, nếu A là False và B là True, phép toán cũng sẽ trả về giá trị True. Tuy nhiên, nếu cả A và B đều là True hoặc cả hai đều là False, phép toán sẽ trả về giá trị False.\n\nPhép toán logic XOR được sử dụng để biểu diễn điều kiện chỉ một trong hai đúng khi hai điều kiện không đồng thời xảy ra."
       }
     },
     {

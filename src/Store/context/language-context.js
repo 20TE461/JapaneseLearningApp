@@ -13,7 +13,7 @@ export const LanguageCtx = createContext({
       label: 'uzb',
     },
     {
-      label: 'uighur'
+      label: 'uyghur'
     }
   ],
   currentLang: null,

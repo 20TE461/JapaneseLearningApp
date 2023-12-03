@@ -23,22 +23,7 @@ export default function BakudanGameScreen({ setGameScreen }) {
   const [alert, setAlert] = useState();
   const timeLimit = 30;
 
-  // useEffect(() => {
-  //   const initAlert = async () => {
-  //     try {
-  //       const { sound } = await Audio.Sound.createAsync(
-  //         require("../../../assets/mixkit-failure-arcade-alert-notification-240.wav")
-  //       );
-  //       setAlert(sound);
-  //     } catch (error) {
-  //       console.error(error);
-  //     }
-  //   };
-  //   initAlert();
-  // }, []);
-
   useEffect(() => {
-    console.log('in');
     return alert
       ? () => {
           alert.unloadAsync();

@@ -21,8 +21,6 @@ function SearchOutput({
   const favoriteWordIds = favoriteCtx.favoriteWordIds;
   const hasMemoIds = favoriteCtx.hasMemoIds;
 
-  console.log(memoK);
-
   async function getSearchNum(searchK) {
     try {
       const n = JSON.parse(await AsyncStorage.getItem(searchK));
@@ -71,7 +69,13 @@ function SearchOutput({
           </View>
         </View>
 
-        <View style={{ flexDirection: "row", justifyContent: "center", alignItems: "center" }}>
+        <View
+          style={{
+            flexDirection: "row",
+            justifyContent: "center",
+            alignItems: "center",
+          }}
+        >
           <Text style={styles.outputTile.detailIcon}>{searchNum}</Text>
           <AntDesign name="eyeo" style={styles.outputTile.detailIcon} />
           <AntDesign name="right" style={styles.outputTile.detailIcon} />
